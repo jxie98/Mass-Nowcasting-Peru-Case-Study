@@ -20,6 +20,8 @@
 #   fig4_predictors.png         predictor heatmap (copy from 3_rhs_selection.r)
 #   fig5_by_cutoff.png          error by the quarter the nowcast is made
 #   fig6_setups_by_sector.png   annex: pooled vs sector vs single by sector
+#   fig7-11_nowcasts_<sector>.png  one chart per sector: official value vs
+#                               nowcast of each method, 10 indicator panels
 #
 # Metric: for each target, RMSE (MAE) over its quarterly nowcasts divided by
 # the RMSE (MAE) of the naive forecast (= last year's value of the target, as
@@ -280,6 +282,59 @@ p6 <- ggplot(f6, aes(x = value, y = sector_lab, colour = model)) +
        caption = CAPTION_SRC) +
   theme_blog()
 save_fig(p6, "fig6_setups_by_sector.png", h = 5.5)
+
+# Figs 7-11: official value vs nowcast of every method, one chart per sector
+# (10 panels = 10 indicators). Test years 2020-25: nowcast made at end-December
+# of the target year. Years without an official value yet (2025 for some
+# indicators, 2026): latest available nowcast.
+SHOW_FROM <- 2012L
+VAL_START_PLOT <- 2020L
+PLOT_MODELS <- c(LSTMS, "lasso")
+UNIT <- c(level = "as published", pct = "% growth", pp = "change, pp")
+pred_q4 <- val %>% filter(model %in% PLOT_MODELS, format(as.Date(cutoff), "%m") == "12") %>%
+  select(model, target, target_year, pred)
+pred_new <- nowcasts %>% filter(model %in% PLOT_MODELS) %>% select(model, target, target_year, pred)
+stopifnot(nrow(inner_join(pred_q4, pred_new, by = c("model", "target", "target_year"))) == 0)
+pred_plot <- bind_rows(pred_q4, pred_new) %>% lab_models(PLOT_MODELS)
+actual_plot <- bind_rows(lapply(targets$code, function(t)
+  tibble(target = t, target_year = targets_wide$year, actual = targets_wide[[t]]))) %>%
+  filter(target_year >= SHOW_FROM, !is.na(actual))
+panel_lab <- targets %>%
+  transmute(target = code, sector,
+            lab = paste0(str_wrap(str_remove(name, " \\(modeled ILO estimate\\)"), 48), "\n[",
+                         UNIT[transform], "]"))
+x_max <- max(pred_plot$target_year)
+
+for (s in names(SECTOR_LABELS)) {
+  lv <- panel_lab %>% filter(sector == s)
+  act <- actual_plot %>% inner_join(lv, by = "target") %>% mutate(lab = factor(lab, levels = lv$lab))
+  prd <- pred_plot %>% inner_join(lv, by = "target") %>% mutate(lab = factor(lab, levels = lv$lab))
+  p <- ggplot() +
+    annotate("rect", xmin = VAL_START_PLOT - 0.5, xmax = x_max + 0.5, ymin = -Inf, ymax = Inf,
+             fill = "#f0efec") +
+    geom_line(data = act, aes(target_year, actual), colour = COL$ink, linewidth = 0.7) +
+    geom_point(data = act, aes(target_year, actual), colour = COL$ink, size = 1.3) +
+    geom_line(data = prd, aes(target_year, pred, colour = model), linewidth = 0.5, alpha = 0.8) +
+    geom_point(data = prd, aes(target_year, pred, colour = model), size = 1.9) +
+    facet_wrap(~lab, ncol = 2, scales = "free_y") +
+    scale_colour_manual(values = MODEL_COL) +
+    scale_x_continuous(breaks = seq(SHOW_FROM, x_max, 2), limits = c(SHOW_FROM - 0.3, x_max + 0.5)) +
+    scale_y_continuous(labels = scales::label_number(scale_cut = scales::cut_short_scale())) +
+    guides(colour = guide_legend(ncol = 2)) +
+    labs(x = NULL, y = NULL,
+         title = paste0(SECTOR_LABELS[s], ": official values and nowcasts, Peru"),
+         subtitle = paste0("Black line: official WDI value. Dots: nowcast by each method; shaded area = test period (",
+                           VAL_START_PLOT, "-25) and ", x_max, " nowcast."),
+         caption = paste("Nowcast made at end-December of each year; for years without an official value yet,",
+                         "the latest available nowcast (end-September 2026 data).", CAPTION_SRC, sep = "\n")) +
+    theme_blog() +
+    theme(panel.grid.major.y = element_line(colour = COL$grid, linewidth = 0.3),
+          panel.grid.major.x = element_blank(),
+          strip.text = element_text(colour = COL$ink, face = "bold", hjust = 0, size = 9.5),
+          axis.text = element_text(size = 8.5))
+  save_fig(p, sprintf("fig%d_nowcasts_%s_%s.png", 6 + match(s, names(SECTOR_LABELS)), s,
+                      tolower(gsub("[^A-Za-z]+", "_", SECTOR_LABELS[s]))), w = 10, h = 12.5)
+}
 
 # Superseded figure from the earlier version of this script
 unlink(file.path(out_dir, "fig1_pooled_sector_single.png"))
