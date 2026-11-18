@@ -1,0 +1,371 @@
+model,target,cutoff,target_year,pred,last_year,last_value,sector,name,transform
+lasso,BN.CAB.XOKA.GD.ZS,2026-09-30,2026,1.3678368328451798,2025,1.1964026837102555,C,Current account balance (% of GDP),pp
+lasso,BX.KLT.DINV.WD.GD.ZS,2025-12-31,2025,0.4460725157555652,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+lasso,BX.KLT.DINV.WD.GD.ZS,2026-09-30,2026,0.849445712738877,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+lasso,BX.TRF.PWKR.CD.DT,2025-12-31,2025,10.084139641013014,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+lasso,BX.TRF.PWKR.CD.DT,2026-09-30,2026,14.006730819017717,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+lasso,CM.MKT.LCAP.GD.ZS,2026-09-30,2026,-0.9298555231401672,2025,3.231958261855983,B,Market capitalization of listed domestic companies (% of GDP),pp
+lasso,DT.DOD.DECT.GN.ZS,2025-12-31,2025,-0.06766880116228424,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+lasso,DT.DOD.DECT.GN.ZS,2026-09-30,2026,-3.2746794118168387,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+lasso,DT.DOD.DSTC.IR.ZS,2025-12-31,2025,-2.2915784952262856,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+lasso,DT.DOD.DSTC.IR.ZS,2026-09-30,2026,-1.1974943268410827,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+lasso,FB.AST.NPER.ZS,2025-12-31,2025,0.2954835223266811,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+lasso,FB.AST.NPER.ZS,2026-09-30,2026,0.26671916735078394,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+lasso,FB.CBK.BRWR.P3,2025-12-31,2025,9.045870560127105,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+lasso,FB.CBK.BRWR.P3,2026-09-30,2026,-2.2590714341256826,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+lasso,FI.RES.TOTL.CD,2026-09-30,2026,7.525297043562261,2025,13.16173224080962,B,"Total reserves (includes gold, current US$)",pct
+lasso,FM.AST.DOMS.CN,2025-12-31,2025,4.362515216603722,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+lasso,FM.AST.DOMS.CN,2026-09-30,2026,10.85658585672206,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+lasso,FP.CPI.TOTL.ZG,2026-09-30,2026,3.6369580243616433,2025,1.531254503142729,B,"Inflation, consumer prices (annual %)",level
+lasso,FS.AST.CGOV.GD.ZS,2025-12-31,2025,-0.6086182105362051,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+lasso,FS.AST.CGOV.GD.ZS,2026-09-30,2026,0.5885035729444011,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+lasso,FS.AST.PRVT.GD.ZS,2025-12-31,2025,-0.3446186449663021,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+lasso,FS.AST.PRVT.GD.ZS,2026-09-30,2026,0.7384565946627251,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+lasso,IC.BUS.NDNS.ZS,2025-12-31,2025,11.656289924432272,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+lasso,IC.BUS.NDNS.ZS,2026-09-30,2026,12.317642090102256,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+lasso,NE.CON.GOVT.KD.ZG,2026-09-30,2026,4.089948244336496,2025,3.4477331880636797,A,General government final consumption expenditure (annual % growth),level
+lasso,NE.CON.GOVT.ZS,2026-09-30,2026,-0.5367719450680206,2025,-0.2952022221016417,A,General government final consumption expenditure (% of GDP),pp
+lasso,NE.CON.PRVT.ZS,2026-09-30,2026,-2.212021221377785,2025,-2.3527665282026646,A,Households and NPISHs final consumption expenditure (% of GDP),pp
+lasso,NE.GDI.FTOT.KD.ZG,2026-09-30,2026,24.236699210043803,2025,9.851523104597334,A,Gross fixed capital formation (annual % growth),level
+lasso,NE.RSB.GNFS.ZS,2026-09-30,2026,-0.1849524794685256,2025,2.0374512482379012,A,External balance on goods and services (% of GDP),pp
+lasso,NV.AGR.TOTL.KD.ZG,2026-09-30,2026,5.897120326087587,2025,4.650181449911386,A,"Agriculture, forestry, and fishing, value added (annual % growth)",level
+lasso,NV.IND.TOTL.ZS,2025-12-31,2025,1.1835888069749505,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+lasso,NV.IND.TOTL.ZS,2026-09-30,2026,1.4254048178313123,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+lasso,NY.GDP.MKTP.KD.ZG,2026-09-30,2026,8.627773597184982,2025,3.4305639512446646,A,GDP growth (annual %),level
+lasso,NY.GNP.PCAP.CD,2026-09-30,2026,17.5541869551621,2025,11.290173020196178,A,"GNI per capita, Atlas method (current US$)",pct
+lasso,NY.GNS.ICTR.ZS,2026-09-30,2026,1.9380080616168425,2025,1.4224864499165228,A,Gross savings (% of GDP),pp
+lasso,PA.NUS.FCRF,2026-09-30,2026,-2.890558388827243,2025,-5.067949120494173,B,"Official exchange rate (LCU per US$, period average)",pct
+lasso,SE.XPD.TOTL.GD.ZS,2025-12-31,2025,-0.03185846980314492,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+lasso,SE.XPD.TOTL.GD.ZS,2026-09-30,2026,0.11893849395569898,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+lasso,SH.XPD.GHED.GD.ZS,2025-12-31,2025,0.06005172537375058,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+lasso,SH.XPD.GHED.GD.ZS,2026-09-30,2026,0.05839444506347857,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+lasso,SH.XPD.OOPC.CH.ZS,2025-12-31,2025,-0.7577090315015046,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+lasso,SH.XPD.OOPC.CH.ZS,2026-09-30,2026,-1.263278137523708,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+lasso,SI.DST.50MD,2025-12-31,2025,-0.05618049446031153,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+lasso,SI.DST.50MD,2026-09-30,2026,-0.34423037090312664,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+lasso,SI.DST.FRST.20,2025-12-31,2025,0.07321101822246659,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+lasso,SI.DST.FRST.20,2026-09-30,2026,0.12878068152703873,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+lasso,SI.POV.DDAY,2025-12-31,2025,-0.9371773288951248,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+lasso,SI.POV.DDAY,2026-09-30,2026,-0.8752136911539663,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+lasso,SI.POV.GINI,2025-12-31,2025,-0.10885310185371716,2024,-0.6000000000000014,E,Gini index,pp
+lasso,SI.POV.GINI,2026-09-30,2026,-0.5314875173853764,2024,-0.6000000000000014,E,Gini index,pp
+lasso,SI.POV.LMIC,2025-12-31,2025,-1.0690584800368683,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+lasso,SI.POV.LMIC,2026-09-30,2026,-1.02655392787171,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+lasso,SI.POV.UMIC,2025-12-31,2025,-1.0082461825387083,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+lasso,SI.POV.UMIC,2026-09-30,2026,-0.9158967832759488,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+lasso,SL.AGR.EMPL.ZS,2026-09-30,2026,-0.6027527820251626,2025,-0.2847133220844995,D,Employment in agriculture (% of total employment) (modeled ILO estimate),pp
+lasso,SL.EMP.MPYR.ZS,2026-09-30,2026,0.07344015693001457,2025,0.016670235977009895,D,"Employers, total (% of total employment) (modeled ILO estimate)",pp
+lasso,SL.EMP.VULN.ZS,2026-09-30,2026,-0.5105698197810054,2025,-0.3840281555535938,D,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",pp
+lasso,SL.GDP.PCAP.EM.KD,2025-12-31,2025,2.2518451104265615,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+lasso,SL.GDP.PCAP.EM.KD,2026-09-30,2026,1.5346525528350463,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+lasso,SL.TLF.CACT.FM.NE.ZS,2026-09-30,2026,-0.00973696452942213,2025,-0.4835023496782327,D,Ratio of female to male labor force participation rate (%) (national estimate),pp
+lasso,SL.TLF.CACT.NE.ZS,2026-09-30,2026,0.4213624985738298,2025,-0.8400000000000034,D,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",pp
+lasso,SL.TLF.PART.ZS,2026-09-30,2026,0.7129314966110725,2025,-0.867999999999995,D,"Part time employment, total (% of total employment)",pp
+lasso,SL.TLF.TOTL.IN,2026-09-30,2026,1.8082701239324428,2025,1.5766608718106971,D,"Labor force, total",pct
+lasso,SL.UEM.TOTL.NE.ZS,2026-09-30,2026,0.28183893707989394,2025,-0.5389999999999997,D,"Unemployment, total (% of total labor force) (national estimate)",pp
+lasso,SM.POP.NETM,2026-09-30,2026,904.9709626224648,2025,11931,D,Net migration,level
+lasso,SN.ITK.DEFC.ZS,2025-12-31,2025,-0.20981827482586,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+lasso,SN.ITK.DEFC.ZS,2026-09-30,2026,-0.09456455759127604,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+lasso,TM.VAL.MRCH.CD.WT,2026-09-30,2026,22.09671522665864,2025,9.384336014964699,C,Merchandise imports (current US$),pct
+lasso,TT.PRI.MRCH.XD.WD,2025-12-31,2025,8.584712282798666,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+lasso,TT.PRI.MRCH.XD.WD,2026-09-30,2026,29.34826140320458,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+lasso,TX.VAL.MMTL.ZS.UN,2025-12-31,2025,1.6766169144713845,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+lasso,TX.VAL.MMTL.ZS.UN,2026-09-30,2026,3.2278693846837605,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+lasso,TX.VAL.MRCH.CD.WT,2026-09-30,2026,34.35292962819314,2025,10.146875571453002,C,Merchandise exports (current US$),pct
+lasso,TX.VAL.SERV.CD.WT,2026-09-30,2026,15.560489819729014,2025,8.638966406942702,C,Commercial service exports (current US$),pct
+ols,BN.CAB.XOKA.GD.ZS,2026-09-30,2026,1.390661951522304,2025,1.1964026837102555,C,Current account balance (% of GDP),pp
+ols,BX.KLT.DINV.WD.GD.ZS,2025-12-31,2025,0.444684830484265,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+ols,BX.KLT.DINV.WD.GD.ZS,2026-09-30,2026,1.05694269567609,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+ols,BX.TRF.PWKR.CD.DT,2025-12-31,2025,10.20897513087963,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+ols,BX.TRF.PWKR.CD.DT,2026-09-30,2026,13.568574324797456,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+ols,CM.MKT.LCAP.GD.ZS,2026-09-30,2026,-0.6407598238719101,2025,3.231958261855983,B,Market capitalization of listed domestic companies (% of GDP),pp
+ols,DT.DOD.DECT.GN.ZS,2025-12-31,2025,0.14214925648970264,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+ols,DT.DOD.DECT.GN.ZS,2026-09-30,2026,-3.1545476068450524,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+ols,DT.DOD.DSTC.IR.ZS,2025-12-31,2025,-2.0083999793760503,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+ols,DT.DOD.DSTC.IR.ZS,2026-09-30,2026,-1.284789011360972,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+ols,FB.AST.NPER.ZS,2025-12-31,2025,0.2748077478604683,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+ols,FB.AST.NPER.ZS,2026-09-30,2026,0.2621537285548788,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+ols,FB.CBK.BRWR.P3,2025-12-31,2025,8.83074188396903,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+ols,FB.CBK.BRWR.P3,2026-09-30,2026,-3.074795477957652,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+ols,FI.RES.TOTL.CD,2026-09-30,2026,7.447354504227334,2025,13.16173224080962,B,"Total reserves (includes gold, current US$)",pct
+ols,FM.AST.DOMS.CN,2025-12-31,2025,4.083016561232088,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+ols,FM.AST.DOMS.CN,2026-09-30,2026,10.240089164458771,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+ols,FP.CPI.TOTL.ZG,2026-09-30,2026,3.8061005016885168,2025,1.531254503142729,B,"Inflation, consumer prices (annual %)",level
+ols,FS.AST.CGOV.GD.ZS,2025-12-31,2025,-0.6917484001071161,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+ols,FS.AST.CGOV.GD.ZS,2026-09-30,2026,1.0060312658314297,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+ols,FS.AST.PRVT.GD.ZS,2025-12-31,2025,-0.37002536155690713,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+ols,FS.AST.PRVT.GD.ZS,2026-09-30,2026,0.724753370587725,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+ols,IC.BUS.NDNS.ZS,2025-12-31,2025,14.023946132107572,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+ols,IC.BUS.NDNS.ZS,2026-09-30,2026,13.588441904198133,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+ols,NE.CON.GOVT.KD.ZG,2026-09-30,2026,3.8551817848719514,2025,3.4477331880636797,A,General government final consumption expenditure (annual % growth),level
+ols,NE.CON.GOVT.ZS,2026-09-30,2026,-0.541822384064595,2025,-0.2952022221016417,A,General government final consumption expenditure (% of GDP),pp
+ols,NE.CON.PRVT.ZS,2026-09-30,2026,-2.1787627925051507,2025,-2.3527665282026646,A,Households and NPISHs final consumption expenditure (% of GDP),pp
+ols,NE.GDI.FTOT.KD.ZG,2026-09-30,2026,24.362903381822267,2025,9.851523104597334,A,Gross fixed capital formation (annual % growth),level
+ols,NE.RSB.GNFS.ZS,2026-09-30,2026,-0.17467872033522727,2025,2.0374512482379012,A,External balance on goods and services (% of GDP),pp
+ols,NV.AGR.TOTL.KD.ZG,2026-09-30,2026,6.54597461743119,2025,4.650181449911386,A,"Agriculture, forestry, and fishing, value added (annual % growth)",level
+ols,NV.IND.TOTL.ZS,2025-12-31,2025,1.199388733573757,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+ols,NV.IND.TOTL.ZS,2026-09-30,2026,1.366474669001203,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+ols,NY.GDP.MKTP.KD.ZG,2026-09-30,2026,8.672647424800948,2025,3.4305639512446646,A,GDP growth (annual %),level
+ols,NY.GNP.PCAP.CD,2026-09-30,2026,17.622673999411283,2025,11.290173020196178,A,"GNI per capita, Atlas method (current US$)",pct
+ols,NY.GNS.ICTR.ZS,2026-09-30,2026,2.0039808324397925,2025,1.4224864499165228,A,Gross savings (% of GDP),pp
+ols,PA.NUS.FCRF,2026-09-30,2026,-3.603770435866807,2025,-5.067949120494173,B,"Official exchange rate (LCU per US$, period average)",pct
+ols,SE.XPD.TOTL.GD.ZS,2025-12-31,2025,-0.02669252657750535,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+ols,SE.XPD.TOTL.GD.ZS,2026-09-30,2026,0.116622472013403,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+ols,SH.XPD.GHED.GD.ZS,2025-12-31,2025,0.06751776226524137,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+ols,SH.XPD.GHED.GD.ZS,2026-09-30,2026,0.06229078535912724,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+ols,SH.XPD.OOPC.CH.ZS,2025-12-31,2025,-0.5994765869091586,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+ols,SH.XPD.OOPC.CH.ZS,2026-09-30,2026,-1.5457204440793917,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+ols,SI.DST.50MD,2025-12-31,2025,-0.04727202098309752,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+ols,SI.DST.50MD,2026-09-30,2026,-0.3501992702995906,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+ols,SI.DST.FRST.20,2025-12-31,2025,0.08211039561322717,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+ols,SI.DST.FRST.20,2026-09-30,2026,0.14914646020771274,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+ols,SI.POV.DDAY,2025-12-31,2025,-0.9148599606006368,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+ols,SI.POV.DDAY,2026-09-30,2026,-0.8754598282658135,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+ols,SI.POV.GINI,2025-12-31,2025,-0.27215886210301954,2024,-0.6000000000000014,E,Gini index,pp
+ols,SI.POV.GINI,2026-09-30,2026,-0.817773811558913,2024,-0.6000000000000014,E,Gini index,pp
+ols,SI.POV.LMIC,2025-12-31,2025,-1.0456879825633107,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+ols,SI.POV.LMIC,2026-09-30,2026,-1.0269415122518053,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+ols,SI.POV.UMIC,2025-12-31,2025,-0.9981023644785972,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+ols,SI.POV.UMIC,2026-09-30,2026,-0.9110688573505196,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+ols,SL.AGR.EMPL.ZS,2026-09-30,2026,-0.6319312485342568,2025,-0.2847133220844995,D,Employment in agriculture (% of total employment) (modeled ILO estimate),pp
+ols,SL.EMP.MPYR.ZS,2026-09-30,2026,0.07770438808405258,2025,0.016670235977009895,D,"Employers, total (% of total employment) (modeled ILO estimate)",pp
+ols,SL.EMP.VULN.ZS,2026-09-30,2026,-0.5326264909050145,2025,-0.3840281555535938,D,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",pp
+ols,SL.GDP.PCAP.EM.KD,2025-12-31,2025,2.2619494816621,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+ols,SL.GDP.PCAP.EM.KD,2026-09-30,2026,1.6657085527082127,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+ols,SL.TLF.CACT.FM.NE.ZS,2026-09-30,2026,0.07734412419910608,2025,-0.4835023496782327,D,Ratio of female to male labor force participation rate (%) (national estimate),pp
+ols,SL.TLF.CACT.NE.ZS,2026-09-30,2026,0.4766288815079743,2025,-0.8400000000000034,D,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",pp
+ols,SL.TLF.PART.ZS,2026-09-30,2026,0.6411183771609152,2025,-0.867999999999995,D,"Part time employment, total (% of total employment)",pp
+ols,SL.TLF.TOTL.IN,2026-09-30,2026,1.891628514187054,2025,1.5766608718106971,D,"Labor force, total",pct
+ols,SL.UEM.TOTL.NE.ZS,2026-09-30,2026,0.28554793978820736,2025,-0.5389999999999997,D,"Unemployment, total (% of total labor force) (national estimate)",pp
+ols,SM.POP.NETM,2026-09-30,2026,11258.719401405648,2025,11931,D,Net migration,level
+ols,SN.ITK.DEFC.ZS,2025-12-31,2025,-0.1987123435405223,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+ols,SN.ITK.DEFC.ZS,2026-09-30,2026,-0.20451529546261607,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+ols,TM.VAL.MRCH.CD.WT,2026-09-30,2026,22.763107819176177,2025,9.384336014964699,C,Merchandise imports (current US$),pct
+ols,TT.PRI.MRCH.XD.WD,2025-12-31,2025,8.686983769288897,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+ols,TT.PRI.MRCH.XD.WD,2026-09-30,2026,31.58146456815061,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+ols,TX.VAL.MMTL.ZS.UN,2025-12-31,2025,1.489723272131561,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+ols,TX.VAL.MMTL.ZS.UN,2026-09-30,2026,3.464705074617774,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+ols,TX.VAL.MRCH.CD.WT,2026-09-30,2026,34.66871320612724,2025,10.146875571453002,C,Merchandise exports (current US$),pct
+ols,TX.VAL.SERV.CD.WT,2026-09-30,2026,16.528985399771248,2025,8.638966406942702,C,Commercial service exports (current US$),pct
+pooled,BN.CAB.XOKA.GD.ZS,2026-09-30,2026,0.05839376820648061,2025,1.1964026837102555,C,Current account balance (% of GDP),pp
+pooled,BX.KLT.DINV.WD.GD.ZS,2025-12-31,2025,-0.25259735967556535,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+pooled,BX.KLT.DINV.WD.GD.ZS,2026-09-30,2026,-0.15085767018345106,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+pooled,BX.TRF.PWKR.CD.DT,2025-12-31,2025,9.606210057118698,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+pooled,BX.TRF.PWKR.CD.DT,2026-09-30,2026,10.180799954511787,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+pooled,CM.MKT.LCAP.GD.ZS,2026-09-30,2026,-0.42593918989417734,2025,3.231958261855983,B,Market capitalization of listed domestic companies (% of GDP),pp
+pooled,DT.DOD.DECT.GN.ZS,2025-12-31,2025,-1.6188895841194983,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+pooled,DT.DOD.DECT.GN.ZS,2026-09-30,2026,-1.6040422852526703,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+pooled,DT.DOD.DSTC.IR.ZS,2025-12-31,2025,-1.9989130277607785,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+pooled,DT.DOD.DSTC.IR.ZS,2026-09-30,2026,-1.4450446169976263,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+pooled,FB.AST.NPER.ZS,2025-12-31,2025,0.2253405469597659,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+pooled,FB.AST.NPER.ZS,2026-09-30,2026,0.14009014945224788,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+pooled,FB.CBK.BRWR.P3,2025-12-31,2025,4.131191917601693,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+pooled,FB.CBK.BRWR.P3,2026-09-30,2026,5.079895765657919,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+pooled,FI.RES.TOTL.CD,2026-09-30,2026,8.522127641183086,2025,13.16173224080962,B,"Total reserves (includes gold, current US$)",pct
+pooled,FM.AST.DOMS.CN,2025-12-31,2025,9.048369280865028,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+pooled,FM.AST.DOMS.CN,2026-09-30,2026,9.219485565844051,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+pooled,FP.CPI.TOTL.ZG,2026-09-30,2026,2.721181287551009,2025,1.531254503142729,B,"Inflation, consumer prices (annual %)",level
+pooled,FS.AST.CGOV.GD.ZS,2025-12-31,2025,-0.1768411334157826,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+pooled,FS.AST.CGOV.GD.ZS,2026-09-30,2026,-0.44062253260592465,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+pooled,FS.AST.PRVT.GD.ZS,2025-12-31,2025,0.06793314799682226,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+pooled,FS.AST.PRVT.GD.ZS,2026-09-30,2026,0.5584177538899476,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+pooled,IC.BUS.NDNS.ZS,2025-12-31,2025,6.981118319366786,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+pooled,IC.BUS.NDNS.ZS,2026-09-30,2026,6.678879979158805,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+pooled,NE.CON.GOVT.KD.ZG,2026-09-30,2026,4.874890192775226,2025,3.4477331880636797,A,General government final consumption expenditure (annual % growth),level
+pooled,NE.CON.GOVT.ZS,2026-09-30,2026,0.01285000095103704,2025,-0.2952022221016417,A,General government final consumption expenditure (% of GDP),pp
+pooled,NE.CON.PRVT.ZS,2026-09-30,2026,-0.649920674013104,2025,-2.3527665282026646,A,Households and NPISHs final consumption expenditure (% of GDP),pp
+pooled,NE.GDI.FTOT.KD.ZG,2026-09-30,2026,6.145815586832041,2025,9.851523104597334,A,Gross fixed capital formation (annual % growth),level
+pooled,NE.RSB.GNFS.ZS,2026-09-30,2026,0.3122370910839776,2025,2.0374512482379012,A,External balance on goods and services (% of GDP),pp
+pooled,NV.AGR.TOTL.KD.ZG,2026-09-30,2026,4.026977994290101,2025,4.650181449911386,A,"Agriculture, forestry, and fishing, value added (annual % growth)",level
+pooled,NV.IND.TOTL.ZS,2025-12-31,2025,0.39245012965855786,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+pooled,NV.IND.TOTL.ZS,2026-09-30,2026,0.3143092320440385,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+pooled,NY.GDP.MKTP.KD.ZG,2026-09-30,2026,4.569618343495946,2025,3.4305639512446646,A,GDP growth (annual %),level
+pooled,NY.GNP.PCAP.CD,2026-09-30,2026,8.081748172079312,2025,11.290173020196178,A,"GNI per capita, Atlas method (current US$)",pct
+pooled,NY.GNS.ICTR.ZS,2026-09-30,2026,0.5262409567953997,2025,1.4224864499165228,A,Gross savings (% of GDP),pp
+pooled,PA.NUS.FCRF,2026-09-30,2026,-1.062290191322059,2025,-5.067949120494173,B,"Official exchange rate (LCU per US$, period average)",pct
+pooled,SE.XPD.TOTL.GD.ZS,2025-12-31,2025,-8.737077189233791e-4,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+pooled,SE.XPD.TOTL.GD.ZS,2026-09-30,2026,-0.00734189879839307,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+pooled,SH.XPD.GHED.GD.ZS,2025-12-31,2025,0.07949467852882508,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+pooled,SH.XPD.GHED.GD.ZS,2026-09-30,2026,0.06892602940981335,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+pooled,SH.XPD.OOPC.CH.ZS,2025-12-31,2025,-0.5350526556827984,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+pooled,SH.XPD.OOPC.CH.ZS,2026-09-30,2026,-0.4457051471520527,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+pooled,SI.DST.50MD,2025-12-31,2025,-0.23159706545709544,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+pooled,SI.DST.50MD,2026-09-30,2026,-0.2571563809686822,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+pooled,SI.DST.FRST.20,2025-12-31,2025,0.08560314787186783,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+pooled,SI.DST.FRST.20,2026-09-30,2026,0.08361269914655593,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+pooled,SI.POV.DDAY,2025-12-31,2025,-0.9905412594210988,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+pooled,SI.POV.DDAY,2026-09-30,2026,-1.0054865766446277,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+pooled,SI.POV.GINI,2025-12-31,2025,-0.6343091908702111,2024,-0.6000000000000014,E,Gini index,pp
+pooled,SI.POV.GINI,2026-09-30,2026,-0.6863196596628752,2024,-0.6000000000000014,E,Gini index,pp
+pooled,SI.POV.LMIC,2025-12-31,2025,-1.3741002998790683,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+pooled,SI.POV.LMIC,2026-09-30,2026,-1.5359597509439566,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+pooled,SI.POV.UMIC,2025-12-31,2025,-1.4904487699087183,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+pooled,SI.POV.UMIC,2026-09-30,2026,-1.7494986152611578,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+pooled,SL.AGR.EMPL.ZS,2026-09-30,2026,-0.40616048698625934,2025,-0.2847133220844995,D,Employment in agriculture (% of total employment) (modeled ILO estimate),pp
+pooled,SL.EMP.MPYR.ZS,2026-09-30,2026,-0.02019173710771518,2025,0.016670235977009895,D,"Employers, total (% of total employment) (modeled ILO estimate)",pp
+pooled,SL.EMP.VULN.ZS,2026-09-30,2026,-0.42720983231685894,2025,-0.3840281555535938,D,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",pp
+pooled,SL.GDP.PCAP.EM.KD,2025-12-31,2025,2.3181965004987517,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+pooled,SL.GDP.PCAP.EM.KD,2026-09-30,2026,2.657130623791857,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+pooled,SL.TLF.CACT.FM.NE.ZS,2026-09-30,2026,0.48684287274408966,2025,-0.4835023496782327,D,Ratio of female to male labor force participation rate (%) (national estimate),pp
+pooled,SL.TLF.CACT.NE.ZS,2026-09-30,2026,0.8015582920909475,2025,-0.8400000000000034,D,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",pp
+pooled,SL.TLF.PART.ZS,2026-09-30,2026,0.09171905019752988,2025,-0.867999999999995,D,"Part time employment, total (% of total employment)",pp
+pooled,SL.TLF.TOTL.IN,2026-09-30,2026,2.2016822250800763,2025,1.5766608718106971,D,"Labor force, total",pct
+pooled,SL.UEM.TOTL.NE.ZS,2026-09-30,2026,-0.1811747261440723,2025,-0.5389999999999997,D,"Unemployment, total (% of total labor force) (national estimate)",pp
+pooled,SM.POP.NETM,2026-09-30,2026,-73645.8296472709,2025,11931,D,Net migration,level
+pooled,SN.ITK.DEFC.ZS,2025-12-31,2025,-0.7542957843931344,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+pooled,SN.ITK.DEFC.ZS,2026-09-30,2026,-0.8767847039939782,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+pooled,TM.VAL.MRCH.CD.WT,2026-09-30,2026,9.517803997058586,2025,9.384336014964699,C,Merchandise imports (current US$),pct
+pooled,TT.PRI.MRCH.XD.WD,2025-12-31,2025,3.393493672620731,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+pooled,TT.PRI.MRCH.XD.WD,2026-09-30,2026,3.2983480535498444,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+pooled,TX.VAL.MMTL.ZS.UN,2025-12-31,2025,0.4131221631004675,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+pooled,TX.VAL.MMTL.ZS.UN,2026-09-30,2026,1.0227956735467372,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+pooled,TX.VAL.MRCH.CD.WT,2026-09-30,2026,13.62694700727701,2025,10.146875571453002,C,Merchandise exports (current US$),pct
+pooled,TX.VAL.SERV.CD.WT,2026-09-30,2026,10.30329219211193,2025,8.638966406942702,C,Commercial service exports (current US$),pct
+sector,BN.CAB.XOKA.GD.ZS,2026-09-30,2026,-0.34656249988025856,2025,1.1964026837102555,C,Current account balance (% of GDP),pp
+sector,BX.KLT.DINV.WD.GD.ZS,2025-12-31,2025,0.095980244402929,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+sector,BX.KLT.DINV.WD.GD.ZS,2026-09-30,2026,0.5839785627368601,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+sector,BX.TRF.PWKR.CD.DT,2025-12-31,2025,9.257883837009906,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+sector,BX.TRF.PWKR.CD.DT,2026-09-30,2026,10.805503370966834,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+sector,CM.MKT.LCAP.GD.ZS,2026-09-30,2026,-0.20208807098932297,2025,3.231958261855983,B,Market capitalization of listed domestic companies (% of GDP),pp
+sector,DT.DOD.DECT.GN.ZS,2025-12-31,2025,-1.3059744624503835,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+sector,DT.DOD.DECT.GN.ZS,2026-09-30,2026,-1.7802830619866288,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+sector,DT.DOD.DSTC.IR.ZS,2025-12-31,2025,-1.0044850045445712,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+sector,DT.DOD.DSTC.IR.ZS,2026-09-30,2026,-1.1281217550090037,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+sector,FB.AST.NPER.ZS,2025-12-31,2025,0.22909940835198425,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+sector,FB.AST.NPER.ZS,2026-09-30,2026,0.17626091763046184,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+sector,FB.CBK.BRWR.P3,2025-12-31,2025,6.339297267143072,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+sector,FB.CBK.BRWR.P3,2026-09-30,2026,6.350789453376849,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+sector,FI.RES.TOTL.CD,2026-09-30,2026,13.391771153412208,2025,13.16173224080962,B,"Total reserves (includes gold, current US$)",pct
+sector,FM.AST.DOMS.CN,2025-12-31,2025,8.265591962914613,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+sector,FM.AST.DOMS.CN,2026-09-30,2026,9.540634204968168,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+sector,FP.CPI.TOTL.ZG,2026-09-30,2026,2.953927737699539,2025,1.531254503142729,B,"Inflation, consumer prices (annual %)",level
+sector,FS.AST.CGOV.GD.ZS,2025-12-31,2025,-0.03330356906641241,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+sector,FS.AST.CGOV.GD.ZS,2026-09-30,2026,-0.125588336090992,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+sector,FS.AST.PRVT.GD.ZS,2025-12-31,2025,-0.2915606736630229,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+sector,FS.AST.PRVT.GD.ZS,2026-09-30,2026,0.5047230223934001,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+sector,IC.BUS.NDNS.ZS,2025-12-31,2025,7.973867296747967,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+sector,IC.BUS.NDNS.ZS,2026-09-30,2026,10.161330587773888,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+sector,NE.CON.GOVT.KD.ZG,2026-09-30,2026,5.9848002776747,2025,3.4477331880636797,A,General government final consumption expenditure (annual % growth),level
+sector,NE.CON.GOVT.ZS,2026-09-30,2026,-0.22452369780427783,2025,-0.2952022221016417,A,General government final consumption expenditure (% of GDP),pp
+sector,NE.CON.PRVT.ZS,2026-09-30,2026,-1.1286206167901498,2025,-2.3527665282026646,A,Households and NPISHs final consumption expenditure (% of GDP),pp
+sector,NE.GDI.FTOT.KD.ZG,2026-09-30,2026,17.433910771296418,2025,9.851523104597334,A,Gross fixed capital formation (annual % growth),level
+sector,NE.RSB.GNFS.ZS,2026-09-30,2026,-1.1044210206147926,2025,2.0374512482379012,A,External balance on goods and services (% of GDP),pp
+sector,NV.AGR.TOTL.KD.ZG,2026-09-30,2026,5.5169120892414965,2025,4.650181449911386,A,"Agriculture, forestry, and fishing, value added (annual % growth)",level
+sector,NV.IND.TOTL.ZS,2025-12-31,2025,1.5479873501732435,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+sector,NV.IND.TOTL.ZS,2026-09-30,2026,1.296239598887792,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+sector,NY.GDP.MKTP.KD.ZG,2026-09-30,2026,7.980567986469259,2025,3.4305639512446646,A,GDP growth (annual %),level
+sector,NY.GNP.PCAP.CD,2026-09-30,2026,14.005458382005145,2025,11.290173020196178,A,"GNI per capita, Atlas method (current US$)",pct
+sector,NY.GNS.ICTR.ZS,2026-09-30,2026,1.0141392634899062,2025,1.4224864499165228,A,Gross savings (% of GDP),pp
+sector,PA.NUS.FCRF,2026-09-30,2026,-1.8251678387483348,2025,-5.067949120494173,B,"Official exchange rate (LCU per US$, period average)",pct
+sector,SE.XPD.TOTL.GD.ZS,2025-12-31,2025,0.05187022464881256,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+sector,SE.XPD.TOTL.GD.ZS,2026-09-30,2026,0.04629873509513424,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+sector,SH.XPD.GHED.GD.ZS,2025-12-31,2025,0.0418689228484561,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+sector,SH.XPD.GHED.GD.ZS,2026-09-30,2026,0.04862833654253738,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+sector,SH.XPD.OOPC.CH.ZS,2025-12-31,2025,-0.4905597091981256,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+sector,SH.XPD.OOPC.CH.ZS,2026-09-30,2026,-0.6699022314231348,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+sector,SI.DST.50MD,2025-12-31,2025,-0.4130153895047381,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+sector,SI.DST.50MD,2026-09-30,2026,-0.40711975623096047,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+sector,SI.DST.FRST.20,2025-12-31,2025,0.10270803091436846,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+sector,SI.DST.FRST.20,2026-09-30,2026,0.09798168681219371,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+sector,SI.POV.DDAY,2025-12-31,2025,-0.8020536224983538,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+sector,SI.POV.DDAY,2026-09-30,2026,-0.7804455264321086,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+sector,SI.POV.GINI,2025-12-31,2025,-0.4267230473171898,2024,-0.6000000000000014,E,Gini index,pp
+sector,SI.POV.GINI,2026-09-30,2026,-0.45845898384411826,2024,-0.6000000000000014,E,Gini index,pp
+sector,SI.POV.LMIC,2025-12-31,2025,-1.2495009901081142,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+sector,SI.POV.LMIC,2026-09-30,2026,-1.1473982899380033,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+sector,SI.POV.UMIC,2025-12-31,2025,-0.8379830114349618,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+sector,SI.POV.UMIC,2026-09-30,2026,-0.6438043013848157,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+sector,SL.AGR.EMPL.ZS,2026-09-30,2026,-0.20276059209221212,2025,-0.2847133220844995,D,Employment in agriculture (% of total employment) (modeled ILO estimate),pp
+sector,SL.EMP.MPYR.ZS,2026-09-30,2026,-0.03515718229169436,2025,0.016670235977009895,D,"Employers, total (% of total employment) (modeled ILO estimate)",pp
+sector,SL.EMP.VULN.ZS,2026-09-30,2026,-0.3913863736325617,2025,-0.3840281555535938,D,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",pp
+sector,SL.GDP.PCAP.EM.KD,2025-12-31,2025,2.647939976412656,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+sector,SL.GDP.PCAP.EM.KD,2026-09-30,2026,2.5446563477526363,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+sector,SL.TLF.CACT.FM.NE.ZS,2026-09-30,2026,0.15749900965018196,2025,-0.4835023496782327,D,Ratio of female to male labor force participation rate (%) (national estimate),pp
+sector,SL.TLF.CACT.NE.ZS,2026-09-30,2026,-0.17230394354505488,2025,-0.8400000000000034,D,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",pp
+sector,SL.TLF.PART.ZS,2026-09-30,2026,0.6984532243502626,2025,-0.867999999999995,D,"Part time employment, total (% of total employment)",pp
+sector,SL.TLF.TOTL.IN,2026-09-30,2026,1.257178731195132,2025,1.5766608718106971,D,"Labor force, total",pct
+sector,SL.UEM.TOTL.NE.ZS,2026-09-30,2026,0.04885678839553862,2025,-0.5389999999999997,D,"Unemployment, total (% of total labor force) (national estimate)",pp
+sector,SM.POP.NETM,2026-09-30,2026,-29854.915714078856,2025,11931,D,Net migration,level
+sector,SN.ITK.DEFC.ZS,2025-12-31,2025,-0.5026671713385723,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+sector,SN.ITK.DEFC.ZS,2026-09-30,2026,-0.47838311146072776,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+sector,TM.VAL.MRCH.CD.WT,2026-09-30,2026,15.549700174413829,2025,9.384336014964699,C,Merchandise imports (current US$),pct
+sector,TT.PRI.MRCH.XD.WD,2025-12-31,2025,4.534018322886721,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+sector,TT.PRI.MRCH.XD.WD,2026-09-30,2026,6.289053820203099,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+sector,TX.VAL.MMTL.ZS.UN,2025-12-31,2025,2.436530106956063,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+sector,TX.VAL.MMTL.ZS.UN,2026-09-30,2026,1.9628475202315012,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+sector,TX.VAL.MRCH.CD.WT,2026-09-30,2026,17.98873698295018,2025,10.146875571453002,C,Merchandise exports (current US$),pct
+sector,TX.VAL.SERV.CD.WT,2026-09-30,2026,14.90566552529474,2025,8.638966406942702,C,Commercial service exports (current US$),pct
+single,BN.CAB.XOKA.GD.ZS,2026-09-30,2026,-0.1403882820373858,2025,1.1964026837102555,C,Current account balance (% of GDP),pp
+single,BX.KLT.DINV.WD.GD.ZS,2025-12-31,2025,0.3000356513137916,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+single,BX.KLT.DINV.WD.GD.ZS,2026-09-30,2026,0.8231755271400173,2024,0.6544574729938306,C,"Foreign direct investment, net inflows (% of GDP)",pp
+single,BX.TRF.PWKR.CD.DT,2025-12-31,2025,7.7786273922382065,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+single,BX.TRF.PWKR.CD.DT,2026-09-30,2026,7.803882548373933,2024,10.391554974753014,C,"Personal remittances, received (current US$)",pct
+single,CM.MKT.LCAP.GD.ZS,2026-09-30,2026,-0.27784404760907055,2025,3.231958261855983,B,Market capitalization of listed domestic companies (% of GDP),pp
+single,DT.DOD.DECT.GN.ZS,2025-12-31,2025,-1.0523627283474704,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+single,DT.DOD.DECT.GN.ZS,2026-09-30,2026,-1.6251995505686745,2024,-2.96934465412091,C,External debt stocks (% of GNI),pp
+single,DT.DOD.DSTC.IR.ZS,2025-12-31,2025,-0.8744288179511625,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+single,DT.DOD.DSTC.IR.ZS,2026-09-30,2026,-1.1848792964684869,2024,-4.601840393808821,B,Short-term debt (% of total reserves),pp
+single,FB.AST.NPER.ZS,2025-12-31,2025,0.15438575692851364,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+single,FB.AST.NPER.ZS,2026-09-30,2026,0.10405386755123971,2024,-0.49016322934003,B,Bank nonperforming loans to total gross loans (%),pp
+single,FB.CBK.BRWR.P3,2025-12-31,2025,4.7494287312876375,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+single,FB.CBK.BRWR.P3,2026-09-30,2026,5.072204274438947,2024,8.173275773149573,B,"Borrowers from commercial banks (per 1,000 adults)",pct
+single,FI.RES.TOTL.CD,2026-09-30,2026,12.72887042416246,2025,13.16173224080962,B,"Total reserves (includes gold, current US$)",pct
+single,FM.AST.DOMS.CN,2025-12-31,2025,6.184149768286415,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+single,FM.AST.DOMS.CN,2026-09-30,2026,10.149549926247698,2024,4.1277147132563625,B,Net domestic credit (current LCU),pct
+single,FP.CPI.TOTL.ZG,2026-09-30,2026,2.9741219869934485,2025,1.531254503142729,B,"Inflation, consumer prices (annual %)",level
+single,FS.AST.CGOV.GD.ZS,2025-12-31,2025,-0.8458731121973596,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+single,FS.AST.CGOV.GD.ZS,2026-09-30,2026,-0.9522596703095416,2024,1.1683985165114397,B,"Claims on central government, etc. (% GDP)",pp
+single,FS.AST.PRVT.GD.ZS,2025-12-31,2025,-0.8500756853646532,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+single,FS.AST.PRVT.GD.ZS,2026-09-30,2026,0.7300744907206825,2024,-3.330391566085119,B,Domestic credit to private sector (% of GDP),pp
+single,IC.BUS.NDNS.ZS,2025-12-31,2025,7.610606633595458,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+single,IC.BUS.NDNS.ZS,2026-09-30,2026,11.244611833216265,2024,-1.5190194755795348,C,"New business density (new registrations per 1,000 people ages 15-64)",pct
+single,NE.CON.GOVT.KD.ZG,2026-09-30,2026,5.765217605426676,2025,3.4477331880636797,A,General government final consumption expenditure (annual % growth),level
+single,NE.CON.GOVT.ZS,2026-09-30,2026,-0.11300109030743188,2025,-0.2952022221016417,A,General government final consumption expenditure (% of GDP),pp
+single,NE.CON.PRVT.ZS,2026-09-30,2026,-0.8015863394793772,2025,-2.3527665282026646,A,Households and NPISHs final consumption expenditure (% of GDP),pp
+single,NE.GDI.FTOT.KD.ZG,2026-09-30,2026,13.622345508453554,2025,9.851523104597334,A,Gross fixed capital formation (annual % growth),level
+single,NE.RSB.GNFS.ZS,2026-09-30,2026,0.10152838199834564,2025,2.0374512482379012,A,External balance on goods and services (% of GDP),pp
+single,NV.AGR.TOTL.KD.ZG,2026-09-30,2026,4.7225586074976675,2025,4.650181449911386,A,"Agriculture, forestry, and fishing, value added (annual % growth)",level
+single,NV.IND.TOTL.ZS,2025-12-31,2025,1.4923279394357956,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+single,NV.IND.TOTL.ZS,2026-09-30,2026,1.2691481189367568,2024,0.11456592156523016,A,"Industry (including construction), value added (% of GDP)",pp
+single,NY.GDP.MKTP.KD.ZG,2026-09-30,2026,4.921167153836564,2025,3.4305639512446646,A,GDP growth (annual %),level
+single,NY.GNP.PCAP.CD,2026-09-30,2026,13.749639976166218,2025,11.290173020196178,A,"GNI per capita, Atlas method (current US$)",pct
+single,NY.GNS.ICTR.ZS,2026-09-30,2026,0.7549508597319246,2025,1.4224864499165228,A,Gross savings (% of GDP),pp
+single,PA.NUS.FCRF,2026-09-30,2026,-2.8069328406523,2025,-5.067949120494173,B,"Official exchange rate (LCU per US$, period average)",pct
+single,SE.XPD.TOTL.GD.ZS,2025-12-31,2025,-0.00528369726446724,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+single,SE.XPD.TOTL.GD.ZS,2026-09-30,2026,0.02511808513067714,2024,0.11240005493163974,E,"Government expenditure on education, total (% of GDP)",pp
+single,SH.XPD.GHED.GD.ZS,2025-12-31,2025,0.04714105980069914,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+single,SH.XPD.GHED.GD.ZS,2026-09-30,2026,0.0587627927009682,2023,-0.32682372000000015,E,Domestic general government health expenditure (% of GDP),pp
+single,SH.XPD.OOPC.CH.ZS,2025-12-31,2025,0.7821713412613951,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+single,SH.XPD.OOPC.CH.ZS,2026-09-30,2026,-0.21045043081364584,2023,-0.054307940000001054,E,Out-of-pocket expenditure (% of current health expenditure),pp
+single,SI.DST.50MD,2025-12-31,2025,-0.26505602683711416,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+single,SI.DST.50MD,2026-09-30,2026,-0.2920683505552785,2024,-0.1999999999999993,E,Proportion of people living below 50 percent of median income (%),pp
+single,SI.DST.FRST.20,2025-12-31,2025,0.10876580069559402,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+single,SI.DST.FRST.20,2026-09-30,2026,0.1037942661526569,2024,0.09999999999999964,E,Income share held by lowest 20%,pp
+single,SI.POV.DDAY,2025-12-31,2025,-0.5491516207122231,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+single,SI.POV.DDAY,2026-09-30,2026,-0.3630967442289621,2024,-0.8000000000000007,E,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),pp
+single,SI.POV.GINI,2025-12-31,2025,-0.588653588726117,2024,-0.6000000000000014,E,Gini index,pp
+single,SI.POV.GINI,2026-09-30,2026,-0.6295565021648127,2024,-0.6000000000000014,E,Gini index,pp
+single,SI.POV.LMIC,2025-12-31,2025,-0.7510774970137705,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+single,SI.POV.LMIC,2026-09-30,2026,-0.5622168578375131,2024,-1,E,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),pp
+single,SI.POV.UMIC,2025-12-31,2025,-1.3132310214877314,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+single,SI.POV.UMIC,2026-09-30,2026,-0.6593606293993164,2024,-2.0999999999999943,E,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),pp
+single,SL.AGR.EMPL.ZS,2026-09-30,2026,-0.3552881760278448,2025,-0.2847133220844995,D,Employment in agriculture (% of total employment) (modeled ILO estimate),pp
+single,SL.EMP.MPYR.ZS,2026-09-30,2026,-0.03069930293536809,2025,0.016670235977009895,D,"Employers, total (% of total employment) (modeled ILO estimate)",pp
+single,SL.EMP.VULN.ZS,2026-09-30,2026,-0.4866125439361329,2025,-0.3840281555535938,D,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",pp
+single,SL.GDP.PCAP.EM.KD,2025-12-31,2025,2.3576981993181443,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+single,SL.GDP.PCAP.EM.KD,2026-09-30,2026,2.255838365800122,2024,1.793104376647867,D,GDP per person employed (constant 2021 PPP $),pct
+single,SL.TLF.CACT.FM.NE.ZS,2026-09-30,2026,-0.1460568275767377,2025,-0.4835023496782327,D,Ratio of female to male labor force participation rate (%) (national estimate),pp
+single,SL.TLF.CACT.NE.ZS,2026-09-30,2026,-0.29159115679260544,2025,-0.8400000000000034,D,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",pp
+single,SL.TLF.PART.ZS,2026-09-30,2026,0.25200878721940684,2025,-0.867999999999995,D,"Part time employment, total (% of total employment)",pp
+single,SL.TLF.TOTL.IN,2026-09-30,2026,1.6308849063207262,2025,1.5766608718106971,D,"Labor force, total",pct
+single,SL.UEM.TOTL.NE.ZS,2026-09-30,2026,-0.00153507802042837,2025,-0.5389999999999997,D,"Unemployment, total (% of total labor force) (national estimate)",pp
+single,SM.POP.NETM,2026-09-30,2026,4953.568769659336,2025,11931,D,Net migration,level
+single,SN.ITK.DEFC.ZS,2025-12-31,2025,-0.5762028351855022,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+single,SN.ITK.DEFC.ZS,2026-09-30,2026,-0.5407426853610826,2023,0.3000000000000007,E,Prevalence of undernourishment (% of population),pp
+single,TM.VAL.MRCH.CD.WT,2026-09-30,2026,15.821666461112232,2025,9.384336014964699,C,Merchandise imports (current US$),pct
+single,TT.PRI.MRCH.XD.WD,2025-12-31,2025,3.258374641490424,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+single,TT.PRI.MRCH.XD.WD,2026-09-30,2026,4.731217689072481,2024,11.847292875032114,C,Net barter terms of trade index (2015 = 100),pct
+single,TX.VAL.MMTL.ZS.UN,2025-12-31,2025,1.8524610967782524,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+single,TX.VAL.MMTL.ZS.UN,2026-09-30,2026,1.2996937135215,2024,-3.5298770071991257,C,Ores and metals exports (% of merchandise exports),pp
+single,TX.VAL.MRCH.CD.WT,2026-09-30,2026,10.103299141342614,2025,10.146875571453002,C,Merchandise exports (current US$),pct
+single,TX.VAL.SERV.CD.WT,2026-09-30,2026,5.859266039488601,2025,8.638966406942702,C,Commercial service exports (current US$),pct

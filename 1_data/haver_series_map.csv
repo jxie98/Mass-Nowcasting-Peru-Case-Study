@@ -1,0 +1,1164 @@
+code,short_name,desc,sector,pub_lag_q,transform,keep,frq,data_type,first_year,n_obs
+N293ABAL@emergela,bop_total_balance_of_payments,"Peru: BOP, Total Balance of Payments (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AC@emergela,bop_current_account_balance,"Peru: BOP: Current Account Balance (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACG@emergela,bop_trade_balance_on_goods,"Peru: BOP: Trade Balance on Goods (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACGM@emergela,bop_imports_of_goods_fob,"Peru: BOP: Imports of Goods, fob (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ACGX@emergela,bop_exports_of_goods,"Peru: BOP: Exports of Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ACS@emergela,bop_balance_on_services,"Peru: BOP: Balance on Services (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACSM@emergela,bop_imports_of_services,"Peru: BOP: Imports of Services (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ACSR@emergela,bop_travel,"Peru: BOP: Travel (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACSX@emergela,bop_exports_of_services,"Peru: BOP: Exports of Services (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ACT@emergela,balance_of_payments_secondary_income,"Peru: Balance of Payments: Secondary Income (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ACTR@emergela,bop_secondary_income_worker_s_remittance,"Peru: BOP: Secondary Income, Worker's Remittances (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly,US$,1990,146
+N293ACY@emergela,balance_of_payments_income,"Peru: Balance of Payments: Income (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACYU@emergela,bop_public_sector_income_balance,"Peru: BOP: Public Sector Income Balance (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ACYV@emergela,bop_private_sector_income_balance,"Peru: BOP: Private Sector Income Balance (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AERR@emergela,balance_of_payments_errors_and_omissions,"Peru: Balance of Payments: Errors and Omissions (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AF@emergela,bop_financial_account,"Peru: BOP, Financial Account (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFAG@emergela,bop_public_sector_assets,"Peru: BOP: Public Sector: Assets(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFDG@emergela,bop_public_sector_liabilities,"Peru: BOP: Public Sector: Liabilities(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFEF@emergela,balance_of_payments_exceptional_financin,"Peru: Balance of Payments: Exceptional Financing (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFG@emergela,balance_of_payments_public_sector,"Peru: Balance of Payments: Public Sector (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFIV@emergela,bop_pvt_sector_long_term_cap_liab_net_di,"Peru: BOP: Pvt Sector Long-Term Cap: Liab: Net Direct Invest (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AFLV@emergela,balance_of_payments_private_sector,"Peru: Balance of Payments: Private Sector (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AIVE@emergela,bop_private_sector_long_term_capital_flo,"Peru: BOP: Private Sector Long-Term Capital Flows: Liab: Equity Cap(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AIVR@emergela,bop_private_sector_long_term_cap_liabili,"Peru: BOP: Private Sector Long-Term Cap: Liabilities: Reinvestment(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ALNA@emergela,bop_private_sector_long_term_cap_flows_l,"Peru: BOP: Private Sector Long-Term Cap Flows: Liab: Amortization(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ALND@emergela,bop_private_sector_long_term_cap_flows_l_1,"Peru: BOP: Private Sector Long-Term Cap Flows: Liab: Disbursements(NSA,Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ALNL@emergela,bop_private_sect_long_term_cap_flows_lia,"Peru: BOP: Private Sect Long-Term Cap Flows: Liab: Long-Term Loans(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AOFS@emergela,balance_of_payments_short_term_capital,"Peru: Balance of Payments: Short-Term Capital (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AOSA@emergela,bop_short_term_capital_flows_assets,"Peru: BOP: Short-Term Capital Flows: Assets (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AOSD@emergela,bop_short_term_capital_flows_liabilities,"Peru: BOP: Short-Term Capital Flows: Liabilities(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293APAV@emergela,bop_priv_sector_long_term_cap_assets_por,"Peru: BOP: Priv Sector Long-Term Cap: Assets: Portfolio Investment(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293APDV@emergela,bop_private_sector_long_term_cap_liab_po,"Peru: BOP: Private Sector Long-Term Cap: Liab: Portfolio Invest(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293APVE@emergela,bop_private_sector_long_term_cap_liabili_1,"Peru: BOP: Private Sector Long-Term Cap: Liabilities: Equity Sec(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASAB@emergela,bop_s_term_capital_flows_commercial_bank,"Peru: BOP: S-Term Capital Flows: Commercial Banks: Assets (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASAF@emergela,bop_s_term_capital_flows_non_banking_fin,"Peru: BOP: S-Term Capital Flows: Non-Banking Fin Comp: Assets (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1995,126
+N293ASAN@emergela,bop_s_term_capital_flows_non_financial_s,"Peru: BOP: S-Term Capital Flows: Non-Financial Sector: Assets (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASAU@emergela,bop_s_term_capital_flows_banco_de_la_nac,"Peru: BOP: S-Term Capital Flows: Banco De La Nacion: Assets(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASBB@emergela,bop_short_term_capital_flows_commercial_,"Peru: BOP: Short-Term Capital Flows: Commercial Banks (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASBF@emergela,bop_s_term_cap_flows_non_banking_financi,"Peru: BOP: S-Term Cap Flows: Non-Banking Financial Companies(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1995,126
+N293ASBM@emergela,bop_short_term_capital_flows_bcrp,"Peru: BOP: Short-Term Capital Flows: BCRP (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASBN@emergela,bop_short_term_capital_flows_non_financi,"Peru: BOP: Short-Term Capital Flows: Non-Financial Sector(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASBU@emergela,bop_short_term_capital_flows_banco_de_la,"Peru: BOP: Short-Term Capital Flows: Banco De La Nacion (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASIB@emergela,bop_s_term_capital_flows_commercial_bank_1,"Peru: BOP: S-Term Capital Flows: Commercial Banks: Liablities (NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASIF@emergela,bop_s_term_cap_flows_non_banking_fin_com,"Peru: BOP: S-Term Cap Flows: Non-Banking Fin Comp: Liabilities(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1995,126
+N293ASIN@emergela,bop_s_term_capital_flows_non_fin_sector_,"Peru: BOP: S-Term Capital Flows: Non-Fin Sector: Liabilities(NSA,Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ASMR@emergela,bop_travel_debit,"Peru: BOP: Travel: Debit (NSA,Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ASXR@emergela,bop_travel_credit,"Peru: BOP: Travel: Credit (NSA,Mil.US$)",B;C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293ATWF@emergela,bop_freight_transportation,"Peru: BOP: Freight Transportation (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293ATWP@emergela,bop_passenger_transportation,"Peru: BOP: Passenger Transportation (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293AWFM@emergela,bop_freight_transportation_debit,"Peru: BOP: Freight Transportation, Debit (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293AWFX@emergela,bop_transportation_freight_credit,"Peru: BOP: Transportation: Freight, Credit (NSA, Mil.US$)",B;C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293AWPM@emergela,bop_passengers_transportation_debit,"Peru: BOP: Passengers Transportation: Debit (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293AWPX@emergela,bop_passengers_transportation_credit,"Peru: BOP: Passengers Transportation: Credit (NSA, Mil.US$)",B;C,1,yoy_diff_scaled,TRUE,Quarterly,US$,1980,186
+N293BCAG@emergela,bop_current_account_balance_as_of_moving,"Peru: BOP: Current Account Balance as % of Moving Total GDP (NSA, %)",A;C,1,yoy_diff,TRUE,Quarterly,%,1980,183
+N293BCPG@emergela,bop_current_account_balance_as_a_percent,"Peru: BOP: Current Account Balance as a Percentage of GDP (NSA, %)",A;C,1,yoy_diff,TRUE,Quarterly,%,1980,186
+N293CVHC@emergela,new_heavy_vehicle_sales_registrations,"Peru: New Heavy Vehicle Sales & Registrations (NSA, Units)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293CVLU@emergela,new_light_vehicle_sales_registrations,"Peru: New Light Vehicle Sales & Registrations (NSA, Units)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293CVSV@emergela,new_small_vehicle_sales_registrations,"Peru: New Small Vehicle Sales & Registrations (NSA, Units)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293DVA@emergela,gross_value_added_agricultural_productio,"Peru: Gross Value Added: Agricultural Production Index (NSA, 2007=100)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,146
+N293DVCN@emergela,dom_cement_consumption_index,"Peru: Domestic Cement Consumption Index (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293DVE@emergela,electricity_production,"Peru: Electricity Production (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1993,135
+N293DVHI@emergela,mining_production_hydrocarbons,"Peru: Mining Production: Hydrocarbons (NSA, Y/Y % Change)",A,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1995,126
+N293DVM@emergela,manufacturing_industrial_production_inde,"Peru: Manufacturing Industrial Production Index (NSA, 2012=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,146
+N293DVM1@emergela,ip_non_primary_manufacturing_sub_sector,"Peru: IP: Non-primary Manufacturing Sub-sector (NSA, 2012=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,146
+N293DVM2@emergela,ip_primary_manufacturing_sub_sector,"Peru: IP: Primary Manufacturing Sub-sector (NSA, 2012=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,146
+N293DVMI@emergela,mining_production_metal_mining,"Peru: Mining Production: Metal Mining (NSA, Y/Y % Change)",A,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1995,126
+N293DVN@emergela,gross_value_added_mining_hydrocarbons_pr,"Peru: Gross Value added: Mining & Hydrocarbons Production Index (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1989,147
+N293DVNI@emergela,mining_production_and_hydrocarbons,"Peru: Mining Production and Hydrocarbons (NSA, Y/Y % Change)",A,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1995,126
+N293EFCE@emergela,metro_lima_employed_population_3_mo_mov_,"Peru: Metro Lima Employed Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EFCU@emergela,peru_unemployed_population_3_mo_moving_a,"Peru Unemployed Population, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELD1@emergela,metro_lima_underemployment_rate_b_c_of_h,"Peru: Metro Lima Underemployment Rate b/c of Hours, 3-Mo Mov Avg (EOP, NSA, %)",D;E,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2006,81
+N293ELD2@emergela,metro_lima_underemployment_rate_b_c_of_i,"Peru: Metro Lima Underemployment Rate b/c of Income, 3-Mo Mov Avg (EOP, NSA, %)",D;E,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2006,81
+N293ELDH@emergela,metro_lima_underemployed_population_b_c_,"Peru: Metro Lima Underemployed Population  b/c of Hrs, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELDI@emergela,metro_lima_underemployed_population_b_c__1,"Peru: Metro Lima Underemployed Population b/c of Inc, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELE@emergela,employed_metropolitan_lima,"Peru: Employed, Metropolitan Lima  (NSA, Thous.)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2001,102
+N293ELEA@emergela,metro_lima_adequate_employment_rate_3_mo,"Peru: Metro Lima Adequate Employment Rate, 3-Mo Moving Average (EOP, NSA, %)",D;E,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2006,81
+N293ELEM@emergela,metro_lima_male_employed_population_3_mo,"Peru: Metro Lima Male Employed Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELER@emergela,metro_lima_employment_rate_3_mo_moving_a,"Peru: Metro Lima Employment Rate, 3-Mo Moving Average (EOP, NSA, %)",D;E,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2006,81
+N293ELES@emergela,metro_lima_self_employed_population_3_mo,"Peru: Metro Lima Self Employed Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELEU@emergela,metro_lima_female_employed_population_3_,"Peru: Metro Lima Female Employed Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELFC@emergela,metro_lima_economically_active_populatio,"Peru: Metro Lima Economically Active Population, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELLF@emergela,labor_force_metropolitan_lima,"Peru: Labor Force, Metropolitan Lima (NSA, Thous.)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2001,102
+N293ELNF@emergela,metro_lima_not_economically_active_popul,"Peru: Metro Lima Not Economically Active Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELNM@emergela,metro_lima_male_not_economically_active_,"Peru: Metro Lima Male Not Economically Active Pop, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELNW@emergela,metro_lima_female_not_economically_activ,"Peru: Metro Lima Female Not Economically Active Pop, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELPI@emergela,productivity_total_economy_output_per_em,"Peru: Productivity: Total Economy: Output per Employed Person (NSA, 2010=100)",A;D;E,1,yoy_pct,TRUE,Quarterly,INDEX,2001,101
+N293ELPW@emergela,metro_lima_working_age_population_3_mo_m,"Peru: Metro Lima Working Age Population, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELU@emergela,unemployed_metropolitan_lima,"Peru: Unemployed, Metropolitan Lima (NSA, Thous.)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2001,102
+N293ELUA@emergela,metro_lima_adequately_employed_populatio,"Peru: Metro Lima Adequately Employed Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELUR@emergela,metro_lima_unemployment_rate_3_mo_moving,"Peru: Metro Lima Unemployment Rate, 3-Mo Moving Average (EOP, NSA, %)",D;E,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2001,102
+N293ELWM@emergela,metro_lima_male_economically_active_popu,"Peru: Metro Lima Male Economically Active Population, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ELWW@emergela,metro_lima_female_economically_active_po,"Peru: Metro Lima Female Economically Active Population, 3-Mo Mov Avg (EOP, Thou)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EM@emergela,monthly_income_3_month_moving_average,"Peru: Monthly Income: 3-Month Moving Average (NSA, Soles)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,101
+N293EPDG@emergela,metro_lima_econ_active_pop_university_ed,"Peru: Metro Lima Econ Active Pop: University Education, 3-MoMovAvg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPDP@emergela,metro_lima_econ_active_pop_primary_educa,"Peru: Metro Lima Econ Active Pop: Primary Education, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPDS@emergela,metro_lima_econ_active_pop_secondary_edu,"Peru: Metro Lima Econ Active Pop: Secondary Education, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPDU@emergela,metro_lima_econ_active_pop_higher_educat,"Peru: Metro Lima Econ Active Pop: Higher Education [No Univ], 3-MMA (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPE1@emergela,metro_lima_employed_population_14_24_yrs,"Peru: Metro Lima Employed Population, 14-24 yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPE2@emergela,metro_lima_employed_population_25_44_yrs,"Peru: Metro Lima Employed Population, 25-44 yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPE3@emergela,metro_lima_employed_population_45_yrs_ol,"Peru: Metro Lima Employed Population, 45+ yrs old ,3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPEG@emergela,metro_lima_employed_pop_university_educa,"Peru: Metro Lima Employed Pop, University Education, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPEP@emergela,metro_lima_employed_pop_primary_educatio,"Peru: Metro Lima Employed Pop, Primary Education, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPES@emergela,metro_lima_employed_pop_seoondary_educat,"Peru: Metro Lima Employed Pop, Seoondary Education, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPEU@emergela,metro_lima_employed_pop_higher_ed_no_uni,"Peru: Metro Lima Employed Pop, Higher Ed [No Univ], 3-MoMov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPL1@emergela,metro_lima_econ_active_pop_14_24_yrs_old,"Peru: Metro Lima Econ Active Pop, 14-24 yrs old, 3-Mo Mov Avg (EOP, Thou)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPL2@emergela,metro_lima_econ_active_pop_25_44_yrs_old,"Peru: Metro Lima Econ Active Pop, 25-44 yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPL3@emergela,metro_lima_econ_active_pop_45_yrs_old_3_,"Peru: Metro Lima Econ Active Pop, 45+ yrs old, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPN1@emergela,metro_lima_not_econ_active_pop_14_24_yrs,"Peru: Metro Lima Not Econ Active Pop, 14-24 yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPN2@emergela,metro_lima_not_econ_active_pop_25_44_yrs,"Peru: Metro Lima Not Econ Active Pop, 25-44 yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPN3@emergela,metro_lima_not_econ_active_pop_45_yrs_ol,"Peru: Metro Lima Not Econ Active Pop, 45+ yrs old, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPNG@emergela,metro_lima_not_econ_active_pop_universit,"Peru: Metro Lima Not Econ Active Pop: University Education, 3-MMA (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPNP@emergela,metro_lima_not_econ_active_pop_primary_e,"Peru: Metro Lima Not Econ Active Pop: Primary Edu, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPNS@emergela,metro_lima_not_econ_active_pop_secondary,"Peru: Metro Lima Not Econ Active Pop: Secondary Edu, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EPNU@emergela,metro_lima_not_econ_active_pop_higher_ed,"Peru: Metro Lima Not Econ Active Pop: Higher Ed [No Univ], 3-MMA (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ETK@emergela,metro_lima_employed_population_construct,"Peru: Metro Lima Employed Population: Construction, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ETM@emergela,metro_lima_employed_population_manufactu,"Peru: Metro Lima Employed Population: Manufacturing, 3-Mo Mov Avg (EOP, Thous)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ETSV@emergela,metro_lima_employed_population_services_,"Peru: Metro Lima Employed Population: Services, 3-Mo Moving Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293ETWR@emergela,metro_lima_employed_population_trade_3_m,"Peru: Metro Lima Employed Population: Trade, 3-Mo Mov Avg (EOP, Thous)",D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2010,67
+N293EWMR@emergela,minimum_wage_real_2009_new_soles,Peru: Minimum Wage: Real (2009.New Soles),D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1991,142
+N293F2CD@emergela,gg_interest_payments,Peru: General Government: Interest Payments (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2CP@emergela,gg_nonfin_expend_goods_serv_maintenance_,"Peru: GG: Nonfin Expend, Goods & Serv [Maintenance] Curr Exp (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2009,71
+N293F2DC@emergela,gg_interest_payments_1,Peru: General Government: Interest Payments (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2E1@emergela,gg_national_government_nonfinancial_expe,Peru: Gen Govt: National Government Nonfinancial Expenditures (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2E2@emergela,gg_regional_governments_nonfin_expenditu,Peru: Gen Govt: Regional Governments Nonfin Expenditures (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2E3@emergela,gg_local_governments_nonfinancial_expend,Peru: Gen Govt: Local Governments Nonfinancial Expenditures (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2K1@emergela,gg_gross_capital_formation_national_govt,Peru: General Govt: Gross Capital Formation: National Govt (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2K2@emergela,gg_gross_capital_formation_regional_govt,Peru: General Govt: Gross Capital Formation: Regional Govt (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2K3@emergela,gg_gross_capital_formation_local_govt,Peru: General Government: Gross Capital Formation: Local Govt(NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2KF@emergela,gg_nonfin_expen_capital_gross_capital_fo,Peru: General Govt: NonFin Expen: Capital: Gross Capital Form (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2KR@emergela,gg_nonfin_expen_capital_other_capital_ex,Peru: General Govt: NonFin Expen: Capital: Other Capital Expen(NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2P1@emergela,gg_nonfin_expend_national_govt_goods_ser,"Peru: GG: Nonfin Expend, National Govt Goods & Serv Curr Exp (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2P2@emergela,gg_nonfin_expend_regional_govt_goods_ser,"Peru: GG: Nonfin Expend, Regional Govt Goods & Serv Curr Exp (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2P3@emergela,gg_nonfin_expend_local_govt_goods_serv_c,"Peru: GG: Nonfin Expend, Local Govt Goods & Serv Curr Exp (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2PR@emergela,gg_nonfin_expend_goods_srv_maint_curr_ex,"Peru: GG: Nonfin Expend, Goods & Srv [Maint] Curr Exp (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2009,71
+N293F2R1@emergela,gg_nonfin_expend_national_govt_current_r,"Peru: GG: Nonfin Expend,  National Govt Current Remunerations (NSA Mil.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2R2@emergela,gg_nonfin_expend_reg_govt_current_remune,"Peru: Gen Govt: Nonfin Expend, Reg Govt Current Remunerations (NSA Mil.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2R3@emergela,ggovt_nonfin_expend_local_govt_current_r,"Peru: GGovt: Nonfin Expend, Local Govt Current Remunerations (NSA Mil.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2RC@emergela,gg_nonfin_expenditures_current_remunerat,"Peru: GG: Nonfin Expenditures, Current Remunerations (NSA, Mil.Dec2021.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2RN@emergela,gg_nonfinancial_expenditures_current_rem,"Peru: GG: Nonfinancial Expenditures, Current Remunerations (NSA Mil.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2T1@emergela,gg_nonfin_expend_regional_govt_transfers,"Peru: GG: Nonfin Expend, Regional Govt Transfers Curr Exp (NSA Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2T2@emergela,gg_nonfin_expend_local_govt_transfers_cu,"Peru: GG: Nonfin Expend, Local Govt Transfers Curr Expenses (NSA Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F2T3@emergela,gg_nonfin_expenditures_capital_expenditu,"Peru: Gen Govt: Nonfin Expenditures, Capital Expenditures (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293F8CN@emergela,bcrp_fx_w_comm_banks_net_issuance_of_fx_,Peru: BCRP FX w/ Comm Banks: Net Issuance of FX Linked CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8CR@emergela,bcrp_fx_w_comm_banks_issued_fx_linked_cd,Peru: BCRP FX w/ Comm Banks: Issued FX Linked CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8CS@emergela,bcrp_fx_w_comm_banks_expired_fx_linked_c,Peru: BCRP FX w/ Comm Banks: Expired FX Linked CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8DN@emergela,bcrp_fx_transactions_w_comm_bnks_net_iss,Peru: BCRP FX Transactions w/ Comm Bnks: Net Issuance of Dual Curr CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8DR@emergela,bcrp_fx_w_comm_banks_issued_dual_curr_cd,Peru: BCRP FX w/ Comm Banks: Issued Dual Curr CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8DS@emergela,bcrp_fx_transactions_w_comm_banks_expire,Peru: BCRP FX Transactions w/ Comm Banks: Expired Dual Curr CDs (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8NR@emergela,bcrp_foreign_exchange_transactions_with_,Peru: BCRP Foreign Exchange Transactions with Comm Banks: Net Cash (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8RN@emergela,bcrp_fx_transactions_with_comm_banks_net,Peru: BCRP FX Transactions with Comm Banks: Net Sales of Repos (Mil.US$),B;C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8RR@emergela,bcrp_foreign_exchange_transactions_w_com,Peru: BCRP Foreign Exchange Transactions w/ Comm Banks: Cash Purchases (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8SR@emergela,bcrp_foreign_exchange_transactions_w_com_1,Peru: BCRP Foreign Exchange Transactions w/ Comm Banks: Cash Sales (Mil.US$),B;C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8TR@emergela,bcrp_foreign_exchange_transactions_with__1,Peru: BCRP Foreign Exchange Transactions with Comm Banks: Net Demand (Mil.US$),B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8WN@emergela,bcrp_fx_transactions_w_comm_banks_net_ag,Peru: BCRP FX Transactions w/ Comm Banks: Net Agreed SWAP Exch Sales (Mil.US$),B;C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8WR@emergela,bcrp_fx_transactions_with_comm_banks_agr,Peru: BCRP FX Transactions with Comm Banks: Agreed SWAP Exchange Sales (Mil.US$),B;C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293F8WS@emergela,bcrp_fx_transactions_with_comm_banks_due,Peru: BCRP FX Transactions with Comm Banks: Due SWAP Exchange Sales (Mil.US$),B;C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293FBUC@emergela,cg_current_account_saving,Peru: Central Government: Current Account Saving (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FCB@emergela,banking_system_credit_to_pvt_sector,"Peru: Banking System Credit to Pvt Sector (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FCBD@emergela,banking_system_cr_to_pvt_sector_dollariz,"Peru: Banking System Cr to Pvt Sector: Dollarization Ratio (NSA, %)",B,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1992,137
+N293FCDC@emergela,cg_interest_payments,Peru: Central Government: Interest Payments (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FCFC@emergela,credit_of_depository_corp_to_pvt_sector_,"Peru: Credit of Depository Corp to Pvt Sector: Dollarization Ratio (NSA, %)",B,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1992,139
+N293FCMD@emergela,mon_accounts_broad_money_foreign_currenc,"Peru: Mon Accounts: Broad Money: Foreign Currency Dollarization Ratio (NSA, %)",B,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1992,139
+N293FCP@emergela,credit_of_depository_corp_to_private_sec,"Peru: Credit of Depository Corp to Private Sector (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+N293FCPC@emergela,credit_of_depository_corp_to_private_sec_1,"Peru: Credit of Depository Corp to Private Sector Companies (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+N293FCPH@emergela,credit_of_depository_corp_to_private_sec_2,"Peru: Credit of Depository Corp to Private Sector Mortgages (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+N293FCPV@emergela,credit_of_depository_corp_to_pvt_sec_per,"Peru: Credit of Depository Corp to Pvt Sec: Personal Consumption(EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+N293FCT@emergela,adj_credit_of_financial_system_to_pvt_se,"Peru: Adj Credit of Financial System to Pvt Sector (EOP, NSA,Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1998,110
+N293FCTC@emergela,cg_nonfin_expen_curr_expen_transfers,Peru: Central Govt: NonFin Expen: Curr Expen: Transfers (NSA Mil.Dec2021.Soles),A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FCTD@emergela,adj_credit_of_fin_sys_to_pvt_sec_dollari,"Peru: Adj Credit of Fin Sys to Pvt Sec: Dollarization Ratio (NSA, %)",B,1,yoy_diff,TRUE,Quarterly <- Monthly,%,1999,109
+N293FD@emergela,public_debt,"Peru: Public Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDA@emergela,foreign_public_debt,"Peru: Foreign Public Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDAI@emergela,dom_pub_debt_lt_ad_hoc_commission_law_29,"Peru: Dom Pub Debt: LT: Ad Hoc Commission, Law 29625 (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDBG@emergela,public_debt_global_bonds,"Peru: Public Debt, Global Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDBN@emergela,public_debt_global_bonds_non_resident,"Peru: Public Debt, Global Bonds, Non-resident (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDBR@emergela,public_debt_global_bonds_resident,"Peru: Public Debt, Global Bonds, Resident (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDBS@emergela,public_debt_sovereign_bonds,"Peru: Public Debt, Sovereign Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDC1@emergela,dom_pub_debt_lt_comm_bank_credits_centra,"Peru: Dom Pub Debt: LT: Comm Bank Credits: Central Gov (EOP, NSA, Mil.NewSoles)",A;B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDC2@emergela,dom_pub_debt_lt_comm_bank_credits_region,"Peru: Dom Pub Debt: LT: Comm Bank Credits: Regional Gov (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDC3@emergela,dom_pub_debt_lt_commerial_banking_credit,"Peru: Dom Pub Debt: LT: Commerial Banking Credits, Loc Gov(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDC4@emergela,dom_pub_debt_lt_comm_banking_credits_pub,"Peru: Dom Pub Debt: LT:Comm Banking Credits: Pub Companies(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDCI@emergela,dom_pub_debt_long_term_commerial_bank_cr,"Peru: Dom Pub Debt: Long Term: Commerial Bank Credits (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDCP@emergela,public_sector_securities_held_by_private,"Peru: Public Sector Securities held by Private Sector (NSA, EOP, Mil.PEN)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDCU@emergela,public_sector_securities_held_by_nonfin_,"Peru: Public Sector Securities held by Nonfin Public Sector (NSA, EOP, Mil.PEN)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDCX@emergela,public_sector_securities_held_by_nonresi,"Peru: Public Sector Securities held by Nonresidents (NSA, EOP, Mil.PEN)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDDC@emergela,cg_interest_payments_dom_debt,Peru: Central Govt: Interest Payments: Domestic Debt (NSA Mil.Dec2021.Soles),A;B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FDFB@emergela,foreign_public_debt_bonds,"Peru: Foreign Public Debt, Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDFC@emergela,cg_interest_payments_foreign_debt,Peru: Central Govt: Interest Payments: Foreign Debt (NSA Mil.Dec2021.Soles),A;B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FDFG@emergela,foreign_public_debt_global_bonds,"Peru: Foreign Public Debt: Global Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDFI@emergela,public_sector_securities_held_by_banco_d,"Peru: Public Sector Securities held by Banco de la Nación (NSA, EOP, Mil.PEN)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDFN@emergela,foreign_pub_debt_non_financial_pub_compa,"Peru: Foreign Pub Debt: Non-Financial Pub Company Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDFW@emergela,foreign_public_debt_credits,"Peru: Foreign Public Debt, Credits (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDG@emergela,federal_government_gross_debt,"Peru: Federal Government Gross Debt (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly,US$,1999,110
+N293FDGF@emergela,federal_government_foreign_gross_debt,"Peru: Federal Government Foreign Gross Debt (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly,US$,1999,110
+N293FDGI@emergela,federal_government_dom_gross_debt,"Peru: Federal Government Domestic Gross Debt (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly,US$,1999,110
+N293FDGP@emergela,federal_government_gross_debt_as_a_of_an,"Peru: Federal Government Gross Debt as a % of Annualized GDP (NSA, %)",A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FDGT@emergela,public_sector_securities,"Peru: Public Sector Securities (NSA, EOP, Mil.PEN)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDHB@emergela,public_sector_securities_held_by_financi,"Peru: Public Sector Securities held by Financial System (NSA, EOP, Mil.PEN)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDI@emergela,dom_public_debt,"Peru: Domestic Public Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDIL@emergela,dom_public_debt_lt_local_governments,"Peru: Domestic Public Debt, LT, Local Governments (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDL1@emergela,dom_public_debt_long_term,"Peru: Domestic Public Debt, Long Term (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDMF@emergela,public_sector_securities_held_by_banking,"Peru: Public Sector Securities held by Banking Institutions (NSA, EOP, Mil.PEN)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDN@emergela,net_public_debt,"Peru: Net Public Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDNI@emergela,dom_pub_debt_lt_bn_credit_non_fin_pub_co,"Peru: Dom Pub Debt: LT: BN Credit: Non-Fin Pub Companies (EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDP@emergela,public_debt_as_a_percent_of_gdp,Peru: Public Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FDPA@emergela,public_debt_fuel_price_stabilization_fun,"Peru: Public Debt: Fuel Price Stabilization Fund (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDPB@emergela,dom_pub_debt_long_term_public_company_bo,"Peru: Domestic Pub Debt: Long Term: Public Company Bonds(EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDPC@emergela,public_debt_cofide_long_term_dom_debt,"Peru: Public Debt: COFIDE Long-Term Domestic Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDPE@emergela,pub_dbt_cofide_ex_dbt_mivivienda_fund_ba,"Peru: Pub Dbt: COFIDE Ex Dbt:Mivivienda Fund/Banco Agrario(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDPL@emergela,public_debt_ppp_liabilities,"Peru: Public Debt, PPP Liabilities (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDS1@emergela,dom_public_debt_short_term,"Peru: Domestic Public Debt, Short Term (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDSA@emergela,dom_public_debt_st_agrarian_debt_bondhol,"Peru: Dom Public Debt: ST: Agrarian Debt Bondholders (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDSB@emergela,dom_public_debt_s_t_bills,"Peru: Domestic Public Debt, S-T Bills (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDSC@emergela,dom_pub_dbt_st_nonfin_pub_comp_w_combank,"Peru: Dom Pub Dbt: ST: NonFin Pub Comp w/ ComBanking & Oth(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDSL@emergela,dom_public_debt_short_term_local_govts,"Peru: Domestic Public Debt: Short Term: Local Govts (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDSN@emergela,dom_pub_debt_long_term_non_financial_pub,"Peru: Dom Pub Debt: Long Term: Non-Financial Pub Companies(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDSR@emergela,dom_public_debt_short_term_regional_govt,"Peru: Domestic Public Debt: Short Term: Regional Govts (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDST@emergela,dom_public_debt_short_term_public_treasu,"Peru: Domestic Public Debt: Short Term: Public Treasury (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDSU@emergela,dom_pub_dbt_st_nonfin_pub_cos_w_banco_de,"Peru: Dom Pub Dbt: ST:NonFin Pub Cos w/ Banco De La Nacion(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDTB@emergela,dom_public_debt_s_t_treasury_bills,"Peru: Domestic Public Debt, S-T Treasury Bills (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDTF@emergela,pub_debt_holding_of_global_sov_bonds_non,"Peru: Pub Debt: Holding of Global & Sov Bonds: Non-Res (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDTN@emergela,public_debt_bond_holdings,"Peru: Public Debt, Bond holdings (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDTR@emergela,pub_debt_holding_of_global_sov_bonds_res,"Peru: Pub Debt: Holding of Global & Sov Bonds: Resident (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDVI@emergela,public_sector_securities_held_by_other,"Peru: Public Sector Securities held by Other (NSA, EOP, Mil.PEN)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1999,111
+N293FDVN@emergela,public_debt_sovereign_bonds_non_resident,"Peru: Public Debt, Sovereign Bonds, Non-resident (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDVR@emergela,public_debt_sovereign_bonds_resident,"Peru: Public Debt, Sovereign Bonds, Resident (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDW2@emergela,foreign_public_debt_credits_other_bilate,"Peru: Foreign Public Debt, Credits, Other bilateral (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDWC@emergela,foreign_public_debt_credits_commercial_b,"Peru: Foreign Public Debt, Credits, Commercial Banks (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDWL@emergela,foreign_public_debt_credits_latin_americ,"Peru: Foreign Public Debt, Credits, Latin America (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FDWN@emergela,foreign_public_debt_credits_multilateral,"Peru: Foreign Public Debt, Credits, Multilateral Org (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDWP@emergela,foreign_public_debt_credits_paris_club,"Peru: Foreign Public Debt, Credits, Paris Club (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FDWU@emergela,foreign_public_debt_credits_suppliers,"Peru: Foreign Public Debt, Credits, Suppliers (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FE1C@emergela,ggovt_national_govt_nonfinancial_expendi,"Peru: GGovt: National Govt Nonfinancial Expenditures (NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FE2C@emergela,gg_regional_govts_nonfin_expenditures,"Peru: Gen Govt: Regional Govts Nonfin Expenditures (NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FE3C@emergela,gg_local_govts_nonfinancial_expenditures,"Peru: Gen Govt: Local Govts Nonfinancial Expenditures (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FEAC@emergela,cg_nonfin_curr_expen_canon_transfers,"Peru: Cen Govt: NonFin: Curr Expen: Canon Transfers (NSA,Mil.Dec2021.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FECC@emergela,cg_current_expenditure,Peru: Central Government: Current Expenditure (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FECD@emergela,cg_interest_payments_1,Peru: Central Government: Interest Payments (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FECT@emergela,cg_nonfin_curr_expen_transfers,Peru: Central Government: NonFin: Curr Expen: Transfers (NSA Mil.NewSoles),A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEDD@emergela,cg_interest_payments_dom_debt_1,Peru: Central Government: Interest Payments: Domestic Debt (NSA Mil.NewSoles),A;B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEDF@emergela,cg_interest_payments_foreign_debt_1,Peru: Central Government: Interest Payments: Foreign Debt (NSA Mil.NewSoles),A;B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEFC@emergela,cg_nonfin_expen_cap_expen_gross_capital,Peru: Cent Govt: NonFin Expen: Cap Expen: Gross Capital (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEHP@emergela,cg_nonfin_curr_expen_pensions,Peru: Central Government: NonFin: Curr Expen: Pensions (NSA Mil.NewSoles),A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEKC@emergela,cg_nonfin_expen_capital_expenditure,Peru: Central Govt: NonFin Expen: Capital Expenditure (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEKF@emergela,cg_nonfin_cap_expen_gross_capital_form,Peru: Central Govt: NonFin: Cap Expen: Gross capital form (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEKR@emergela,cg_nonfin_capital_expenditure_other,Peru: Central Government: NonFin: Capital Expenditure: Other (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEOC@emergela,cen_gvt_nonfin_curr_exp_onp_fonahpu_tran,"Peru: Cen Gvt: NonFin: Curr Exp: ONP - FONAHPU Trans (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEON@emergela,cg_nonfin_curr_expen_onp_fonahpu_trans,Peru: Central Govt: NonFin: Curr Expen: ONP - FONAHPU Trans (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEPC@emergela,cg_nonfin_curr_expen_pensions_1,"Peru: Central Govt: NonFin: Curr Expen: Pensions (NSA,Mil.Dec2021.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEPO@emergela,cg_nonfin_curr_expen_goods_services,Peru: Central Government: NonFin: Curr Expen: Goods&Services (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FEPW@emergela,cg_nonfin_curr_expen_wages_salaries,Peru: Central Government: NonFin: Curr Expen: Wages&Salaries (NSA Mil.NewSoles),A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FERC@emergela,cg_nonfin_expen_capital_expen_other,Peru: Central Govt: NonFin Expen: Capital Expen: Other (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FETA@emergela,cg_nonfin_curr_expen_canon_transfers_1,Peru: Central Government: NonFin: Curr Expen: Canon Transfers (NSA Mil.NewSoles),A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FETC@emergela,cg_nonfin_curr_expen_other_transfers,"Peru: Cen Govt: NonFin: Curr Expen: Other Transfers (NSA,Mil.Dec2021.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FETF@emergela,cg_nonfin_curr_expen_foncomun_transfers,Peru: Central Govt: NonFin: Curr Expen: FONCOMUN Transfers (NSA Mil.NewSoles),A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FETO@emergela,cg_nonfin_curr_expen_other_transfers_1,Peru: Central Government: NonFin: Curr Expen: Other Transfers (NSA Mil.NewSoles),A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FETR@emergela,gg_nonfin_expnd_national_govt_trans_curr,"Peru: GG: Nonfin Expnd, National Govt Trans Curr Exp (NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FFDC@emergela,cg_tax_refund,Peru: Central Government: Tax Refund(NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FFEC@emergela,cen_gvt_nonfin_curr_expen_foncomun_trans,"Peru: Cen Gvt: NonFin: Curr Expen: FONCOMUN Transfers (NSA,Mil.Dec2021.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGAC@emergela,cg_net_financing_foreign,Peru: Central Government: Net Financing: Foreign (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGB@emergela,cg_overall_balance,Peru: Central Government: Overall Balance (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGBA@emergela,cg_savings_in_cur_acct_surplus_deficit_a,Peru: Cen Govt: Savings in Cur Acct: Surplus/Deficit as % of Annualized GDP (%),A,1,yoy_diff,TRUE,Quarterly,%,1995,126
+N293FGBC@emergela,cg_overal_balance,Peru: Central Government: Overal Balance (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGBD@emergela,cg_overall_balance_1,Peru: Central Government: Overall Balance (NSA Mil.US$),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1995,127
+N293FGBP@emergela,cg_savings_in_curr_acct_surplus_deficit_,Peru: Central Govt: Savings in Curr Acct: Surplus[+]/Deficit[-] as % of GDP (%),A,1,yoy_diff,TRUE,Quarterly,%,1995,126
+N293FGBU@emergela,cg_current_account_saving_1,Peru: Central Government: Current Account Saving (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGCC@emergela,cg_current_revenues,Peru: Central Government: Current Revenues (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGDC@emergela,cg_net_financing_dom,Peru: Central Government: Net Financing: Domestic (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGEC@emergela,cg_current_expenditure_1,Peru: Central Government: Current Expenditure (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGEK@emergela,cg_nonfin_capital_expenditure,Peru: Central Government: NonFin: Capital Expenditure (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGEN@emergela,cg_nonfinancial_expenditure,Peru: Central Government: NonFinancial Expenditure (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FGEZ@emergela,cg_nonfinnancial_current_expenditure,Peru: Central Government: NonFinnancial: Current Expenditure (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGF@emergela,cg_net_financing,Peru: Central Government: Net Financing (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGFA@emergela,cg_net_financing_foreign_1,Peru: Central Government: Net Financing : Foreign (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGFC@emergela,cg_net_financing_1,Peru: Central Government: Net Financing (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGFD@emergela,cg_net_financing_dom_1,Peru: Central Government: Net Financing: Domestic (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGMG@emergela,federal_government_gross_debt_as_a_of_mo,"Peru: Federal Government Gross Debt as a % of Moving Total GDP (NSA, %)",A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FGNC@emergela,cg_nonfinancial_expenditure_1,Peru: Central Government: NonFinancial Expenditure (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGPB@emergela,cg_primary_balance,Peru: Central Government: Primary Balance (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGPC@emergela,cg_primary_balance_1,Peru: Central Government: Primary Balance (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGPV@emergela,cg_net_financing_privatization,Peru: Central Government: Net Financing: Privatization (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGRC@emergela,cg_current_revenues_1,Peru: Central Government: Current Revenues (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FGRK@emergela,cg_capital_revenue,Peru: Central Government: Capital Revenue (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGRN@emergela,cg_nontax_revenue,Peru: Central Government: NonTax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGRT@emergela,cg_tax_revenue,Peru: Central Government: Tax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGTC@emergela,cg_tax_revenue_1,Peru: Central Government Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FGVC@emergela,cg_net_financing_privatization_1,Peru: Central Government: Net Financing: Privatization (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FGZC@emergela,cg_nonfin_expen_current_expenditure,Peru: Central Govt: NonFin Expen: Current Expenditure (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FITC@emergela,cg_import_tax,Peru: Central Government: Import Tax (NSA Mil.Dec2021.Soles),A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FK1C@emergela,gg_nonfin_expen_capital_national_govt,Peru: General Govt: NonFin Expen: Capital: National Govt (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FK2C@emergela,gg_nonfin_expen_capital_regional_govt,Peru: General Govt: NonFin Expen: Capital: Regional Govt (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FK3C@emergela,gg_nonfin_expen_capital_local_govt,Peru: General Govt: NonFin Expen: Capital: Local Govt (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FKFC@emergela,gg_nonfin_expen_capital_gross_capital,Peru: General Govt: NonFin Expen: Capital: Gross Capital (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FKOC@emergela,gg_national_govt_other_revenue,"Peru: General Govt: National Govt: Other Revenue (NSA, Mil.Dec.2021.Soles)",A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FKRC@emergela,gg_nonfin_expen_capital_other_capital,Peru: General Govt: NonFin Expen: Capital: Other Capital (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FLRT@emergela,gg_local_government_tax_revenue,Peru: General Government: Local Government Tax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FLTC@emergela,gg_local_government_tax_revenue_1,Peru: General Government: Local Government: Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FM@emergela,money_money,"Peru: Monetary Aggregates: Money (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FM2@emergela,money_broad_money,"Peru: Monetary Aggregates: Broad Money (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FM2L@emergela,money_broad_money_1,"Peru: Monetary Aggregates: Broad Money (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FM2V@emergela,money_broad_money_2,"Peru: Monetary Aggregates: Broad Money (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,136
+N293FMAG@emergela,money_net_dom_assets_on_public_sector,"Peru: Mon Agg: Net Domestic Assets on Public Sector (EOP, NSA,Mil.Soles)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMAP@emergela,money_net_dom_assets_credit_to_private_s,"Peru: Mon Agg: Net Domestic Assets: Credit to Private Sector(EOP,NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMC@emergela,money_currency_in_circulation,"Peru: Monetary Aggregates: Currency in Circulation (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FMC1@emergela,money_broad_money_dom_currency_currency,"Peru: Mon Agg: Broad Money: Domestic Currency: Currency (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMCV@emergela,money_currency_in_circulation_1,"Peru: Monetary Aggregates: Currency in Circulation (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,136
+N293FMDB@emergela,money_net_dom_assets,"Peru: Monetary Aggregates: Net Domestic Assets (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMF1@emergela,money_short_term_net_external_assets,"Peru: Monetary Aggregates: Short Term Net External Assets (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMF2@emergela,money_long_term_net_external_assets,"Peru: Monetary Aggregates: Long Term Net External Assets (EOP, NSA, Mil.Soles)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMLD@emergela,money_broad_money_in_dom_currency,"Peru: Monetary Aggregates: Broad Money in Dom Currency (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FMLV@emergela,money_broad_money_in_dom_currency_1,"Peru: Monetary Aggregates: Broad Money in Dom Currency (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,136
+N293FMM1@emergela,moneyregates_broad_money_dom_currency_mo,"Peru: Mon Aggregates: Broad Money: Domestic Currency: Money(EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMON@emergela,money_net_dom_assets_other_assets,"Peru: Monetary Aggregates: Net Domestic Assets: Other Assets(EOP,NSA, Mil.Soles)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMQ@emergela,money_quasi_money_in_soles,"Peru: Monetary Aggregates: Quasi-money in Soles (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+N293FMQ1@emergela,money_broad_money_dom_currency_quasi_mon,"Peru: Mon Agg: Broad Money: Domestic Currency: Quasi Money (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMQV@emergela,money_quasi_money_in_soles_1,"Peru: Monetary Aggregates: Quasi-money in Soles (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,136
+N293FMR@emergela,monetary_base,"Peru: Monetary Base (NSA, EOP, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMRN@emergela,money_broad_money_dom_currency_demand_de,"Peru: Mon Agg: Broad Money: Dom Currency: Demand Deposits (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMRV@emergela,monetary_base_1,"Peru: Monetary Base (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+N293FMV@emergela,money_money_1,"Peru: Monetary Aggregates: Money (NSA, AVG, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,136
+N293FMXD@emergela,money_broad_money_in_foreign_currency,"Peru: Monetary Aggregates: Broad Money in Foreign Currency (NSA, EOP, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1992,137
+N293FMXV@emergela,money_broad_money_in_foreign_currency_1,"Peru: Monetary Aggregates: Broad Money in Foreign Currency (NSA, AVG, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1992,136
+N293FP1C@emergela,gg_nonfin_expend_natl_gvt_goods_srv_curr,"Peru: GG: Nonfin Expend, Natl Gvt Goods & Srv Curr Exp(NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FP2C@emergela,gg_nonfin_expend_reg_gvt_goods_srv_curr_,"Peru: GG: Nonfin Expend, Reg Gvt Goods & Srv Curr Exp (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FP3C@emergela,gg_nonfin_exp_local_gvt_goods_srv_curr_e,"Peru: GG: Nonfin Exp, Local Gvt Goods & Srv Curr Exp (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FPA@emergela,foreign_public_debt_as_a_percent_of_gdp,Peru: Foreign Public Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPAI@emergela,dom_public_debt_lt_ad_hoc_commission_law,"Peru: Dom Public Debt: LT: Ad Hoc Commission, Law 29625 as a Percent of GDP (%)",A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPBG@emergela,public_debt_global_bonds_as_a_percent_of,Peru: Public Debt: Global Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPBN@emergela,public_debt_global_bonds_non_resident_as,Peru: Public Debt: Global Bonds: Non-Resident as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPBR@emergela,public_debt_global_bonds_resident_as_a_p,Peru: Public Debt: Global Bonds: Resident as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPBS@emergela,public_debt_sovereign_bonds_as_a_percent,Peru: Public Debt: Sovereign Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPC1@emergela,dom_pub_debt_lt_commerical_bank_credits_,Peru: Dom Pub Debt: LT: Commerical Bank Credits: Central Gov as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPC2@emergela,dom_pub_debt_lt_commerical_bank_credits__1,Peru: Dom Pub Debt: LT: Commerical Bank Credits: Regional Gov as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPC3@emergela,dom_pub_debt_lt_commerical_bank_credits__2,Peru: Dom Pub Debt: LT: Commerical Bank Credits: Local Gov as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPC4@emergela,dom_pub_debt_lt_commerical_bank_credits__3,Peru: Dom Pub Debt: LT: Commerical Bank Credits: Public Gov as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPCI@emergela,dom_pub_debt_lt_commerical_bank_credits__4,Peru: Dom Pub Debt: LT: Commerical Bank Credits as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPCW@emergela,foreign_public_debt_credits_commercial_b_1,Peru: Foreign Public Debt: Credits: Commercial Banks as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPDI@emergela,dom_public_debt_long_term_local_governme,Peru: Domestic Public Debt: Long Term: Local Government as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPFB@emergela,foreign_public_debt_bonds_as_a_percent_o,Peru: Foreign Public Debt: Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPFE@emergela,dom_public_debt_lt_acquisition_of_shares,Peru: Dom Public Debt: LT: Acquisition of Shares: COFIDE as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,2007,78
+N293FPFG@emergela,foreign_public_debt_global_bonds_as_a_pe,Peru: Foreign Public Debt: Global Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPFN@emergela,foreign_pub_debt_non_financial_pub_compa_1,Peru: Foreign Pub Debt: Non-Financial Pub Company Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPFW@emergela,foreign_public_debt_credits_as_a_percent,Peru: Foreign Public Debt: Credits as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPI@emergela,dom_public_debt_as_a_percent_of_gdp,Peru: Domestic Public Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPL1@emergela,dom_public_debt_long_term_as_a_percent_o,Peru: Domestic Public Debt: Long Term as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPLC@emergela,dom_pub_debt_lt_credits_from_banco_de_la,Peru: Dom Pub Debt: LT: Credits from Banco De La Nacion as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPLI@emergela,dom_public_debt_long_term_credits_as_a_p,Peru: Domestic Public Debt: Long Term: Credits as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPN@emergela,net_public_debt_as_a_percent_of_gdp,Peru: Net Public Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPNI@emergela,dom_public_debt_lt_bn_credit_non_fin_pub,Peru: Dom Public Debt: LT: BN Credit: Non-Fin Pub Companies as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPOC@emergela,cg_nonfin_expen_curr_expen_goods_service,Peru: Cen Govt: NonFin Expen: Curr Expen: Goods&Services (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FPPA@emergela,public_debt_fuel_price_stabilization_fun_1,Peru: Public Debt: Fuel Price Stabilization Fund as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPPB@emergela,dom_pub_debt_long_term_public_company_bo_1,Peru: Domestic Pub Debt: Long Term: Public Company Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPPC@emergela,public_debt_cofide_long_term_dom_debt_as,Peru: Public Debt: COFIDE Long-Term Domestic Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPPE@emergela,pub_debt_cofide_ext_debt_mivivienda_fund,"Peru: Pub Debt: COFIDE Ext Debt, Mivivienda Fund/Banco Agrario as a % of GDP (%)",A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPPL@emergela,public_debt_ppp_liabilities_as_a_percent,Peru: Public Debt: PPP Liabilities as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPS1@emergela,dom_public_debt_short_term_as_a_percent_,Peru: Domestic Public Debt: Short Term as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSA@emergela,dom_pub_debt_short_term_agrarian_debt_bo,Peru: Dom Pub Debt: Short Term: Agrarian Debt Bondholders as a Percent of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSB@emergela,dom_public_debt_short_term_bills_as_a_pe,Peru: Domestic Public Debt: Short Term: Bills as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSC@emergela,dom_pub_debt_s_t_non_fin_pub_comp_w_comm,Peru: Dom Pub Debt: S-T: Non-Fin Pub Comp w/ Comm Banking & Oth as a % of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSL@emergela,dom_public_debt_short_term_local_governm,Peru: Domestic Public Debt: Short Term: Local Government as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSN@emergela,dom_pub_debt_lt_comm_bank_credits_non_fi,Peru: Dom Pub Debt: LT: Comm Bank Credits: Non-Fin Pub Companies a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSR@emergela,dom_public_debt_short_term_regional_govt_1,Peru: Domestic Public Debt: Short Term: Regional Govt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPST@emergela,dom_public_debt_short_term_public_treasu_1,Peru: Domestic Public Debt: Short Term: Public Treasury as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPSU@emergela,dom_pub_debt_s_t_non_fin_pub_comp_w_banc,Peru: Dom Pub Debt: S-T: Non-Fin Pub Comp w/ Banco de la Nacion as a % of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPTB@emergela,dom_public_debt_short_term_treasury_bill,Peru: Domestic Public Debt: Short Term: Treasury Bills as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPTF@emergela,pub_debt_holding_of_global_sovereign_bon,Peru: Pub Debt: Holding of Global & Sovereign Bonds: Non-Res as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPTN@emergela,public_debt_bond_holdings_as_a_percent_o,Peru: Public Debt: Bond Holdings as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPTR@emergela,pub_debt_holding_of_global_sovereign_bon_1,Peru: Pub Debt: Holding of Global & Sovereign Bonds: Resident as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPVN@emergela,public_debt_sovereign_bonds_non_resident_1,Peru: Public Debt: Sovereign Bonds: Non-Resident as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPVR@emergela,public_debt_sovereign_bonds_resident_as_,Peru: Public Debt: Sovereign Bonds: Resident as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPW2@emergela,foreign_public_debt_credits_other_bilate_1,Peru: Foreign Public Debt: Credits: Other Bilateral as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPWC@emergela,cg_nonfin_expen_curr_expen_wages_salarie,Peru: Cen Govt: NonFin Expen: Curr Expen: Wages&Salaries (NSA Mil.Dec2021.Soles),A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FPWI@emergela,dom_public_debt_long_term_cg_as_a_percen,Peru: Domestic Public Debt: Long Term: Central Government as a Percent of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPWL@emergela,foreign_public_debt_credits_latin_americ_1,Peru: Foreign Public Debt: Credits: Latin America as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPWN@emergela,frgn_pub_debt_credits_multilateral_organ,Peru: Frgn Pub Debt: Credits: Multilateral Organizations as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPWP@emergela,foreign_public_debt_credits_paris_club_a,Peru: Foreign Public Debt: Credits: Paris Club as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FPWU@emergela,foreign_public_debt_credits_suppliers_as,Peru: Foreign Public Debt: Credits: Suppliers as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293FQA@emergela,lima_se_market_capitalization,"Peru: Lima SE Market Capitalization (EOP, Mil.New Soles)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1997,119
+N293FR1C@emergela,gg_nonfin_expend_natl_govt_curr_remunera,"Peru: GG: Nonfin Expend, Natl Govt Curr Remunerations (NSA,Mil.Dec2021.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FR2C@emergela,gg_nonfin_expend_reg_govt_curr_remunerat,"Peru: GG: Nonfin Expend, Reg Govt Curr Remunerations (NSA, Mil.Dec2021.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FR3C@emergela,gg_nonfin_expend_local_gvt_curr_remunera,"Peru: GG: Nonfin Expend, Local Gvt Curr Remunerations (NSA,Mil.Dec2021.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FRCC@emergela,cg_income_tax_corporate,Peru: Central Govt: Income Tax: Corporate (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRCI@emergela,cg_income_tax_corporate_1,Peru: Central Govt: Income Tax: Corporate (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRDC@emergela,cg_value_added_tax_dom,Peru: Central Govt: Value-added Tax: Domestic (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FREC@emergela,cg_excise_tax,Peru: Central Government: Excise Tax (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FREO@emergela,cg_excise_tax_other,Peru: Central Government: Excise Tax: Other (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FREU@emergela,cg_excise_tax_fuels,Peru: Central Government: Excise Tax: Fuels (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRFC@emergela,cg_value_added_tax_imports,Peru: Cen Govt: Value-added Tax: Imports (NSA Mil.Dec2021.Soles),A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRFD@emergela,cg_tax_refund_1,Peru: Central Government: Tax Refund (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRHC@emergela,cg_income_tax_clearing,Peru: Central Govt: Income Tax: Clearing (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRIC@emergela,cg_income_tax_individual,Peru: Cen Govt: Income Tax: Individual (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRIH@emergela,cg_income_tax_clearing_1,Peru: Central Government: Income Tax: Clearing (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRII@emergela,cg_income_tax_individual_1,Peru: Central Govt: Income Tax: Individual (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRKC@emergela,cg_capital_revenue_1,Peru: Central Government: Capital Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRNC@emergela,cg_non_tax_revenue,Peru: Central Government: Non-Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FROC@emergela,cg_excise_tax_other_1,Peru: Central Govt: Excise Tax: Other (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRTC@emergela,cg_import_tax_1,Peru: Central Government: Import Tax (NSA Mil.NewSoles),A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRTE@emergela,cg_excise_tax_1,Peru: Central Government: Excise tax (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRTO@emergela,cg_other_tax_revenue,Peru: Central Government: Other Tax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRTT@emergela,cg_income_tax,Peru: Central Government: Income Tax (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRTV@emergela,cg_value_added_tax,Peru: Central Government: Value-Added Tax (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRUC@emergela,cg_excise_tax_fuels_1,Peru: Central Govt: Excise Tax: Fuels (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRVD@emergela,cg_value_added_tax_dom_1,Peru: Central Govt: Value-Added Tax: Domestic (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FRVF@emergela,cg_value_added_tax_imports_1,Peru: Central Govt: Value-Added Tax: Imports (NSA Mil.NewSoles),A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FT1C@emergela,gg_nonfin_expend_regional_govt_trans_cur,"Peru: GG: Nonfin Expend, Regional Govt Trans Curr Exp(NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FT2C@emergela,gg_nonfin_expend_local_govt_trans_curr_e,"Peru: GG: Nonfin Expend, Local Govt Trans Curr Exp (NSA,Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FT3C@emergela,gg_nonfin_expend_capital_expenditures,"Peru: GG: Nonfin Expend, Capital Expenditures (NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTB@emergela,gg_overall_balance,Peru: General Government: Overall Balance (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTBC@emergela,gg_overall_balance_1,Peru: General Government: Overall Balance (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTCC@emergela,gg_current_revenues,Peru: General Government: Current Revenues (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTCP@emergela,ggovt_nonfin_expend_goods_services_curr_,"Peru: GGovt: Nonfin Expend, Goods & Services Curr Expenses (NSA Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTCT@emergela,gg_nonfin_expend_national_govt_transfers,"Peru: GG: Nonfin Expend, National Govt Transfers Curr Exp (NSA Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTE@emergela,gg_expenditures,"Peru: General Government, Expenditures (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTEC@emergela,gg_nonfinancial_expenditures,Peru: General Government: NonFinancial Expenditures (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTEK@emergela,gg_nonfinancial_expenditures_capital,Peru: General Government: Nonfinancial Expenditures: Capital (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTEN@emergela,gg_nonfinancial_expenditures_1,Peru: General Government: Nonfinancial Expenditures (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTEZ@emergela,gg_nonfinancial_expenditures_current,Peru: General Government: Nonfinancial Expenditures: Current (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTKC@emergela,gg_nonfinancial_expenditures_capital_1,Peru: General Govt: NonFinancial Expenditures: Capital (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTKO@emergela,gg_others,Peru: General Government: Others (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTNC@emergela,gg_current_revenues_non_tax_revenue,Peru: General Govt: Current Revenues: Non-Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTOC@emergela,cg_other_tax_revenue_1,Peru: Central Government: Other Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FTPB@emergela,gg_primary_balance,Peru: General Government: Primary Balance (NSA Mil.NewSoles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTPC@emergela,gg_primary_balance_1,Peru: General Government: Primary Balance (NSA Mil.Dec2021.Soles),A,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTPR@emergela,gg_nonfin_expend_goods_serv_curr_expense,"Peru: GG: Nonfin Expend, Goods & Serv Curr Expenses (NSA, Mil.Dec2021.NewSoles)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FTRC@emergela,gg_current_revenues_1,Peru: General Government: Current Revenues (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTRN@emergela,gg_current_revenues_nontax_revenue,Peru: General Government: Current Revenues: NonTax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTRT@emergela,gg_current_revenues_tax_revenue,Peru: General Government: Current Revenues: Tax Revenue (NSA Mil.NewSoles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTTC@emergela,gg_current_revenues_tax_revenue_1,Peru: General Government: Current Revenues: Tax Revenue (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2003,95
+N293FTVC@emergela,cg_value_added_tax_1,Peru: Central Government: Value-added Tax (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FTZC@emergela,gg_nonfinancial_expenditures_current_1,Peru: General Govt: NonFinancial Expenditures: Current (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2006,83
+N293FWIL@emergela,dom_public_debt_lt_cg,"Peru: Domestic Public Debt, LT, Central Government (EOP, NSA, Mil.NewSoles)",A;B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FYTC@emergela,cg_income_tax_1,Peru: Central Govt: Income Tax (NSA Mil.Dec2021.Soles),A,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1995,127
+N293FZBB@emergela,dom_public_debt_lt_bcrp_capitalization_b,"Peru: Dom Public Debt, LT, BCRP Capitalization Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBD@emergela,dom_public_debt_lt_debt_exchange_bonds,"Peru: Domestic Public Debt, LT, Debt Exchange Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBF@emergela,dom_pub_debt_lt_financial_system_support,"Peru: Dom Pub Debt, LT, Financial System Support Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBG@emergela,dom_public_debt_lt_pension_recognition_b,"Peru: Dom Public Debt, LT, Pension Recognition Bonds (EOP, NSA, Mil.NewSoles)",B;D;E,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZBJ@emergela,dom_pub_dbt_lt_caja_de_pens_militar_poli,"Peru: Dom Pub Dbt, LT, Caja de Pens Militar-Policial Bonds(EOP,NSA,Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBL@emergela,dom_public_debt_lt_liquidity_bonds,"Peru: Domestic Public Debt, LT, Liquidity Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBR@emergela,dom_public_debt_lt_rfa_and_fope_programs,"Peru: Domestic Public Debt, LT, RFA and FOPE Programs (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBS@emergela,dom_public_debt_lt_sovereign_bonds,"Peru: Domestic Public Debt, LT, Sovereign Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBT@emergela,dom_pub_debt_lt_temporal_suscription_of_,"Peru: Dom Pub Debt, LT, Temporal Suscription of Stocks (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBX@emergela,dom_pub_debt_lt_temporal_portfolio_excha,"Peru: Dom Pub Debt, LT, Temporal  Portfolio Exchange (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZBY@emergela,dom_pub_debt_lt_financial_system_consoli,"Peru: Dom Pub Debt, LT, Financial System Consolidation (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZLB@emergela,dom_public_debt_lt_bonds,"Peru: Domestic Public Debt, LT Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZLC@emergela,dom_pub_debt_lt_credits_from_banco_de_la_1,"Peru: Dom Pub Debt, LT Credits from Banco de la Nacion (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZLI@emergela,dom_public_debt_lt_credits,"Peru: Domestic Public Debt, LT Credits (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZSB@emergela,dom_pub_debt_s_t_credits_from_banco_de_l,"Peru: Dom Pub Debt, S-T Credits from Banco de la Nacion (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293FZSF@emergela,dom_public_debt_s_t_floating_debt,"Peru: Domestic Public Debt, S-T Floating Debt (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZSI@emergela,dom_public_debt_s_t_credits,"Peru: Domestic Public Debt, S-T Credits (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZTB@emergela,dom_public_debt_lt_treasury_bonds,"Peru: Domestic Public Debt, LT, Treasury Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly,LocCur,1999,110
+N293FZTL@emergela,dom_public_debt_lt_lima_municipal_bonds,"Peru: Domestic Public Debt, LT, Lima Municipal Bonds (EOP, NSA, Mil.NewSoles)",B,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1999,110
+N293G10E@emergela,10_year_sovereign_bond_yield,"Peru: 10 Year Sovereign Bond Yield (EOP, % per annum)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2005,86
+N293G1DE@emergela,10_year_sovereign_bond_yield_us_denomina,"Peru: 10 Year Sovereign Bond Yield [US$ Denominated] (EOP, % per annum)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2009,69
+N293G1Q@emergela,gdp_volume_primary_sectors,"Peru: GDP Volume, Primary Sectors (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293G2BC@emergela,gdp_business_services,"Peru: GDP: Business Services (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293G2CC@emergela,gdp_construction,"Peru: GDP: Construction (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293G2FC@emergela,gdp_fishing,"Peru: GDP: Fishing (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293G2IC@emergela,gdp_financial_services_insurance_pension,"Peru: GDP: Financial Services, Insurance & Pensions (NSA, Mil.2007.NewSoles)",A;D;E,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293G2Q@emergela,gdp_volume_non_primary_sectors,"Peru: GDP Volume, Non-Primary Sectors (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293G2TC@emergela,gdp_telecommunication_other_information_,"Peru: GDP: Telecommunication & Other Information Srvcs (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GA2C@emergela,gdp_agriculture,"Peru: GDP: Agriculture (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GAC@emergela,gdp_agriculture_1,"Peru: GDP: Agriculture (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GAGI@emergela,gdp_agriculture_2,"Peru: GDP: Agriculture (NSA, 2007=100)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GAGQ@emergela,gdp_volume_farming,"Peru: GDP Volume, Farming (NSA, 2007=100)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GALQ@emergela,gdp_volume_livestock,"Peru: GDP Volume, Livestock (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GAQ@emergela,gdp_volume_agricultural,"Peru: GDP Volume, Agricultural (NSA, 2007=100)",A;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GC1@emergela,gdp_private_consumption,"Peru: GDP: Private Consumption (NSA, Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GC1C@emergela,gdp_private_consumption_1,"Peru: GDP: Private Consumption (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GC2@emergela,gdp_government_consumption,"Peru: GDP: Government Consumption (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GC2C@emergela,gdp_government_consumption_1,"Peru: GDP: Government Consumption (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GCOC@emergela,gdp_construction_1,"Peru: GDP: Construction (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GCOI@emergela,gdp_construction_2,"Peru: GDP: Construction (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2007,79
+N293GCOQ@emergela,gdp_volume_construction,"Peru: GDP Volume, Construction (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GE2C@emergela,gdp_electricity_water,"Peru: GDP: Electricity & Water (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GEC@emergela,gdp_electricity_water_1,"Peru: GDP: Electricity & Water (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GEI@emergela,gdp_electricity_and_water,"Peru: GDP: Electricity and Water (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GEQ@emergela,gdp_volume_electricity_and_water,"Peru: GDP Volume, Electricity and Water (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GF@emergela,gdp_gross_fixed_capital_formation,"Peru: GDP: Gross Fixed Capital Formation (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GF1@emergela,gdp_gross_capital_formation_private_gfi,"Peru: GDP: Gross Capital Formation: Private GFI (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GF1C@emergela,real_gdp_gross_capital_formation_private,"Peru: Real GDP: Gross Capital Formation: Private GFI (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GF2@emergela,gdp_gross_capital_formation_public_gfi,"Peru: GDP: Gross Capital Formation: Public GFI (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GF2C@emergela,real_gdp_gross_capital_formation_public_,"Peru: Real GDP: Gross Capital Formation: Public GFI  (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFB@emergela,gdp_gross_capital_formation,"Peru: GDP: Gross Capital Formation (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFBC@emergela,gdp_gross_capital_formation_1,"Peru: GDP: Gross Capital Formation (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFC@emergela,gdp_gross_fixed_capital_formation_1,"Peru: GDP: Gross Fixed Capital Formation (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFFC@emergela,gdp_fishing_1,"Peru: GDP: Fishing (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GFFI@emergela,gdp_fishing_2,"Peru: GDP: Fishing (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2007,79
+N293GFFQ@emergela,gdp_volume_fishing,"Peru: GDP Volume, Fishing (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GFQ@emergela,gdp_gfcf_machinery_equipment,"Peru: GDP: GFCF: Machinery & Equipment (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFQC@emergela,gdp_gfcf_machinery_equipment_1,"Peru: GDP: GFCF: Machinery & Equipment (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFR@emergela,gdp_gross_fixed_capital_formation_constr,"Peru: GDP: Gross Fixed Capital Formation: Construction (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GFRC@emergela,gdp_gross_fixed_capital_formation_constr_1,"Peru: GDP: Gross Fixed Capital Formation: Construction (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GG2C@emergela,gdp_public_administration_defense,"Peru: GDP: Public Administration & Defense (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GGDP@emergela,gross_dom_product_at_market_prices,"Peru: Gross Domestic Product at Market Prices (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GGPC@emergela,gross_dom_product_at_market_prices_1,"Peru: Gross Domestic Product at Market Prices (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GH2C@emergela,gdp_hotel_and_restaurants,"Peru: GDP: Hotel and Restaurants (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GIFQ@emergela,gdp_volume_processors_of_primary_resourc,"Peru: GDP Volume, Processors of Primary Resources (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GIHQ@emergela,gdp_volume_non_primary_manufacturing,"Peru: GDP Volume, Non-Primary Manufacturing (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GIM@emergela,gdp_imports_of_goods_and_services,"Peru: GDP: Imports of Goods and Services (NSA, Mil.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GIMC@emergela,gdp_imports_of_goods_and_services_1,"Peru: GDP: Imports of Goods and Services (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GIX@emergela,gdp_exports_of_goods_and_services,"Peru: GDP: Exports of Goods and Services (NSA, Mil.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GIXC@emergela,gdp_exports_of_goods_and_services_1,"Peru: GDP: Exports of Goods and Services (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GM2C@emergela,gdp_manufacturing,"Peru: GDP: Manufacturing (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GMC@emergela,gdp_manufacturing_1,"Peru: GDP: Manufacturing (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GMI@emergela,gdp_manufacturing_2,"Peru: GDP: Manufacturing (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GMQ@emergela,gdp_volume_manufacturing,"Peru: GDP Volume, Manufacturing (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GO2C@emergela,gdp_other_services,"Peru: GDP: Other Services (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQ2C@emergela,gdp_mining_and_hydrocarbons,"Peru: GDP: Mining and Hydrocarbons (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQAQ@emergela,gdp_volume_metal_mining,"Peru: GDP Volume, Metal Mining (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GQC@emergela,gdp_mining_and_hydrocarbons_1,"Peru: GDP: Mining and Hydrocarbons (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GQD@emergela,gdp_gfcf_dom_machinery_eqpt,"Peru: GDP: GFCF: Domestic Machinery & Eqpt (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQDC@emergela,gdp_gfcf_dom_machinery_eqpt_1,"Peru: GDP: GFCF: Domestic Machinery & Eqpt (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQGQ@emergela,gdp_volume_hydrocarbons,"Peru: GDP Volume, Hydrocarbons (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GQM@emergela,gdp_gfcf_imported_machinery_eqpt,"Peru: GDP: GFCF: Imported Machinery & Eqpt (NSA, Mil.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQMC@emergela,gdp_gfcf_imported_machinery_eqpt_1,"Peru: GDP: GFCF: Imported Machinery & Eqpt (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GQMI@emergela,gdp_mining,"Peru: GDP: Mining (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GQMQ@emergela,gdp_volume_mining_and_hydrocarbons,"Peru: GDP Volume, Mining and Hydrocarbons (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GSC@emergela,gdp_services_inc_taxes_and_import_duties,"Peru: GDP: Services [Inc Taxes and Import Duties] (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GT2C@emergela,gdp_transportation_storage_mail_and_mess,"Peru: GDP: Transportation, Storage, Mail and Messages (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GVI@emergela,gross_dom_product_index,"Peru: Gross Domestic Product Index (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GVQ@emergela,gross_dom_product_volume_index,"Peru: Gross Domestic Product Volume Index (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GW2C@emergela,gdp_wholesale_retail_trade,"Peru: GDP: Wholesale & Retail Trade (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GWRC@emergela,gdp_wholesale_retail_trade_1,"Peru: GDP: Wholesale & Retail Trade (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293GWRI@emergela,gdp_trade,"Peru: GDP: Trade (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2007,79
+N293GWRQ@emergela,gdp_volume_trade,"Peru: GDP Volume, Trade (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GWXI@emergela,gdp_other_services_1,"Peru: GDP: Other Services (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2007,78
+N293GWXQ@emergela,gdp_volume_other_services,"Peru: GDP Volume, Other Services (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293GX2C@emergela,gdp_import_rights_and_other_taxes,"Peru: GDP: Import Rights and Other Taxes (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,2007,78
+N293GXMI@emergela,gdp_imports_taxes,"Peru: GDP: Imports & Taxes (NSA, 2007=100)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293GXMQ@emergela,gdp_volume_import_duties_and_other_taxes,"Peru: GDP Volume, Import Duties and Other Taxes (NSA, 2007=100)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293HPC@emergela,housing_prices_apartments_metropolitan_l,"Peru: Housing Prices: Apartments [Metropolitan Lima] (NSA, NewSoles/Sq Meter)",B;E,1,yoy_pct,TRUE,Quarterly,LocCur,1998,113
+N293HPCC@emergela,housing_prices_apartments_metro_lima,"Peru: Housing Prices: Apartments [Metro Lima] (NSA, 2009.NewSoles/Sq Meter)",B;E,1,yoy_pct,TRUE,Quarterly,LocCur,1998,113
+N293HPCD@emergela,housing_prices_apartments_metropolitan_l_1,"Peru: Housing Prices: Apartments [Metropolitan Lima] (NSA, US$/Sq Meter)",B;E,1,yoy_pct,TRUE,Quarterly,US$,1998,113
+N293IBD@emergela,trade_balance_fob,"Peru: Trade Balance, fob (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1980,187
+N293IEXC@emergela,exports_textiles,"Peru: Exports: Textiles (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IEY8@emergela,exports_basic_metal_industries_and_jewel,"Peru: Exports: Basic Metal Industries and Jewelry (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IF33@emergela,export_volume_petroleum_and_derivaties,"Peru: Export Volume, Petroleum and Derivaties (NSA, Mil.Bbl)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IF99@emergela,export_volume_gold,"Peru: Export Volume, Gold (NSA, Thous.Oz.T)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFCU@emergela,export_volume_cotton,"Peru: Export Volume, Cotton (NSA, Thous.Mt)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFFA@emergela,export_volume_sugar,"Peru: Export Volume, Sugar (NSA, Thous.Mt)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFFH@emergela,export_volume_coffee,"Peru: Export Volume, Coffee (NSA, Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFGD@emergela,export_volume_fishmeal,"Peru: Export Volume, Fishmeal (NSA, Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFGE@emergela,export_volume_fish_oil,"Peru: Export Volume, Fish Oil (NSA, Thous.Mt)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJ9@emergela,export_volume_refined_silver,"Peru: Export Volume, Refined Silver (NSA, Mil.Oz.T)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJL@emergela,export_volume_iron,"Peru: Export Volume, Iron (NSA, Mil.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJN@emergela,export_volume_copper_thous_mt,"Peru: Export Volume, Copper (Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJS@emergela,export_volume_lead,"Peru: Export Volume, Lead (NSA, Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJT@emergela,export_volume_zinc,"Peru: Export Volume, Zinc (NSA, Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJU@emergela,export_volume_tin_thous_mt,"Peru: Export Volume, Tin (Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1985,167
+N293IFJW@emergela,export_volume_molybdenum,"Peru: Export Volume, Molybdenum (NSA, Thous.Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1994,131
+N293IFKO@emergela,export_volume_natural_gas,"Peru: Export Volume, Natural Gas (NSA, Thous. m3)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,Units,1994,131
+N293IL33@emergela,export_price_petroleum_and_derivaties,"Peru: Export Price, Petroleum and Derivaties (NSA, US$/Bbl)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IL99@emergela,export_price_gold,"Peru: Export Price, Gold (NSA, US$/oz.T)",A;B;C;D;E,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILCU@emergela,export_price_cotton,"Peru: Export Price, Cotton (NSA, US$/mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILFA@emergela,export_price_sugar,"Peru: Export Price, Sugar (NSA, US$/Mt)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILFH@emergela,export_price_coffee,"Peru: Export Price, Coffee (NSA, US$/Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILGD@emergela,export_price_fishmeal,"Peru: Export Price, Fishmeal (NSA, US$/mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILGE@emergela,export_price_fish_oil,"Peru: Export Price, Fish Oil (NSA, US$/Mt)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJ9@emergela,export_price_refined_silver,"Peru: Export Price, Refined Silver (NSA, US$/oz.T)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJL@emergela,export_price_iron,"Peru: Export Price, Iron (NSA, US$/Mt)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,166
+N293ILJN@emergela,export_price_copper,"Peru: Export Price, Copper (NSA, UScents $/lb.)",A;B;C;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJS@emergela,export_price_lead,"Peru: Export Price, Lead (NSA, UScents $/lb.)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJT@emergela,export_price_zinc,"Peru: Export Price, Zinc (NSA, UScents $/lb.)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJU@emergela,export_price_tin,"Peru: Export Price, Tin (NSA, UScents $/lb.)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293ILJW@emergela,export_price_molybdenum,"Peru: Export Price, Molybdenum (NSA, UScents $/lb.)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1994,131
+N293ILKO@emergela,export_price_natural_gas,"Peru: Export Price, Natural Gas (NSA, US$/m3)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IM02@emergela,imports_dairy_products,"Peru: Imports: Dairy Products (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IMC@emergela,real_imports_fob,"Peru: Real Imports, FOB (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IMCC@emergela,real_imports_consumer_goods,"Peru: Real Imports, Consumer Goods (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IMCD@emergela,imports_durable_goods,"Peru: Imports: Durable Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMCI@emergela,import_volume_index_durable_consumer_goo,"Peru: Import Volume Index: Durable Consumer Goods (NSA, 2007=100)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,126
+N293IMCN@emergela,imports_non_durable_goods,"Peru: Imports: Non-durable Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMCO@emergela,imports_consumer_goods,"Peru: Imports: Consumer Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMD@emergela,merchandise_imports,"Peru: Merchandise Imports (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1980,187
+N293IMFF@emergela,imports_fuels,"Peru: Imports: Fuels (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMI@emergela,imports_raw_materials_and_intermediate_g,"Peru: Imports: Raw Materials and Intermediate Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMIA@emergela,imports_raw_materials_and_intermed_goods,"Peru: Imports: Raw Materials and Intermed Goods for Agriculture (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMIC@emergela,real_imp_primary_materials_intermediate_,"Peru: Real Imp, Primary Materials & Intermediate Products (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IMIF@emergela,imports_foodstuff_excludes_donated_food,"Peru: Imports: Foodstuff excludes donated food (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IMII@emergela,imports_raw_materials_and_intermediate_g_1,"Peru: Imports: Raw Materials and Intermediate Goods for Industry (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMK@emergela,imports_capital_goods,"Peru: Imports: Capital Goods (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMKA@emergela,imports_capital_goods_for_agriculture,"Peru: Imports: Capital Goods for Agriculture (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMKC@emergela,real_imports_capital_goods_construction_,"Peru: Real Imports: Capital Goods & Construction Materials (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IMKI@emergela,imports_capital_goods_for_industry,"Peru: Imports: Capital Goods for Industry (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMKS@emergela,imports_building_materials,"Peru: Imports: Building Materials (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMKT@emergela,imports_transporation_equipment,"Peru: Imports: Transporation Equipment (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMOC@emergela,real_imports_others,"Peru: Real Imports: Others (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IMOH@emergela,imports_oth_goods_incl_donated_goods_shi,"Peru: Imports: Oth Goods, Incl Donated Goods, Ship repair aboard (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IMRT@emergela,imports_temporary_admission,"Peru: Imports: Temporary Admission (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IMSI@emergela,import_volume_index_capital_gds_excl_con,"Peru: Import Volume Index: Capital Gds excl Constr Materials (NSA, 2007=100)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2007,77
+N293IMTI@emergela,import_volume_index_industrial_inputs,"Peru: Import Volume Index: Industrial Inputs (NSA, 2007=100)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,126
+N293IMZF@emergela,imports_free_zone,"Peru: Imports: Free Zone (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1994,131
+N293INA1@emergela,imports_foodstuff_meat,"Peru: Imports: Foodstuff, Meat (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293INCA@emergela,imports_foodstuff_wheat,"Peru: Imports: Foodstuff, Wheat (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293INCB@emergela,imports_foodstuff_rice,"Peru: Imports: Foodstuff, Rice (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293INCC@emergela,imports_foodstuff_corn_and_or_sorghum,"Peru: Imports: Foodstuff, Corn and/or Sorghum (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293INCT@emergela,imports_foodstuff_soybean,"Peru: Imports: Foodstuff, Soybean (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293INFA@emergela,imports_foodstuff_sugar_incl_raw_sugar_c,"Peru: Imports: Foodstuff, Sugar incl Raw Sugar Cane (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IS@emergela,imports,"Peru: Imports (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAD@emergela,imports_from_andorra,"Peru: Imports from Andorra (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAE@emergela,imports_from_united_arab_emirates,"Peru: Imports from United Arab Emirates (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAF@emergela,imports_from_afghanistan,"Peru: Imports from Afghanistan (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAL@emergela,imports_from_albania,"Peru: Imports from Albania (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAM@emergela,imports_from_armenia,"Peru: Imports from Armenia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,83
+N293ISAR@emergela,imports_from_argentina,"Peru: Imports from Argentina (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAT@emergela,imports_from_austria,"Peru: Imports from Austria (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISAU@emergela,imports_from_australia,"Peru: Imports from Australia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBA@emergela,imports_from_bosnia_and_herzegovina,"Peru: Imports from Bosnia and Herzegovina (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBB@emergela,imports_from_barbados,"Peru: Imports from Barbados (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBD@emergela,imports_from_bangladesh,"Peru: Imports from Bangladesh (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBE@emergela,imports_from_belgium,"Peru: Imports from Belgium (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBG@emergela,imports_from_bulgaria,"Peru: Imports from Bulgaria (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBH@emergela,imports_from_bahrain,"Peru: Imports from Bahrain (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBN@emergela,imports_from_brunei,"Peru: Imports from Brunei (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBO@emergela,imports_from_bolivia,"Peru: Imports from Bolivia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBR@emergela,imports_from_brazil,"Peru: Imports from Brazil (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBY@emergela,imports_from_belarus,"Peru: Imports from Belarus (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISBZ@emergela,imports_from_belize,"Peru: Imports from Belize (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCA@emergela,imports_from_canada,"Peru: Imports from Canada (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCC@emergela,imports_from_cocos_keeling_islands,"Peru: Imports from Cocos [Keeling] Islands (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2006,83
+N293ISCH@emergela,imports_from_switzerland,"Peru: Imports from Switzerland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCI@emergela,imports_from_cote_d_ivoire,"Peru: Imports from Cote D'ivoire (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCL@emergela,imports_from_chile,"Peru: Imports from Chile (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCM@emergela,imports_from_cameroon,"Peru: Imports from Cameroon (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCN@emergela,imports_from_china,"Peru: Imports from China (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCO@emergela,imports_from_colombia,"Peru: Imports from Colombia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCR@emergela,imports_from_costa_rica,"Peru: Imports from Costa Rica (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCU@emergela,imports_from_cuba,"Peru: Imports from Cuba (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCY@emergela,imports_from_cyprus,"Peru: Imports from Cyprus (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISCZ@emergela,imports_from_czech_republic,"Peru: Imports from Czech Republic (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISDE@emergela,imports_from_germany,"Peru: Imports from Germany (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISDK@emergela,imports_from_denmark,"Peru: Imports from Denmark (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISDO@emergela,imports_from_dominican_republic,"Peru: Imports from Dominican Republic (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISEC@emergela,imports_from_ecuador,"Peru: Imports from Ecuador (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISEE@emergela,imports_from_estonia,"Peru: Imports from Estonia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISEG@emergela,imports_from_egypt,"Peru: Imports from Egypt (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISES@emergela,imports_from_spain,"Peru: Imports from Spain (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISET@emergela,imports_from_ethiopia,"Peru: Imports from Ethiopia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,83
+N293ISFI@emergela,imports_from_finland,"Peru: Imports from Finland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISFR@emergela,imports_from_france,"Peru: Imports from France (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGB@emergela,imports_from_united_kingdom,"Peru: Imports from United Kingdom (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGE@emergela,imports_from_georgia,"Peru: Imports from Georgia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGH@emergela,imports_from_ghana,"Peru: Imports from Ghana (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGN@emergela,imports_from_guinea,"Peru: Imports from Guinea (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGR@emergela,imports_from_greece,"Peru: Imports from Greece (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGT@emergela,imports_from_guatemala,"Peru: Imports from Guatemala (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISGY@emergela,imports_from_guyana,"Peru: Imports from Guyana (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,83
+N293ISHK@emergela,imports_from_hong_kong,"Peru: Imports from Hong Kong (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISHN@emergela,imports_from_honduras,"Peru: Imports from Honduras (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISHR@emergela,imports_from_croatia,"Peru: Imports from Croatia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISHT@emergela,imports_from_haiti,"Peru: Imports from Haiti (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISHU@emergela,imports_from_hungary,"Peru: Imports from Hungary (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISID@emergela,imports_from_indonesia,"Peru: Imports from Indonesia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIE@emergela,imports_from_ireland,"Peru: Imports from Ireland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIL@emergela,imports_from_israel,"Peru: Imports from Israel (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIN@emergela,imports_from_india,"Peru: Imports from India (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIR@emergela,imports_from_iran,"Peru: Imports from Iran (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIS@emergela,imports_from_iceland,"Peru: Imports from Iceland (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISIT@emergela,imports_from_italy,"Peru: Imports from Italy (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISJM@emergela,imports_from_jamaica,"Peru: Imports from Jamaica (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISJO@emergela,imports_from_jordan,"Peru: Imports from Jordan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISJP@emergela,imports_from_japan,"Peru: Imports from Japan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISKE@emergela,imports_from_kenya,"Peru: Imports from Kenya (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISKH@emergela,imports_from_cambodia,"Peru: Imports from Cambodia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISKR@emergela,imports_from_south_korea,"Peru: Imports from South Korea (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLA@emergela,imports_from_laos,"Peru: Imports from Laos (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLB@emergela,imports_from_lebanon,"Peru: Imports from Lebanon (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLI@emergela,imports_from_liechtenstein,"Peru: Imports from Liechtenstein (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLK@emergela,imports_from_sri_lanka,"Peru: Imports from Sri Lanka (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLS@emergela,imports_from_lesotho,"Peru: Imports from Lesotho (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLT@emergela,imports_from_lithuania,"Peru: Imports from Lithuania (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLU@emergela,imports_from_luxembourg,"Peru: Imports from Luxembourg (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISLV@emergela,imports_from_latvia,"Peru: Imports from Latvia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMA@emergela,imports_from_morocco,"Peru: Imports from Morocco (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMC@emergela,imports_from_monaco,"Peru: Imports from Monaco (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMG@emergela,imports_from_madagascar,"Peru: Imports from Madagascar (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMH@emergela,imports_from_marshall_islands,"Peru: Imports from Marshall Islands (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2006,79
+N293ISMK@emergela,imports_from_macedonia,"Peru: Imports from Macedonia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISML@emergela,imports_from_mali,"Peru: Imports from Mali (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMM@emergela,imports_from_myanmar,"Peru: Imports from Myanmar (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMO@emergela,imports_from_macao,"Peru: Imports from Macao (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMS@emergela,imports_from_montserrat,"Peru: Imports from Montserrat (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMT@emergela,imports_from_malta,"Peru: Imports from Malta (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMU@emergela,imports_from_mauritius,"Peru: Imports from Mauritius (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMX@emergela,imports_from_mexico,"Peru: Imports from Mexico (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISMY@emergela,imports_from_malaysia,"Peru: Imports from Malaysia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNE@emergela,imports_from_niger,"Peru: Imports from Niger (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNG@emergela,imports_from_nigeria,"Peru: Imports from Nigeria (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNI@emergela,imports_from_nicaragua,"Peru: Imports from Nicaragua (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNL@emergela,imports_from_netherlands,"Peru: Imports from Netherlands (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNO@emergela,imports_from_norway,"Peru: Imports from Norway (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNP@emergela,imports_from_nepal,"Peru: Imports from Nepal (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISNZ@emergela,imports_from_new_zealand,"Peru: Imports from New Zealand (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISOM@emergela,imports_from_oman,"Peru: Imports from Oman (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPA@emergela,imports_from_panama,"Peru: Imports from Panama (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPE@emergela,imports_from_peru,"Peru: Imports from Peru (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPH@emergela,imports_from_philippines,"Peru: Imports from Philippines (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPK@emergela,imports_from_pakistan,"Peru: Imports from Pakistan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPL@emergela,imports_from_poland,"Peru: Imports from Poland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPR@emergela,imports_from_puerto_rico,"Peru: Imports from Puerto Rico (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPT@emergela,imports_from_portugal,"Peru: Imports from Portugal (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISPY@emergela,imports_from_paraguay,"Peru: Imports from Paraguay (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISQA@emergela,imports_from_qatar,"Peru: Imports from Qatar (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISRO@emergela,imports_from_romania,"Peru: Imports from Romania (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISRS@emergela,imports_from_serbia,"Peru: Imports from Serbia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2008,75
+N293ISRU@emergela,imports_from_russia,"Peru: Imports from Russia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSA@emergela,imports_from_saudi_arabia,"Peru: Imports from Saudi Arabia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSE@emergela,imports_from_sweden,"Peru: Imports from Sweden (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSG@emergela,imports_from_singapore,"Peru: Imports from Singapore (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSI@emergela,imports_from_slovenia,"Peru: Imports from Slovenia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSK@emergela,imports_from_slovakia,"Peru: Imports from Slovakia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSL@emergela,imports_from_sierra_leone,"Peru: Imports from Sierra Leone (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSM@emergela,imports_from_san_marino,"Peru: Imports from San Marino (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2006,83
+N293ISSN@emergela,imports_from_senegal,"Peru: Imports from Senegal (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSR@emergela,imports_from_suriname,"Peru: Imports from Suriname (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSV@emergela,imports_from_el_salvador,"Peru: Imports from El Salvador (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISSZ@emergela,imports_from_swaziland,"Peru: Imports from Swaziland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTH@emergela,imports_from_thailand,"Peru: Imports from Thailand (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTK@emergela,imports_from_tokelau,"Peru: Imports from Tokelau (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTN@emergela,imports_from_tunisia,"Peru: Imports from Tunisia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTR@emergela,imports_from_turkey,"Peru: Imports from Turkey (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTT@emergela,imports_from_trinidad_and_tobago,"Peru: Imports from Trinidad and Tobago (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTW@emergela,imports_from_taiwan,"Peru: Imports from Taiwan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISTZ@emergela,imports_from_tanzania,"Peru: Imports from Tanzania (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,83
+N293ISUA@emergela,imports_from_ukraine,"Peru: Imports from Ukraine (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISUS@emergela,imports_from_united_states,"Peru: Imports from United States (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISUY@emergela,imports_from_uruguay,"Peru: Imports from Uruguay (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISUZ@emergela,imports_from_uzbekistan,"Peru: Imports from Uzbekistan (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,83
+N293ISVE@emergela,imports_from_venezuela,"Peru: Imports from Venezuela (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISVN@emergela,imports_from_vietnam,"Peru: Imports from Vietnam (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293ISZA@emergela,imports_from_south_africa,"Peru: Imports from South Africa (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293IT@emergela,exports,"Peru: Exports (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAE@emergela,exports_to_united_arab_emirates,"Peru: Exports to United Arab Emirates (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAG@emergela,exports_to_antigua_and_barbuda,"Peru: Exports to Antigua and Barbuda (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAR@emergela,exports_to_argentina,"Peru: Exports to Argentina (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAT@emergela,exports_to_austria,"Peru: Exports to Austria (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAU@emergela,exports_to_australia,"Peru: Exports to Australia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITAW@emergela,exports_to_aruba,"Peru: Exports to Aruba (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBB@emergela,exports_to_barbados,"Peru: Exports to Barbados (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBD@emergela,exports_to_bangladesh,"Peru: Exports to Bangladesh (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBE@emergela,exports_to_belgium,"Peru: Exports to Belgium (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBG@emergela,exports_to_bulgaria,"Peru: Exports to Bulgaria (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBO@emergela,exports_to_bolivia,"Peru: Exports to Bolivia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBR@emergela,exports_to_brazil,"Peru: Exports to Brazil (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBS@emergela,exports_to_bahamas,"Peru: Exports to Bahamas (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITBZ@emergela,exports_to_belize,"Peru: Exports to Belize (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCA@emergela,exports_to_canada,"Peru: Exports to Canada (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCG@emergela,exports_to_congo,"Peru: Exports to Congo (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCH@emergela,exports_to_switzerland,"Peru: Exports to Switzerland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCI@emergela,exports_to_cote_d_ivoire,"Peru: Exports to Cote D'ivoire (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,82
+N293ITCL@emergela,exports_to_chile,"Peru: Exports to Chile (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCM@emergela,exports_to_cameroon,"Peru: Exports to Cameroon (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCN@emergela,exports_to_china,"Peru: Exports to China (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCO@emergela,exports_to_colombia,"Peru: Exports to Colombia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCR@emergela,exports_to_costa_rica,"Peru: Exports to Costa Rica (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCU@emergela,exports_to_cuba,"Peru: Exports to Cuba (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITCZ@emergela,exports_to_czech_republic,"Peru: Exports to Czech Republic (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITDE@emergela,exports_to_germany,"Peru: Exports to Germany (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITDK@emergela,exports_to_denmark,"Peru: Exports to Denmark (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITDO@emergela,exports_to_dominican_republic,"Peru: Exports to Dominican Republic (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITDZ@emergela,exports_to_algeria,"Peru: Exports to Algeria (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITEC@emergela,exports_to_ecuador,"Peru: Exports to Ecuador (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITEE@emergela,exports_to_estonia,"Peru: Exports to Estonia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITEG@emergela,exports_to_egypt,"Peru: Exports to Egypt (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITES@emergela,exports_to_spain,"Peru: Exports to Spain (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITFI@emergela,exports_to_finland,"Peru: Exports to Finland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITFR@emergela,exports_to_france,"Peru: Exports to France (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGB@emergela,exports_to_united_kingdom,"Peru: Exports to United Kingdom (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGE@emergela,exports_to_georgia,"Peru: Exports to Georgia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGH@emergela,exports_to_ghana,"Peru: Exports to Ghana (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGM@emergela,exports_to_gambia,"Peru: Exports to Gambia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGN@emergela,exports_to_guinea,"Peru: Exports to Guinea (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGP@emergela,exports_to_guadeloupe,"Peru: Exports to Guadeloupe (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGR@emergela,exports_to_greece,"Peru: Exports to Greece (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGT@emergela,exports_to_guatemala,"Peru: Exports to Guatemala (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITGY@emergela,exports_to_guyana,"Peru: Exports to Guyana (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITHK@emergela,exports_to_hong_kong,"Peru: Exports to Hong Kong (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITHN@emergela,exports_to_honduras,"Peru: Exports to Honduras (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITHR@emergela,exports_to_croatia,"Peru: Exports to Croatia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITHT@emergela,exports_to_haiti,"Peru: Exports to Haiti (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITHU@emergela,exports_to_hungary,"Peru: Exports to Hungary (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITID@emergela,exports_to_indonesia,"Peru: Exports to Indonesia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITIE@emergela,exports_to_ireland,"Peru: Exports to Ireland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITIL@emergela,exports_to_israel,"Peru: Exports to Israel (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITIN@emergela,exports_to_india,"Peru: Exports to India (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITIS@emergela,exports_to_iceland,"Peru: Exports to Iceland (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITIT@emergela,exports_to_italy,"Peru: Exports to Italy (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITJM@emergela,exports_to_jamaica,"Peru: Exports to Jamaica (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITJO@emergela,exports_to_jordan,"Peru: Exports to Jordan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITJP@emergela,exports_to_japan,"Peru: Exports to Japan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITKH@emergela,exports_to_cambodia,"Peru: Exports to Cambodia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,82
+N293ITKN@emergela,exports_to_saint_kitts_and_nevis,"Peru: Exports to Saint Kitts and Nevis (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITKR@emergela,exports_to_south_korea,"Peru: Exports to South Korea (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITKW@emergela,exports_to_kuwait,"Peru: Exports to Kuwait (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITKZ@emergela,exports_to_kazakhstan,"Peru: Exports to Kazakhstan (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2006,82
+N293ITLB@emergela,exports_to_lebanon,"Peru: Exports to Lebanon (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLC@emergela,exports_to_saint_lucia,"Peru: Exports to Saint Lucia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLK@emergela,exports_to_sri_lanka,"Peru: Exports to Sri Lanka (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLR@emergela,exports_to_liberia,"Peru: Exports to Liberia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLT@emergela,exports_to_lithuania,"Peru: Exports to Lithuania (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLV@emergela,exports_to_latvia,"Peru: Exports to Latvia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITLY@emergela,exports_to_libya,"Peru: Exports to Libya (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITMA@emergela,exports_to_morocco,"Peru: Exports to Morocco (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITMQ@emergela,exports_to_martinique,"Peru: Exports to Martinique (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITMU@emergela,exports_to_mauritius,"Peru: Exports to Mauritius (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITMX@emergela,exports_to_mexico,"Peru: Exports to Mexico (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITMY@emergela,exports_to_malaysia,"Peru: Exports to Malaysia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNA@emergela,exports_to_namibia,"Peru: Exports to Namibia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2007,78
+N293ITNC@emergela,exports_to_new_caledonia,"Peru: Exports to New Caledonia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNG@emergela,exports_to_nigeria,"Peru: Exports to Nigeria (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNI@emergela,exports_to_nicaragua,"Peru: Exports to Nicaragua (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNL@emergela,exports_to_netherlands,"Peru: Exports to Netherlands (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNO@emergela,exports_to_norway,"Peru: Exports to Norway (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITNZ@emergela,exports_to_new_zealand,"Peru: Exports to New Zealand (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPA@emergela,exports_to_panama,"Peru: Exports to Panama (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPH@emergela,exports_to_philippines,"Peru: Exports to Philippines (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPK@emergela,exports_to_pakistan,"Peru: Exports to Pakistan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPL@emergela,exports_to_poland,"Peru: Exports to Poland (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPR@emergela,exports_to_puerto_rico,"Peru: Exports to Puerto Rico (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPT@emergela,exports_to_portugal,"Peru: Exports to Portugal (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITPY@emergela,exports_to_paraguay,"Peru: Exports to Paraguay (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITQA@emergela,exports_to_qatar,"Peru: Exports to Qatar (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITRO@emergela,exports_to_romania,"Peru: Exports to Romania (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITRS@emergela,exports_to_serbia,"Peru: Exports to Serbia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2009,70
+N293ITRU@emergela,exports_to_russia,"Peru: Exports to Russia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSA@emergela,exports_to_saudi_arabia,"Peru: Exports to Saudi Arabia (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSE@emergela,exports_to_sweden,"Peru: Exports to Sweden (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSG@emergela,exports_to_singapore,"Peru: Exports to Singapore (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSI@emergela,exports_to_slovenia,"Peru: Exports to Slovenia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSN@emergela,exports_to_senegal,"Peru: Exports to Senegal (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSR@emergela,exports_to_suriname,"Peru: Exports to Suriname (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITSV@emergela,exports_to_el_salvador,"Peru: Exports to El Salvador (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITTH@emergela,exports_to_thailand,"Peru: Exports to Thailand (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITTR@emergela,exports_to_turkey,"Peru: Exports to Turkey (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITTT@emergela,exports_to_trinidad_and_tobago,"Peru: Exports to Trinidad and Tobago (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITTW@emergela,exports_to_taiwan,"Peru: Exports to Taiwan (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITUS@emergela,exports_to_united_states,"Peru: Exports to United States (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITUY@emergela,exports_to_uruguay,"Peru: Exports to Uruguay (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITVG@emergela,exports_to_british_virgin_islands,"Peru: Exports to British Virgin Islands (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITVN@emergela,exports_to_vietnam,"Peru: Exports to Vietnam (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITVZ@emergela,exports_to_venezuela,"Peru: Exports to Venezuela (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITZA@emergela,exports_to_south_africa,"Peru: Exports to South Africa (NSA, Thous.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,86
+N293ITZM@emergela,exports_to_zambia,"Peru: Exports to Zambia (NSA, Thous.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,2005,86
+N293IX0@emergela,exports_non_traditional_agriculture_and_,"Peru: Exports: Non-traditional, Agriculture and Livestock (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX05@emergela,exports_vegetables_fob,"Peru: Exports, Vegetables, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX07@emergela,exports_tea_coffee_and_cacao_fob,"Peru: Exports, Tea, coffee and Cacao, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX33@emergela,exports_petroleum_and_derivatives_fob,"Peru: Exports, Petroleum and Derivatives, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX53@emergela,exports_dyeing_tanning_and_coloring_prod,"Peru: Exports, Dyeing, Tanning and Coloring Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX56@emergela,exports_fertilizers_and_minerals_gross_f,"Peru: Exports, Fertilizers and Minerals Gross, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX57@emergela,exports_plastic_manufacturing_fob,"Peru: Exports, Plastic Manufacturing, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX59@emergela,exports_other_chemicals_fob,"Peru: Exports, Other Chemicals, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX5O@emergela,exports_other_vegetables_fob,"Peru: Exports, Other Vegetables, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX62@emergela,exports_rubber_manufacturing_fob,"Peru: Exports, Rubber Manufacturing, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX63@emergela,exports_timber_fob,"Peru: Exports, Timber, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX64@emergela,exports_mfg_of_paper_and_card_board_fob,"Peru: Exports, Mfg of Paper and Card Board, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX65@emergela,exports_yarns_fob,"Peru: Exports, Yarns, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX66@emergela,exports_non_traditional_non_metallic_min,"Peru: Exports: Non-traditional, Non-metallic Minerals (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX69@emergela,exports_non_traditional_fabricated_metal,"Peru: Exports: Non-traditional, Fabricated Metal Prod & Machinery (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX70@emergela,exports_other_agriculture_livestock_fob,"Peru: Exports, Other Agriculture & Livestock, FOB (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX71@emergela,exports_force_generating_machinery_and_e,"Peru: Exports, Force Generating Machinery and Equipment, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX74@emergela,exports_industrial_machinery_equipment_p,"Peru: Exports, Industrial Machinery, Equipment & Parts, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX75@emergela,exports_office_and_data_processing_machi,"Peru: Exports, Office and Data Processing Machines, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,133
+N293IX77@emergela,exports_electrical_appliances_machinery_,"Peru: Exports, Electrical Appliances, Machinery & Parts, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX78@emergela,exports_on_road_vehicles_fob,"Peru: Exports, On-road Vehicles , FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX84@emergela,exports_clothes_other_garments_fob,"Peru: Exports, Clothes & Other Garments, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IX89@emergela,exports_silver_products_fob,"Peru: Exports, Silver Products, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1993,134
+N293IX8L@emergela,exports_iron_products_fob,"Peru: Exports, Iron Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX8N@emergela,exports_copper_products_fob,"Peru: Exports, Copper Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX8S@emergela,exports_lead_products_fob,"Peru: Exports, Lead Products, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1993,133
+N293IX8T@emergela,exports_zinc_products_fob,"Peru: Exports, Zinc Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IX99@emergela,exports_gold_fob,"Peru: Exports, Gold, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXA@emergela,exports_traditional_agricultural,"Peru: Exports: Traditional, Agricultural (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXAF@emergela,exports_traditional_fishing,"Peru: Exports: Traditional, Fishing (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXB1@emergela,exports_fish_fob,"Peru: Exports, Fish, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXB2@emergela,exports_frozen_fish_fob,"Peru: Exports, Frozen Fish, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXB3@emergela,exports_frozen_crustaceans_molluscs_fob,"Peru: Exports, Frozen Crustaceans & Molluscs, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXB4@emergela,exports_preparations_canned_food_fob,"Peru: Exports, Preparations & Canned Food, FOB (NSA, Mil.US$)",C;E,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXBO@emergela,exports_other_fishing_fob,"Peru: Exports, Other Fishing, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXC@emergela,real_exports,"Peru: Real Exports (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IXCM@emergela,exports_cereal_preparations_fob,"Peru: Exports, Cereal & Preparations, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXCU@emergela,exports_cotton_fob,"Peru: Exports, Cotton, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXD@emergela,merchandise_exports,"Peru: Merchandise Exports (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1980,187
+N293IXE@emergela,exports_fruits_fob,"Peru: Exports, Fruits, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXFA@emergela,exports_sugar_fob,"Peru: Exports, Sugar, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXFH@emergela,exports_coffee_fob,"Peru: Exports, Coffee, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXFX@emergela,exports_non_traditional_fishing,"Peru: Exports: Non-traditional, Fishing (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXGD@emergela,exports_fishmeal_fob,"Peru: Exports, Fishmeal, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXGE@emergela,exports_fish_oil_fob,"Peru: Exports, Fish Oil, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXI5@emergela,exports_textile_fibers_fob,"Peru: Exports, Textile Fibers, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXIH@emergela,exports_non_traditional_chemicals,"Peru: Exports: Non-traditional, Chemicals (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXIN@emergela,exports_traditional_mineral,"Peru: Exports: Traditional, Mineral (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXIO@emergela,exports_non_trad_oth_prod_incl_skins_lea,"Peru: Exports: Non-trad, Oth Prod Incl Skins, Leather & Crafts (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXIQ@emergela,exports_fabrics_fob,"Peru: Exports, Fabrics, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXIW@emergela,exports_non_traditional_timbers_papers_m,"Peru: Exports: Non-traditional Timbers & papers, & Manufacture (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJ9@emergela,exports_refined_silver_fob,"Peru: Exports, Refined  Silver, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJL@emergela,exports_iron_fob,"Peru: Exports, Iron, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJN@emergela,exports_copper_fob,"Peru: Exports, Copper, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJO@emergela,exports_other_mineral_products_fob,"Peru: Exports, Other Mineral Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IXJS@emergela,exports_lead_fob,"Peru: Exports, Lead, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJT@emergela,exports_zinc_fob,"Peru: Exports, Zinc, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJU@emergela,exports_tin_fob,"Peru: Exports, Tin, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXJW@emergela,exports_molybdenum_fob,"Peru: Exports, Molybdenum, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IXKO@emergela,exports_natural_gas_fob,"Peru: Exports, Natural Gas, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IXLS@emergela,exports_organic_and_inorganic_chemicals_,"Peru: Exports, Organic and Inorganic Chemicals, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXML@emergela,exports_essential_oils_toiletries_fob,"Peru: Exports, Essential Oils & Toiletries, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXNC@emergela,real_exports_non_traditional_products,"Peru: Real Exports: Non-traditional Products (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IXNI@emergela,non_traditional_exports_volume_index,"Peru: Non-Traditional Exports Volume Index (NSA, 2007=100)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,130
+N293IXNT@emergela,exports_non_traditional_products,"Peru: Exports: Non-traditional Products (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXOC@emergela,real_exports_other,"Peru: Real Exports: Other (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IXOH@emergela,other_exports,"Peru: Other Exports (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXOL@emergela,exports_timber_manufacturing_fob,"Peru: Exports, Timber Manufacturing, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXOM@emergela,exports_common_metals_manufacturing_fob,"Peru: Exports, Common Metals Manufacturing, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXOV@emergela,exports_other_timbers_papers_mfg_fob,"Peru: Exports, Other Timbers, Papers & Mfg, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1985,163
+N293IXPT@emergela,exports_traditional_petroleum_and_natura,"Peru: Exports: Traditional, Petroleum and Natural Gas (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXQI@emergela,exports_cement_and_construction_material,"Peru: Exports, Cement and Construction Material, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXQJ@emergela,exports_glass_and_manufactures_fob,"Peru: Exports, Glass and Manufactures, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXQO@emergela,exports_other_nonmetallic_minerals_fob,"Peru: Exports, Other NonMetallic Minerals, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXQR@emergela,exports_ceramic_products_fob,"Peru: Exports, Ceramic Products, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXR6@emergela,exports_nonferrous_waste_fob,"Peru: Exports, NonFerrous Waste, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IXRE@emergela,exports_iron_and_steel_manufactured_arti,"Peru: Exports, Iron and Steel Manufactured Articles, FOB (NSA, Mil.US$)",A;C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXS3@emergela,exports_machinery_and_equipment_for_civi,"Peru: Exports, Machinery and Equipment for Civil Engineering, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,132
+N293IXTC@emergela,real_exports_traditional_products,"Peru: Real Exports: Traditional Products (NSA, Thous.2007.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2002,99
+N293IXTR@emergela,exports_traditional_products,"Peru: Exports: Traditional Products (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXX4@emergela,exports_wooden_furniture_fob,"Peru: Exports, Wooden furniture, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXY2@emergela,exports_printed_materials_fob,"Peru: Exports, Printed Materials, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXYJ@emergela,exports_jewelry_fob,"Peru: Exports, Jewelry, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXZD@emergela,exports_dom_equipment_fob,"Peru: Exports, Domestic Equipment, FOB (NSA, Mil.US$)",C,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1994,131
+N293IXZF@emergela,exports_dom_articles_of_common_metals_fo,"Peru: Exports, Domestic Articles of Common Metals , FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1993,135
+N293IXZO@emergela,exports_other_basic_metal_industries_jew,"Peru: Exports, Other Basic Metal Industries & Jewelry, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293IXZR@emergela,exports_other_fabricated_metal_products_,"Peru: Exports, Other Fabricated Metal Products & Machinery, FOB (NSA, Mil.US$)",C,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1985,167
+N293JQA@emergela,lima_se_market_capitalization_1,"Peru: Lima SE Market Capitalization (EOP, Mil.US$)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,US$,1997,119
+N293KMDV@emergela,msci_share_price_index_ex_div_us,"Peru: MSCI Share Price Index ex Div, US$ (AVG, 12/92=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1993,135
+N293KMGN@emergela,msci_share_price_index_w_gross_div_loccu,"Peru: MSCI Share Price Index w/ Gross Div, LocCur (AVG, 12/92=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293KMGU@emergela,msci_share_price_index_w_gross_div_us,"Peru: MSCI Share Price Index w/ Gross Div, US$ (AVG, 12/92=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293KMLV@emergela,msci_share_price_index_ex_div_loccur,"Peru: MSCI Share Price Index ex Div, LocCur (AVG, 12/92=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1993,135
+N293KMNN@emergela,msci_share_price_index_w_net_div_loccur,"Peru: MSCI Share Price Index w/ Net Div, LocCur (AVG, 12/00=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293KMNU@emergela,msci_share_price_index_w_net_div_us,"Peru: MSCI Share Price Index w/ Net Div, US$ (AVG, 12/00=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293KNE@emergela,stock_price_index_msci_nuam_peru_general,"Peru: Stock Price Index: MSCI NUAM Peru General (EOP, 12/31/91=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,147
+N293KNSE@emergela,selected_stock_market_index_isbvl_disc,"Peru: Selected Stock Market Index, ISBVL DISC (EOP, 12/31/91=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,106
+N293KNV@emergela,stock_price_index_msci_nuam_peru_general_1,"Peru: Stock Price Index: MSCI NUAM Peru General (AVG, 12/31/91=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1990,147
+N293LDLS@emergela,int_liquidity_net_intl_position_net_st_l,"Peru: Int Liquidity: Net Intl Position: Net ST Liabs w/ Res (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFC@emergela,int_liquidity_international_assets_depos,"Peru: Int Liquidity: International Assets: Deposits (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFG@emergela,int_liquidity_intl_assets_gold_silver_ma,"Peru: Int Liquidity: Intl Assets: Gold & Silver [Market Value] (EOP,NSA,Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFI@emergela,int_liqidity_int_assets_imf_flar_capital,"Peru: Int Liqidity: Int Assets: IMF & FLAR Capital Subs (EOP,NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFLS@emergela,int_liquidity_net_int_res_short_term_int,"Peru: Int Liquidity: Net Int Res: Short-term Intl Liabilities (EOP,NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFR@emergela,int_liquidity_gross_international_reserv,"Peru: Int Liquidity: Gross International Reserves excl Gold (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1980,187
+N293LFRA@emergela,int_liquidity_total_international_assets,"Peru: Int Liquidity: Total International Assets (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LFRG@emergela,int_liquidity_gross_international_reserv_1,"Peru: Int Liquidity: Gross International Reserves (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,1992,139
+N293LFRN@emergela,int_liquidity_net_international_reserves,"Peru: Int Liquidity: Net International Reserves (EOP, NSA, Mil.US$)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1990,147
+N293LFS@emergela,int_liquidity_international_assets_secur,"Peru: Int Liquidity: International Assets: Securities (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LGV@emergela,int_liquidity_book_value_of_gold,"Peru: Int Liquidity: Book Value of Gold (EOP, NSA, US$/Troy Oz.)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2005,87
+N293LRO@emergela,int_liquidity_international_assets_other,"Peru: Int Liquidity: International Assets: Others (EOP, NSA, Mil.US$)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,US$,2005,87
+N293LRP@emergela,int_liquidity_net_international_position,"Peru: Int Liquidity: Net International Position (EOP, NSA, Mil.US$)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,US$,1990,147
+N293NABC@emergela,gdp_absorption,"Peru: GDP Absorption (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2003,94
+N293NB@emergela,gdp_change_in_inventories,"Peru: GDP: Change in Inventories (NSA, Mil.NewSoles)",A,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1990,146
+N293NBC@emergela,gdp_change_in_inventories_1,"Peru: GDP: Change in Inventories (NSA, Mil.2007.NewSoles)",A,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1980,186
+N293NBT@emergela,changes_in_inventories_contribution_to_q,"Peru: Changes in Inventories: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NC@emergela,gdp_total_consumption,"Peru: GDP: Total Consumption (NSA, Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NCC@emergela,gdp_total_consumption_1,"Peru: GDP: Total Consumption (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NCG@emergela,gdp_government_consumption_2,"Peru: GDP: Government Consumption (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NCGC@emergela,gdp_government_consumption_3,"Peru: GDP: Government Consumption (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NCGT@emergela,govt_consumption_expenditure_contrib_to_,"Peru: Govt Consumption Expenditure: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NCP@emergela,gdp_private_consumption_2,"Peru: GDP: Private Consumption (NSA, Mil.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NCPC@emergela,gdp_private_consumption_3,"Peru: GDP: Private Consumption (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NCPT@emergela,prvt_consumption_expenditure_contrib_to_,"Peru: Prvt Consumption Expenditure: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NCT@emergela,final_consumption_expenditure_contrib_to,"Peru: Final Consumption Expenditure: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NDF@emergela,final_dom_demand,"Peru: Final Domestic Demand (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NDFQ@emergela,gdp_volume_dom_demand_indicator_w_o_inve,"Peru: GDP Volume, Domestic Demand Indicator w/o Inventories (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2003,94
+N293NDFT@emergela,final_dom_demand_contribution_to_q_q_chg,"Peru: Final Domestic Demand: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NDT@emergela,gdp_dom_demand,"Peru: GDP: Domestic Demand (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NDTC@emergela,gdp_dom_demand_1,"Peru: GDP: Domestic Demand (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NDTQ@emergela,gdp_volume_dom_demand_indicator,"Peru: GDP Volume, Domestic Demand Indicator (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,2003,94
+N293NDTT@emergela,total_dom_demand_contribution_to_q_q_chg,"Peru: Total Domestic Demand: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NF@emergela,gdp_gross_fixed_capital_formation_2,"Peru: GDP: Gross Fixed Capital Formation (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NFB@emergela,gdp_gross_capital_formation_2,"Peru: GDP: Gross Capital Formation (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NFBC@emergela,gdp_gross_capital_formation_3,"Peru: GDP: Gross Capital Formation (NSA, Mil.2007.NewSoles)",A,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,1980,186
+N293NFBT@emergela,gross_capital_formation_contribution_to_,"Peru: Gross Capital Formation: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NFC@emergela,gdp_gross_fixed_capital_formation_3,"Peru: GDP: Gross Fixed Capital Formation (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NFG@emergela,gdp_gross_capital_formation_public_gfi_1,"Peru: GDP: Gross Capital Formation: Public GFI (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NFGC@emergela,real_gdp_gross_capital_formation_public__1,"Peru: Real GDP: Gross Capital Formation: Public GFI  (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NFGT@emergela,public_gfcf_contribution_to_q_q_chg_in_r,"Peru: Public GFCF: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NFP@emergela,gdp_gross_capital_formation_private_gfi_1,"Peru: GDP: Gross Capital Formation: Private GFI (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NFPC@emergela,real_gdp_gross_capital_formation_private_1,"Peru: Real GDP: Gross Capital Formation: Private GFI (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NFPT@emergela,private_gfcf_contribution_to_q_q_chg_in_,"Peru: Private GFCF: Contribution to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NFT@emergela,gross_fixed_capital_formation_contrib_to,"Peru: Gross Fixed Capital Formation: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NGCD@emergela,gross_dom_product_at_2010_prices_exchang,"Peru: Gross Domestic Product at 2010 Prices & Exchange Rate (NSA, Bil.2010.US$)",A;B,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293NGDP@emergela,gross_dom_product_at_market_prices_2,"Peru: Gross Domestic Product at Market Prices (NSA, Mil.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1989,150
+N293NGDT@emergela,real_gross_dom_product,"Peru: Real Gross Domestic Product (NSA, Qtr/Qtr % Chng)",A;E,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NGNC@emergela,gdp_gross_national_product,"Peru: GDP Gross National Product (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,2003,94
+N293NGPC@emergela,gross_dom_product_at_market_prices_3,"Peru: Gross Domestic Product at Market Prices (NSA, Mil.2007.NewSoles)",A,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NGPD@emergela,gdp_gross_dom_product,"Peru: GDP: Gross Domestic Product (NSA, Mil.US$)",A,1,yoy_pct,TRUE,Quarterly,US$,1980,186
+N293NGPJ@emergela,gdp_deflator,"Peru: GDP Deflator (NSA, 2007=100)",A,1,yoy_pct,TRUE,Quarterly,INDEX,1989,150
+N293NM@emergela,gdp_imports_of_goods_and_services_2,"Peru: GDP: Imports of Goods and Services (NSA, Mil.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NMC@emergela,gdp_imports_of_goods_and_services_3,"Peru: GDP: Imports of Goods and Services (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NMT@emergela,imports_of_goods_and_services_contrib_to,"Peru: Imports of Goods and Services: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A;C,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NTRC@emergela,gdp_current_transfers,"Peru: GDP: Current Transfers (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2003,94
+N293NTTC@emergela,gdp_terms_of_trade_effect,"Peru: GDP: Terms of Trade Effect (NSA, Mil.2007.NewSoles)",A;B;C;D;E,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,2003,94
+N293NX@emergela,gdp_exports_of_goods_and_services_2,"Peru: GDP: Exports of Goods and Services (NSA, Mil.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,1990,146
+N293NXC@emergela,gdp_exports_of_goods_and_services_3,"Peru: GDP: Exports of Goods and Services (NSA, Mil.2007.NewSoles)",A;C,1,yoy_pct,TRUE,Quarterly,LocCur,1980,186
+N293NXT@emergela,exports_of_goods_and_services_contrib_to,"Peru: Exports of Goods and Services: Contrib to Q/Q % Chg in Real GDP(NSA, %Pt)",A;C,1,yoy_diff,TRUE,Quarterly,%,1980,185
+N293NYDC@emergela,gdp_disposable_national_income,"Peru: GDP: Disposable National Income (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2003,94
+N293NYFC@emergela,gdp_investment_income,"Peru: GDP: Investment Income (NSA, Mil.2007.NewSoles)",A,1,yoy_diff_scaled,TRUE,Quarterly,LocCur,2003,94
+N293NYGC@emergela,gdp_gross_national_income,"Peru: GDP: Gross National Income (NSA, Mil.2007.NewSoles)",A;E,1,yoy_pct,TRUE,Quarterly,LocCur,2003,94
+N293OCN@emergela,cement_production_metric_tons,Peru: Cement Production (Metric Tons),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1980,186
+N293OEL@emergela,electricity_production_1,"Peru: Electricity Production (NSA, Gigawatt Hours)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1980,186
+N293OEL2@emergela,electricity_production_2,"Peru: Electricity Production (NSA, GWH)",A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1997,116
+N293ONAG@emergela,mining_production_silver_kg,Peru: Mining Production: Silver (Kg),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1988,154
+N293ONAU@emergela,mining_production_gold_grams,Peru: Mining Production: Gold (Grams),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1989,150
+N293ONCU@emergela,mining_production_copper_metric_ton,Peru: Mining Production: Copper (Metric Ton),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2001,102
+N293ONFE@emergela,mining_production_iron_tons,Peru: Mining Production: Iron (Tons),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,2001,101
+N293ONMO@emergela,mining_production_molybdenum_metric_ton,Peru: Mining Production: Molybdenum (Metric Ton),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1989,150
+N293ONPB@emergela,mining_production_lead_metric_ton,Peru: Mining Production: Lead (Metric Ton),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1988,154
+N293ONSN@emergela,mining_production_tin_metric_ton,Peru: Mining Production: Tin (Metric Ton),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1989,149
+N293ONZN@emergela,mining_production_zinc_metric_ton,Peru: Mining Production: Zinc (Metric Ton),A,1,yoy_pct,TRUE,Quarterly <- Monthly,Units,1988,154
+N293PC@emergela,lima_consumer_price_index,"Peru: Lima Consumer Price Index (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1986,163
+N293PCA@emergela,lima_cpi_apparel_footwear,"Peru: Lima CPI: Apparel & Footwear (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCAC@emergela,lima_cpi_clothing,"Peru: Lima CPI: Clothing (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCAW@emergela,lima_cpi_footwear,"Peru: Lima CPI: Footwear (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCB@emergela,lima_cpi_alcoholic_beverages_tobacco,"Peru: Lima CPI: Alcoholic Beverages & Tobacco (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCBB@emergela,lima_cpi_non_alcoholic_beverages,"Peru: Lima CPI: Non-Alcoholic Beverages (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCC@emergela,lima_cpi_communications,"Peru: Lima CPI: Communications (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCE@emergela,lima_cpi_education,"Peru: Lima CPI: Education (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFA@emergela,lima_cpi_fish_and_seafood,"Peru: Lima CPI: Fish and Seafood (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFC@emergela,lima_cpi_bread_and_cereals,"Peru: Lima CPI: Bread and Cereals (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFE@emergela,lima_cpi_milk_cheese_and_eggs,"Peru: Lima CPI: Milk, Cheese and Eggs (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFL@emergela,lima_cpi_fruits,"Peru: Lima CPI: Fruits (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFO@emergela,lima_cpi_oils_and_fats,"Peru: Lima CPI: Oils and Fats (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCFT@emergela,lima_cpi_meat,"Peru: Lima CPI: Meat (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCG@emergela,lima_cpi_furn_access_carpets_oth_materia,"Peru: Lima CPI: Furn/Access/Carpets/Oth Materials for Floors (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCGF@emergela,lima_cpi_furn_access_carpets_oth_materia_1,"Peru: Lima CPI: Furn/Access/Carpets/Oth Materials for Floors (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCGN@emergela,lima_cpi_furniture_and_accessories,"Peru: Lima CPI: Furniture and Accessories (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCGR@emergela,lima_cpi_goods_and_services_for_home_mai,"Peru: Lima CPI: Goods and Services for Home Maintenance (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCGT@emergela,lima_cpi_textile_products_for_the_home,"Peru: Lima CPI: Textile Products for the Home (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCGU@emergela,lima_cpi_home_appliances,"Peru: Lima CPI: Home Appliances (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCM@emergela,lima_cpi_health,"Peru: Lima CPI: Health (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCMS@emergela,lima_cpi_medical_services,"Peru: Lima CPI: Medical Services (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCNT@emergela,consumer_price_index_nontradables,"Peru: Consumer Price Index: Nontradables (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1992,139
+N293PCO@emergela,lima_cpi_miscellaneous_goods_and_service,"Peru: Lima CPI: Miscellaneous Goods and Services (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCOE@emergela,lima_cpi_personal_care,"Peru: Lima CPI: Personal Care (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCPE@emergela,lima_cpi_residential_electricity_consump,"Peru: Lima CPI: Residential Electricity Consumption (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCPT@emergela,lima_cpi_electricity_gas_and_other_fuels,"Peru: Lima CPI: Electricity, Gas and Other Fuels (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCR@emergela,lima_cpi_recreation_and_culture,"Peru: Lima CPI: Recreation and Culture (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCRC@emergela,lima_cpi_recreational_and_cultural_servi,"Peru: Lima CPI: Recreational and Cultural Services (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCRN@emergela,lima_cpi_newspapers_books_papers_and_off,"Peru: Lima CPI: Newspapers, Books, Papers and Office Supplies(NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCTR@emergela,consumer_price_index_tradables,"Peru: Consumer Price Index: Tradables (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1992,139
+N293PCWW@emergela,lima_cpi_water_supply,"Peru: Lima CPI: Water Supply  (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1995,127
+N293PCX3@emergela,consumer_price_index_ex_food_and_fuels,"Peru: Consumer Price Index ex Food and Fuels (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1991,143
+N293PCXG@emergela,consumer_price_index_core,"Peru: Consumer Price Index: Core (NSA, Dec 2021=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1991,143
+N293PFMI@emergela,nominal_prices_imports,"Peru: Nominal Prices: Imports (NSA, 2007=100)",A;B;C;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293PFTT@emergela,nominal_prices_terms_of_trade,"Peru: Nominal Prices: Terms of Trade (NSA, 2007=100)",A;B;C;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293PFXI@emergela,nominal_prices_exports,"Peru: Nominal Prices: Exports (NSA, 2007=100)",A;B;C;D;E,1,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1994,131
+N293PW@emergela,wholesale_price_index,"Peru: Wholesale Price Index (NSA, 2013/12=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1986,163
+N293PWA@emergela,wpi_agricultural_sector,"Peru: WPI: Agricultural Sector (NSA, 12/2013=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWAF@emergela,wpi_fishing_sector,"Peru: WPI: Fishing Sector (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWAP@emergela,wpi_agricultural_products_nsa_12_2013_10,"Peru: WPI: Agricultural Products (NSA, 12/2013=10)0",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWAU@emergela,wpi_national_transportation,"Peru: WPI: National Transportation (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWFC@emergela,wpi_national_products,"Peru: WPI: National Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWM@emergela,wpi_manufacturing_sector,"Peru: WPI: Manufacturing Sector (NSA, 12/2013=100)",A;B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWM1@emergela,wpi_basic_metals_metal_products,"Peru: WPI: Basic Metals & Metal Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMC@emergela,wpi_chemical_products_substances,"Peru: WPI: Chemical Products & Substances (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMD@emergela,wpi_refined_petroleum_products,"Peru: WPI: Refined Petroleum Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMF@emergela,wpi_food_and_beverages,"Peru: WPI: Food and Beverages (NSA, 12/2013=100)",B;E,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMH@emergela,wpi_printing_and_reproduction_of_recordi,"Peru: WPI: Printing and Reproduction of Recordings (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWML@emergela,wpi_leather_and_leather_products,"Peru: WPI: Leather and Leather Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMR@emergela,wpi_rubber_and_plastic_products,"Peru: WPI: Rubber and Plastic Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMT@emergela,wpi_textiles,"Peru: WPI: Textiles (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWMU@emergela,wpi_furniture,"Peru: WPI: Furniture (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWPF@emergela,wpi_fishing_products,"Peru: WPI: Fishing Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWQE@emergela,wpi_electrical_appliances_and_equipment,"Peru: WPI: Electrical Appliances and Equipment (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PWRM@emergela,wpi_nonmetallic_mineral_products,"Peru: WPI: Nonmetallic Mineral Products (NSA, 12/2013=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1999,111
+N293PZBB@emergela,dom_pub_debt_long_term_bcrp_capitalizati,Peru: Dom Pub Debt: Long Term: BCRP Capitalization Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBD@emergela,dom_pub_debt_lt_treasury_bonds_for_pub_d,Peru: Dom Pub Debt: LT: Treasury Bonds for Pub Debt Exchange as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBF@emergela,dom_public_debt_lt_financial_system_supp,Peru: Dom Public Debt: LT: Financial System Support Bonds as a Percent of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBG@emergela,dom_pub_debt_long_term_pension_recogniti,Peru: Dom Pub Debt: Long Term: Pension Recognition Bonds as a Percent of GDP (%),A;B;D;E,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBJ@emergela,dom_pub_debt_lt_caja_de_pension_militar_,Peru: Dom Pub Debt: LT: Caja De Pension Militar-Policial Bonds as a % of GDP (%),A;B;D;E,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBL@emergela,dom_public_debt_long_term_liquidity_bond,Peru: Domestic Public Debt: Long Term: Liquidity Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBR@emergela,dom_pub_debt_long_term_rfa_fope_programs,Peru: Domestic Pub Debt: Long Term: RFA & FOPE Programs as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBS@emergela,dom_pub_debt_lt_sovereign_public_treasur,Peru: Dom Pub Debt: LT: Sovereign Public Treasury Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBT@emergela,dom_pub_debt_long_term_temporal_subscrip,Peru: Dom Pub Debt: Long Term: Temporal Subscription of Stocks as a % of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBX@emergela,dom_public_debt_lt_temporal_portfolio_ex,Peru: Dom Public Debt: LT: Temporal Portfolio Exchange as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZBY@emergela,dom_public_debt_lt_financial_system_cons,Peru: Dom Public Debt: LT: Financial System Consolidation as a Percent of GDP(%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZLB@emergela,dom_public_debt_long_term_bonds_as_a_per,Peru: Domestic Public Debt: Long Term: Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZSB@emergela,dom_pub_debt_s_t_credits_from_banco_de_l_1,Peru: Dom Pub Debt: S-T: Credits from Banco De La Nacion as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZSF@emergela,dom_public_debt_short_term_floating_debt,Peru: Domestic Public Debt: Short Term: Floating Debt as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZSI@emergela,dom_public_debt_short_term_credits_as_a_,Peru: Domestic Public Debt: Short Term: Credits as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZTB@emergela,dom_public_debt_long_term_treasury_bonds,Peru: Domestic Public Debt: Long Term: Treasury Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293PZTL@emergela,dom_pub_debt_long_term_lima_municipal_bo,Peru: Domestic Pub Debt: Long Term: Lima Municipal Bonds as a Percent of GDP (%),A;B,1,yoy_diff,TRUE,Quarterly,%,1999,110
+N293RD@emergela,rediscount_in_dom_currency_interest_rate,"Peru: Rediscount in Domestic Currency Interest Rate (EOP, %)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2001,101
+N293RDO@emergela,overnight_deposits_interest_rate,"Peru: Overnight Deposits Interest Rate (EOP, %)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2001,103
+N293RG10@emergela,10_year_sovereign_bond_yield_1,"Peru: 10 Year Sovereign Bond Yield (AVG, % per annum)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2005,83
+N293RG1D@emergela,10_year_sovereign_bond_yield_us_denomina_1,"Peru: 10 Year Sovereign Bond Yield [US$ Denominated] (AVG, % per annum)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2009,67
+N293RTAR@emergela,reference_rate_tasa_de_inter_s_de_refere,"Peru: Reference Rate [Tasa de interés de referencia] (EOP, %)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,%,2003,93
+N293VAC@emergela,business_confidence_index_exp_on_the_eco,Peru: Business Confidence Index: Exp on the Economy to 3 Months (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2002,98
+N293VACC@emergela,business_expectations_3m_economic_expect,Peru: Business Expectations: 3M Economic Expectations: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VACH@emergela,business_expectations_3m_economic_exp_mi,Peru: Business Expectations: 3M Economic Exp: Mining & Hydrocarbons (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VACK@emergela,business_expectations_3m_economic_expect_1,Peru: Business Expectations: 3M Economic Expectations: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VACM@emergela,business_expectations_3m_economic_expect_2,Peru: Business Expectations: 3M Economic Expectations: Manufacturing(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VACS@emergela,business_expectations_3m_economic_expect_3,Peru: Business Expectations: 3M Economic Expectations: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VACY@emergela,business_expectations_12_month_economic_,Peru: Business Expectations: 12-Month Economic Expectations: Total (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2008,73
+N293VAD@emergela,business_confidence_index_demand_expecta,Peru: Business Confidence Index: Demand Expectations to 3 Months (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2007,76
+N293VADC@emergela,business_expectations_demand_expectation,Peru: Business Expectations: Demand Expectations in 3M: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VADH@emergela,business_expectations_demand_expectation_1,Peru: Business Expectations: Demand Expectations in 3M: Mining & HC (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VADK@emergela,business_expectations_demand_expectation_2,Peru: Business Expectations: Demand Expectations in 3M: Construction(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VADM@emergela,bus_expectations_demand_expectations_in_,Peru: Bus Expectations: Demand Expectations in 3M: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VADS@emergela,business_expectations_demand_expectation_3,Peru: Business Expectations: Demand Expectations in 3M: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VAL@emergela,business_conf_index_exp_for_personel_hir,Peru: Business Conf Index: Exp for Personel Hiring to 3 Months (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2007,79
+N293VAS@emergela,business_confidence_index_sector_sales_e,Peru: Business Confidence Index: Sector Sales Exp to 3 Months (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2002,97
+N293VASC@emergela,business_expectations_3m_sector_expectat,Peru: Business Expectations: 3M Sector Expectations: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VASH@emergela,business_exp_3m_sector_expectations_mini,Peru: Business Exp: 3M Sector Expectations: Mining & Hydrocarbons (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VASK@emergela,business_expectations_3m_sector_expectat_1,Peru: Business Expectations: 3M Sector Expectations: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VASM@emergela,business_expectations_3m_sector_expectat_2,Peru: Business Expectations: 3M Sector Expectations: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VASS@emergela,business_expectations_3m_sector_expectat_3,Peru: Business Expectations: 3M Sector Expectations: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VASY@emergela,business_expectations_12_month_industry_,Peru: Business Expectations: 12-Month Industry Expectations: Total (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2009,71
+N293VBC@emergela,business_confidence_index_current_busine,Peru: Business Confidence Index: Current Business Conditions (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2008,75
+N293VBN@emergela,business_confidence_ind_inventories_w_re,Peru: Business Confidence Ind: Inventories w/ Respect to Prev Month (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2004,91
+N293VBNH@emergela,bus_exp_production_compared_to_the_previ,Peru: Bus Exp: Production Compared to the Previous Month: Min & HC(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBNK@emergela,bus_exp_prod_compared_to_the_previous_mo,Peru: Bus Exp: Prod Compared to the Previous Month: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBNM@emergela,bus_exp_prod_compared_to_the_previous_mo_1,Peru: Bus Exp: Prod Compared to the Previous Month: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBO@emergela,business_conf_index_purchase_orders_w_re,Peru: Business Conf Index: Purchase Orders w/ Respect to Prev Month (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2004,91
+N293VBOC@emergela,bus_exp_purch_order_compared_to_the_prev,Peru: Bus Exp: Purch Order Compared to the Previous Month: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBOH@emergela,bus_exp_purch_order_compared_to_the_prev_1,Peru: Bus Exp: Purch Order Compared to the Previous Month: Min & HC (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBOK@emergela,bus_exp_purch_order_compared_to_the_prev_2,Peru: Bus Exp: Purch Order Compared to the Prev Month: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBOM@emergela,bus_exp_purch_order_compared_to_the_prev_3,Peru: Bus Exp: Purch Order Compared to the Prev Month: Manufacturing(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBOS@emergela,bus_exp_purch_order_compared_to_the_prev_4,Peru: Bus Exp: Purch Order Compared to the Previous Month: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBS@emergela,business_confidence_index_sales_w_respec,Peru: Business Confidence Index: Sales w/ Respect to Previous Month (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2004,91
+N293VBSC@emergela,business_exp_sales_compared_to_the_previ,Peru: Business Exp: Sales Compared to the Previous Month: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBSH@emergela,bus_exp_sales_compared_to_the_previous_m,Peru: Bus Exp: Sales Compared to the Previous Month: Mining & HC (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBSK@emergela,bus_exp_sales_compared_to_the_previous_m_1,Peru: Bus Exp: Sales Compared to the Previous Month: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBSM@emergela,bus_exp_sales_compared_to_the_previous_m_2,Peru: Bus Exp: Sales Compared to the Previous Month: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VBSS@emergela,business_exp_sales_compared_to_the_previ_1,Peru: Business Exp: Sales Compared to the Previous Month: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VCPY@emergela,inflation_expectation_for_the_next_12_mo,"Peru: Inflation Expectation for the Next 12 Months (NSA, %)",B,1,yoy_diff,TRUE,Quarterly <- Monthly,%,2002,99
+N293VYCC@emergela,business_expectations_12m_economic_expec,Peru: Business Expectations: 12M Economic Expectations: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYCH@emergela,business_expectations_12m_economic_exp_m,Peru: Business Expectations: 12M Economic Exp: Mining & Hydrocarbons(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYCK@emergela,business_expectations_12m_economic_expec_1,Peru: Business Expectations: 12M Economic Expectations: Construction(50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYCM@emergela,business_exp_12m_economic_expectations_m,Peru: Business Exp: 12M Economic Expectations: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYCS@emergela,business_expectations_12m_economic_expec_2,Peru: Business Expectations: 12M Economic Expectations: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYSC@emergela,bus_exp_12_month_sector_expectations_com,Peru: Bus Exp: 12-Month Sector Expectations: Commerce (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYSH@emergela,bus_exp_12_month_sector_expectations_min,Peru: Bus Exp: 12-Month Sector Expectations: Mining & Hydrocarbons (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYSK@emergela,bus_exp_12_month_sector_expectations_con,Peru: Bus Exp: 12-Month Sector Expectations: Construction (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYSM@emergela,bus_exp_12_month_sector_expectations_man,Peru: Bus Exp: 12-Month Sector Expectations: Manufacturing (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293VYSS@emergela,bus_exp_12_month_sector_expectations_ser,Peru: Bus Exp: 12-Month Sector Expectations: Services (50+=Growth),A;C,1,yoy_diff,TRUE,Quarterly <- Monthly,INDEX,2010,67
+N293XEUB@emergela,exchange_rate_bid_euro_area,"Peru: Exchange Rate [Bid]: Euro Area (AVG, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,98
+N293XEUE@emergela,exchange_rate_mid_euro_area,"Peru: Exchange Rate [Mid]: Euro Area (EOP, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,99
+N293XEUL@emergela,exchange_rate_ask_euro_area,"Peru: Exchange Rate [Ask]: Euro Area (EOP, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,99
+N293XEUS@emergela,exchange_rate_ask_euro_area_1,"Peru: Exchange Rate [Ask]: Euro Area (AVG, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,98
+N293XEUV@emergela,exchange_rate_mid_euro_area_1,"Peru: Exchange Rate [Mid]: Euro Area (AVG, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,98
+N293XEUY@emergela,exchange_rate_bid_euro_area_1,"Peru: Exchange Rate [Bid]: Euro Area (EOP, PEN/EUR)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,2002,99
+N293XRM@emergela,multilateral_exchange_rate_real,"Peru: Multilateral Exchange Rate: Real (NSA, 2009=100)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,INDEX,1991,143
+N293XUSB@emergela,exchange_rate_bid_united_states,"Peru: Exchange Rate [Bid]: United States (AVG, PEN/US$)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,LC/US$,1997,119
+N293XUSE@emergela,exchange_rate_mid_united_states,"Peru: Exchange Rate [Mid]: United States (EOP, PEN/US$)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,1997,119
+N293XUSL@emergela,exchange_rate_ask_united_states,"Peru: Exchange Rate [Ask]: United States (EOP, PEN/US$)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,LC/US$,1997,119
+N293XUSS@emergela,exchange_rate_ask_united_states_1,"Peru: Exchange Rate [Ask]: United States (AVG, PEN/US$)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,LC/US$,1997,119
+N293XUSV@emergela,exchange_rate_mid_united_states_1,"Peru: Exchange Rate [Mid]: United States (AVG, PEN/US$)",B,0,yoy_diff,TRUE,Quarterly <- Monthly,RATIO,1997,119
+N293XUSY@emergela,exchange_rate_bid_united_states_1,"Peru: Exchange Rate [Bid]: United States (EOP, PEN/US$)",B,0,yoy_pct,TRUE,Quarterly <- Monthly,LC/US$,1997,119
+D293FCB@emergela,banking_system_credit_to_pvt_sector_dom_,"Peru: Banking System Credit to Pvt Sector: Dom Currency (EOP, NSA,Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,137
+D293FCPB@emergela,dom_curr_cr_of_dep_corp_to_pvt_sec_buss_,"Peru: Dom Curr Cr of Dep Corp to Pvt Sec: Buss ex Micro Ent (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,97
+D293FCPC@emergela,dom_curr_credit_of_dep_corp_to_private_s,"Peru: Dom Curr Credit of Dep Corp to Private Sector: Companies (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+D293FCPH@emergela,dom_curr_credit_of_dep_corp_to_private_s_1,"Peru: Dom Curr Credit of Dep Corp to Private Sector: Mortgages (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+D293FCPM@emergela,dom_curr_credit_of_dep_corp_to_private_s_2,"Peru: Dom Curr Credit of Dep Corp to Private Sector: Micro Ent (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,97
+D293FCPV@emergela,dom_curr_credit_of_dep_corp_to_private_s_3,"Peru: Dom Curr Credit of Dep Corp to Private Sector: Consumers (EOP, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,2001,103
+D293FCT@emergela,adj_credit_of_fin_sys_to_pvt_sector_dom_,"Peru: Adj Credit of Fin Sys to Pvt Sector: Dom Currency (EOP, NSA,Mil.NewSoles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1998,110
+D293FM2L@emergela,money_broad_money_dom_currency,"Peru: Monetary Aggregates: Broad Money: Domestic Currency (EOP, NSA, Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139
+D293FMAG@emergela,money_net_dom_assets_on_publ_sect_dom_cu,"Peru: Mon Agg: Net Dom Assets on Publ Sect: Domestic Currency(EOP,NSA,Mil.Soles)",B,1,yoy_diff_scaled,TRUE,Quarterly <- Monthly,LocCur,1992,139
+D293FMAP@emergela,money_net_dom_assets_credit_to_private_s_1,"Peru: Mon Agg: Net Dom Assets: Credit to Private Sec: Dom Cur(EOP,NSA,Mil.Soles)",B,1,yoy_pct,TRUE,Quarterly <- Monthly,LocCur,1992,139

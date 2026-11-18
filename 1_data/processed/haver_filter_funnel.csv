@@ -1,0 +1,7 @@
+stage,n_kept
+0_raw,2446
+1_all_na,2394
+2_weights,2144
+3_ends_early,2055
+4_starts_late,1209
+5_availability_done,1163

@@ -1,0 +1,55 @@
+sector,code,cluster,source,n_targets,max_freq,targets,rank,short_name,desc,pub_lag_q,transform
+A,N293NGPD@emergela,N293NGPD@emergela,lasso,3,0.96,NE.GDI.FTOT.KD.ZG; NY.GDP.MKTP.KD.ZG; NY.GNP.PCAP.CD,1,gdp_gross_dom_product,"Peru: GDP: Gross Domestic Product (NSA, Mil.US$)",1,yoy_pct
+A,N293IL99@emergela,N293IL99@emergela,lasso,2,0.82,NE.GDI.FTOT.KD.ZG; NY.GNP.PCAP.CD,2,export_price_gold,"Peru: Export Price, Gold (NSA, US$/oz.T)",1,yoy_diff_scaled
+A,N293PFTT@emergela,N293PFTT@emergela,lasso,2,0.76,NE.CON.GOVT.ZS; NV.IND.TOTL.ZS,3,nominal_prices_terms_of_trade,"Peru: Nominal Prices: Terms of Trade (NSA, 2007=100)",1,yoy_pct
+A,N293NYFC@emergela,N293NYFC@emergela,lasso,1,0.86,NV.IND.TOTL.ZS,4,gdp_investment_income,"Peru: GDP: Investment Income (NSA, Mil.2007.NewSoles)",1,yoy_diff_scaled
+A,N293F2T3@emergela,N293F2T3@emergela,lasso,1,0.7,NY.GDP.MKTP.KD.ZG,5,gg_nonfin_expenditures_capital_expenditu,"Peru: Gen Govt: Nonfin Expenditures, Capital Expenditures (NSA Mil.NewSoles)",1,yoy_pct
+A,N293F2R1@emergela,N293F2R1@emergela,lasso,1,0.52,NE.CON.GOVT.ZS,6,gg_nonfin_expend_national_govt_current_r,"Peru: GG: Nonfin Expend,  National Govt Current Remunerations (NSA Mil.NewSoles)",1,yoy_pct
+B,N293XUSL@emergela,N293XUSE@emergela,lasso,1,0.8,PA.NUS.FCRF,1,exchange_rate_ask_united_states,"Peru: Exchange Rate [Ask]: United States (EOP, PEN/US$)",0,yoy_pct
+B,N293PC@emergela,N293PC@emergela,lasso,1,0.78,FP.CPI.TOTL.ZG,2,lima_consumer_price_index,"Peru: Lima Consumer Price Index (NSA, Dec 2021=100)",0,yoy_pct
+B,N293FPWN@emergela,N293FPWN@emergela,lasso,1,0.62,FS.AST.PRVT.GD.ZS,3,frgn_pub_debt_credits_multilateral_organ,Peru: Frgn Pub Debt: Credits: Multilateral Organizations as a Percent of GDP (%),1,yoy_diff
+B,N293FDA@emergela,N293FDA@emergela,lasso,1,0.56,FS.AST.PRVT.GD.ZS,4,foreign_public_debt,"Peru: Foreign Public Debt (EOP, NSA, Mil.NewSoles)",1,yoy_pct
+B,N293PCX3@emergela,N293PCX3@emergela,lasso,1,0.52,FB.CBK.BRWR.P3,5,consumer_price_index_ex_food_and_fuels,"Peru: Consumer Price Index ex Food and Fuels (NSA, Dec 2021=100)",0,yoy_pct
+C,N293ACGX@emergela,N293ACGX@emergela,lasso,1,0.68,TM.VAL.MRCH.CD.WT,1,bop_exports_of_goods,"Peru: BOP: Exports of Goods (NSA, Mil.US$)",1,yoy_pct
+C,N293IMIC@emergela,N293IMIC@emergela,lasso,1,0.68,TM.VAL.MRCH.CD.WT,2,real_imp_primary_materials_intermediate_,"Peru: Real Imp, Primary Materials & Intermediate Products (NSA, Thous.2007.US$)",1,yoy_pct
+C,N293IXJN@emergela,N293IXJN@emergela,lasso,1,0.62,TX.VAL.MRCH.CD.WT,3,exports_copper_fob,"Peru: Exports, Copper, FOB (NSA, Mil.US$)",1,yoy_pct
+C,N293IMD@emergela,N293ACGM@emergela,core,0,NA,,4,merchandise_imports,"Peru: Merchandise Imports (NSA, Mil.US$)",1,yoy_pct
+C,N293PFTT@emergela,N293PFTT@emergela,core,0,NA,,5,nominal_prices_terms_of_trade,"Peru: Nominal Prices: Terms of Trade (NSA, 2007=100)",1,yoy_pct
+C,N293ILJN@emergela,N293ILJN@emergela,core,0,NA,,6,export_price_copper,"Peru: Export Price, Copper (NSA, UScents $/lb.)",1,yoy_pct
+D,N293ELUR@emergela,N293ELUR@emergela,core,0,NA,,1,metro_lima_unemployment_rate_3_mo_moving,"Peru: Metro Lima Unemployment Rate, 3-Mo Moving Average (EOP, NSA, %)",1,yoy_diff
+D,N293ELE@emergela,N293ELE@emergela,core,0,NA,,2,employed_metropolitan_lima,"Peru: Employed, Metropolitan Lima  (NSA, Thous.)",1,yoy_pct
+D,N293ELLF@emergela,N293ELLF@emergela,core,0,NA,,3,labor_force_metropolitan_lima,"Peru: Labor Force, Metropolitan Lima (NSA, Thous.)",1,yoy_pct
+D,N293EWMR@emergela,N293EWMR@emergela,core,0,NA,,4,minimum_wage_real_2009_new_soles,Peru: Minimum Wage: Real (2009.New Soles),1,yoy_pct
+D,N293EM@emergela,N293EM@emergela,core,0,NA,,5,monthly_income_3_month_moving_average,"Peru: Monthly Income: 3-Month Moving Average (NSA, Soles)",1,yoy_pct
+D,N293GVQ@emergela,N293GVQ@emergela,core,0,NA,,6,gross_dom_product_volume_index,"Peru: Gross Domestic Product Volume Index (NSA, 2007=100)",1,yoy_pct
+E,N293PC@emergela,N293PC@emergela,core,0,NA,,1,lima_consumer_price_index,"Peru: Lima Consumer Price Index (NSA, Dec 2021=100)",0,yoy_pct
+E,N293PWMF@emergela,N293PWMF@emergela,core,0,NA,,2,wpi_food_and_beverages,"Peru: WPI: Food and Beverages (NSA, 12/2013=100)",0,yoy_pct
+E,N293EWMR@emergela,N293EWMR@emergela,core,0,NA,,3,minimum_wage_real_2009_new_soles,Peru: Minimum Wage: Real (2009.New Soles),1,yoy_pct
+E,N293NCPC@emergela,N293NCPC@emergela,core,0,NA,,4,gdp_private_consumption_3,"Peru: GDP: Private Consumption (NSA, Mil.2007.NewSoles)",1,yoy_pct
+E,N293ACTR@emergela,N293ACTR@emergela,core,0,NA,,5,bop_secondary_income_worker_s_remittance,"Peru: BOP: Secondary Income, Worker's Remittances (NSA, Mil.US$)",1,yoy_pct
+E,N293ELUR@emergela,N293ELUR@emergela,core,0,NA,,6,metro_lima_unemployment_rate_3_mo_moving,"Peru: Metro Lima Unemployment Rate, 3-Mo Moving Average (EOP, NSA, %)",1,yoy_diff
+Pooled,N293NGPD@emergela,NA,union,NA,NA,NA,1,gdp_gross_dom_product,"Peru: GDP: Gross Domestic Product (NSA, Mil.US$)",1,yoy_pct
+Pooled,N293IL99@emergela,NA,union,NA,NA,NA,2,export_price_gold,"Peru: Export Price, Gold (NSA, US$/oz.T)",1,yoy_diff_scaled
+Pooled,N293PFTT@emergela,NA,union,NA,NA,NA,3,nominal_prices_terms_of_trade,"Peru: Nominal Prices: Terms of Trade (NSA, 2007=100)",1,yoy_pct
+Pooled,N293NYFC@emergela,NA,union,NA,NA,NA,4,gdp_investment_income,"Peru: GDP: Investment Income (NSA, Mil.2007.NewSoles)",1,yoy_diff_scaled
+Pooled,N293F2T3@emergela,NA,union,NA,NA,NA,5,gg_nonfin_expenditures_capital_expenditu,"Peru: Gen Govt: Nonfin Expenditures, Capital Expenditures (NSA Mil.NewSoles)",1,yoy_pct
+Pooled,N293F2R1@emergela,NA,union,NA,NA,NA,6,gg_nonfin_expend_national_govt_current_r,"Peru: GG: Nonfin Expend,  National Govt Current Remunerations (NSA Mil.NewSoles)",1,yoy_pct
+Pooled,N293XUSL@emergela,NA,union,NA,NA,NA,7,exchange_rate_ask_united_states,"Peru: Exchange Rate [Ask]: United States (EOP, PEN/US$)",0,yoy_pct
+Pooled,N293PC@emergela,NA,union,NA,NA,NA,8,lima_consumer_price_index,"Peru: Lima Consumer Price Index (NSA, Dec 2021=100)",0,yoy_pct
+Pooled,N293FPWN@emergela,NA,union,NA,NA,NA,9,frgn_pub_debt_credits_multilateral_organ,Peru: Frgn Pub Debt: Credits: Multilateral Organizations as a Percent of GDP (%),1,yoy_diff
+Pooled,N293FDA@emergela,NA,union,NA,NA,NA,10,foreign_public_debt,"Peru: Foreign Public Debt (EOP, NSA, Mil.NewSoles)",1,yoy_pct
+Pooled,N293PCX3@emergela,NA,union,NA,NA,NA,11,consumer_price_index_ex_food_and_fuels,"Peru: Consumer Price Index ex Food and Fuels (NSA, Dec 2021=100)",0,yoy_pct
+Pooled,N293ACGX@emergela,NA,union,NA,NA,NA,12,bop_exports_of_goods,"Peru: BOP: Exports of Goods (NSA, Mil.US$)",1,yoy_pct
+Pooled,N293IMIC@emergela,NA,union,NA,NA,NA,13,real_imp_primary_materials_intermediate_,"Peru: Real Imp, Primary Materials & Intermediate Products (NSA, Thous.2007.US$)",1,yoy_pct
+Pooled,N293IXJN@emergela,NA,union,NA,NA,NA,14,exports_copper_fob,"Peru: Exports, Copper, FOB (NSA, Mil.US$)",1,yoy_pct
+Pooled,N293IMD@emergela,NA,union,NA,NA,NA,15,merchandise_imports,"Peru: Merchandise Imports (NSA, Mil.US$)",1,yoy_pct
+Pooled,N293ILJN@emergela,NA,union,NA,NA,NA,16,export_price_copper,"Peru: Export Price, Copper (NSA, UScents $/lb.)",1,yoy_pct
+Pooled,N293ELUR@emergela,NA,union,NA,NA,NA,17,metro_lima_unemployment_rate_3_mo_moving,"Peru: Metro Lima Unemployment Rate, 3-Mo Moving Average (EOP, NSA, %)",1,yoy_diff
+Pooled,N293ELE@emergela,NA,union,NA,NA,NA,18,employed_metropolitan_lima,"Peru: Employed, Metropolitan Lima  (NSA, Thous.)",1,yoy_pct
+Pooled,N293ELLF@emergela,NA,union,NA,NA,NA,19,labor_force_metropolitan_lima,"Peru: Labor Force, Metropolitan Lima (NSA, Thous.)",1,yoy_pct
+Pooled,N293EWMR@emergela,NA,union,NA,NA,NA,20,minimum_wage_real_2009_new_soles,Peru: Minimum Wage: Real (2009.New Soles),1,yoy_pct
+Pooled,N293EM@emergela,NA,union,NA,NA,NA,21,monthly_income_3_month_moving_average,"Peru: Monthly Income: 3-Month Moving Average (NSA, Soles)",1,yoy_pct
+Pooled,N293GVQ@emergela,NA,union,NA,NA,NA,22,gross_dom_product_volume_index,"Peru: Gross Domestic Product Volume Index (NSA, 2007=100)",1,yoy_pct
+Pooled,N293PWMF@emergela,NA,union,NA,NA,NA,23,wpi_food_and_beverages,"Peru: WPI: Food and Beverages (NSA, 12/2013=100)",0,yoy_pct
+Pooled,N293NCPC@emergela,NA,union,NA,NA,NA,24,gdp_private_consumption_3,"Peru: GDP: Private Consumption (NSA, Mil.2007.NewSoles)",1,yoy_pct
+Pooled,N293ACTR@emergela,NA,union,NA,NA,NA,25,bop_secondary_income_worker_s_remittance,"Peru: BOP: Secondary Income, Worker's Remittances (NSA, Mil.US$)",1,yoy_pct

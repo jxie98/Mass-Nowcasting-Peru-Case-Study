@@ -1,0 +1,98 @@
+sector,priority,code,name,kind,transform,wdi_group,n_obs,first_year,last_year,n_train,status
+A,1,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),output,level,A,65,1961,2025,20,SELECTED
+A,2,NE.CON.PRVT.KD.ZG,Households and NPISHs Final consumption expenditure (annual % growth),consumption_private,level,A,65,1961,2025,20,|r|=0.97 with NY.GDP.MKTP.KD.ZG
+A,3,NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth),consumption_government,level,A,65,1961,2025,20,SELECTED
+A,4,NE.GDI.FTOT.KD.ZG,Gross fixed capital formation (annual % growth),investment,level,A,65,1961,2025,20,SELECTED
+A,5,NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)",va_industry,level,A,65,1961,2025,20,|r|=0.96 with NY.GDP.MKTP.KD.ZG
+A,6,NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)",va_services,level,A,31,1995,2025,20,|r|=0.96 with NY.GDP.MKTP.KD.ZG
+A,7,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)",va_agriculture,level,A,65,1961,2025,20,SELECTED
+A,8,NY.GNS.ICTR.ZS,Gross savings (% of GDP),savings,pp,A,49,1977,2025,20,SELECTED
+A,9,NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP),external_balance,pp,A,66,1960,2025,20,SELECTED
+A,10,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)",income_usd,pct,A,64,1962,2025,20,SELECTED
+A,11,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",economic_structure,pp,A,54,1960,2024,20,SELECTED
+A,12,NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP),government_size,pp,A,66,1960,2025,20,SELECTED
+A,13,NY.GDP.MKTP.CD,GDP (current US$),income_usd,pct,A,66,1960,2025,20,same kind as selected: income_usd
+A,14,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",economic_structure,pp,A,54,1960,2024,20,same kind as selected: economic_structure
+A,15,NE.GDI.FTOT.ZS,Gross fixed capital formation (% of GDP),investment_ratio,pp,A,66,1960,2025,20,|r|=0.92 with NE.GDI.FTOT.KD.ZG
+A,16,NE.CON.PRVT.ZS,Households and NPISHs final consumption expenditure (% of GDP),consumption_private,pp,A,66,1960,2025,20,SELECTED
+A,17,BN.GSR.FCTY.CD,"Net primary income (BoP, current US$)",primary_income,level,A,49,1977,2025,20,reserve (sector full)
+A,18,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",economic_structure,pp,A,54,1960,2024,20,reserve (sector full)
+A,19,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),output,level,A,65,1961,2025,20,reserve (sector full)
+A,20,NY.GNP.MKTP.KD.ZG,GNI growth (annual %),output,level,A,65,1961,2025,20,reserve (sector full)
+A,21,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)",va_industry,level,A,65,1961,2025,20,reserve (sector full)
+A,22,NE.GDI.TOTL.KD.ZG,Gross capital formation (annual % growth),investment,level,A,65,1961,2025,20,reserve (sector full)
+B,23,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation,level,B,66,1960,2025,20,SELECTED
+B,24,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",exchange_rate,pct,B,66,1960,2025,20,SELECTED
+B,25,FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),credit_private,pp,B,65,1960,2024,20,SELECTED
+B,26,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",reserves,pct,A,66,1960,2025,20,SELECTED
+B,27,FS.AST.CGOV.GD.ZS,"Claims on central government, etc. (% GDP)",credit_government,pp,B,65,1960,2024,20,SELECTED
+B,28,CM.MKT.LCAP.GD.ZS,Market capitalization of listed domestic companies (% of GDP),equity_market,pp,B,29,1997,2025,20,SELECTED
+B,29,FB.AST.NPER.ZS,Bank nonperforming loans to total gross loans (%),bank_soundness,pp,B,15,2010,2024,10,SELECTED
+B,30,FB.CBK.BRWR.P3,"Borrowers from commercial banks (per 1,000 adults)",financial_inclusion,pct,B,21,2004,2024,16,SELECTED
+B,31,DT.DOD.DSTC.IR.ZS,Short-term debt (% of total reserves),external_liquidity,pp,K,55,1970,2024,20,SELECTED
+B,32,FM.AST.DOMS.CN,Net domestic credit (current LCU),credit_domestic,pct,B,65,1960,2024,20,SELECTED
+B,33,FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP),credit_private,pp,B,65,1960,2024,20,reserve (sector full)
+B,34,FM.AST.PRVT.ZG.M3,Claims on private sector (annual growth as % of broad money),credit_private,level,B,63,1961,2023,20,reserve (sector full)
+B,35,FM.AST.NFRG.CN,Net foreign assets (current LCU),reserves,pct,B,65,1960,2024,20,reserve (sector full)
+B,36,FI.RES.TOTL.MO,Total reserves in months of imports,reserves,pp,A,49,1977,2025,20,reserve (sector full)
+B,37,CM.MKT.TRAD.GD.ZS,"Stocks traded, total value (% of GDP)",equity_market,pp,B,33,1993,2025,20,reserve (sector full)
+B,38,FB.BNK.CAPA.ZS,Bank capital to assets ratio (%),bank_soundness,pp,B,15,2010,2024,10,reserve (sector full)
+B,39,FB.CBK.DPTR.P3,"Depositors with commercial banks (per 1,000 adults)",financial_inclusion,pct,B,21,2004,2024,16,reserve (sector full)
+B,40,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)",inflation,level,B,65,1961,2025,20,reserve (sector full)
+C,41,TX.VAL.MRCH.CD.WT,Merchandise exports (current US$),exports_value,pct,C,66,1960,2025,20,SELECTED
+C,42,TM.VAL.MRCH.CD.WT,Merchandise imports (current US$),imports_value,pct,C,66,1960,2025,20,SELECTED
+C,43,TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2015 = 100),terms_of_trade,pct,C,20,2005,2024,15,SELECTED
+C,44,BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),current_account,pp,A,49,1977,2025,20,SELECTED
+C,45,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi,pp,A,55,1970,2024,20,SELECTED
+C,46,BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",remittances,pct,A,35,1990,2024,20,SELECTED
+C,47,TX.VAL.SERV.CD.WT,Commercial service exports (current US$),services_trade,pct,C,49,1977,2025,20,SELECTED
+C,48,TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports),export_composition,pp,C,58,1962,2024,20,SELECTED
+C,49,DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),external_debt,pp,K,55,1970,2024,20,SELECTED
+C,50,IC.BUS.NDNS.ZS,"New business density (new registrations per 1,000 people ages 15-64)",business_formation,pct,C,19,2006,2024,14,SELECTED
+C,51,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP),trade_openness,pp,C,66,1960,2025,20,reserve (sector full)
+C,52,TX.UVI.MRCH.XD.WD,Export unit value index (2015 = 100),terms_of_trade,pct,C,45,1980,2024,20,reserve (sector full)
+C,53,TX.QTY.MRCH.XD.WD,Export volume index (2015 = 100),exports_real,pct,C,20,2005,2024,15,reserve (sector full)
+C,54,TM.QTY.MRCH.XD.WD,Import volume index (2015 = 100),imports_real,pct,C,20,2005,2024,15,reserve (sector full)
+C,55,TM.VAL.SERV.CD.WT,Commercial service imports (current US$),services_trade,pct,C,49,1977,2025,20,reserve (sector full)
+C,56,TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports),export_composition,pp,C,58,1962,2024,20,reserve (sector full)
+C,57,DT.TDS.DECT.EX.ZS,"Total debt service (% of exports of goods, services and primary income)",external_debt,pp,K,48,1977,2024,20,reserve (sector full)
+D,58,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",unemployment,pp,D,56,1969,2025,20,SELECTED
+D,59,SL.TLF.CACT.NE.ZS,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",participation,pp,D,47,1961,2025,20,SELECTED
+D,60,SL.EMP.VULN.ZS,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",informality,pp,D,35,1991,2025,20,SELECTED
+D,61,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),employment_structure,pp,D,35,1991,2025,20,SELECTED
+D,62,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),productivity,pct,D,34,1991,2024,20,SELECTED
+D,63,SL.UEM.NEET.ME.ZS,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",youth,pp,D,21,2005,2025,15,|r|=0.94 with SL.TLF.CACT.NE.ZS
+D,64,SL.TLF.TOTL.IN,"Labor force, total",labor_force_size,pct,D,36,1990,2025,20,SELECTED
+D,65,SL.TLF.PART.ZS,"Part time employment, total (% of total employment)",part_time,pp,D,29,1997,2025,20,SELECTED
+D,66,SL.TLF.CACT.FM.NE.ZS,Ratio of female to male labor force participation rate (%) (national estimate),gender_gap,pp,D,45,1961,2025,20,SELECTED
+D,67,SL.EMP.MPYR.ZS,"Employers, total (% of total employment) (modeled ILO estimate)",employers,pp,D,35,1991,2025,20,SELECTED
+D,68,SM.POP.NETM,Net migration,migration,level,D,66,1960,2025,20,SELECTED
+D,69,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment,pp,D,35,1991,2025,20,reserve (sector full)
+D,70,SL.UEM.1524.NE.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",unemployment,pp,D,30,1996,2025,20,reserve (sector full)
+D,71,SL.TLF.CACT.ZS,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",participation,pp,D,36,1990,2025,20,reserve (sector full)
+D,72,SL.EMP.TOTL.SP.NE.ZS,"Employment to population ratio, 15+, total (%) (national estimate)",participation,pp,D,41,1979,2025,20,reserve (sector full)
+D,73,SL.EMP.WORK.ZS,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",informality,pp,D,35,1991,2025,20,reserve (sector full)
+D,74,SL.SRV.EMPL.ZS,Employment in services (% of total employment) (modeled ILO estimate),employment_structure,pp,D,35,1991,2025,20,reserve (sector full)
+D,75,SL.IND.EMPL.ZS,Employment in industry (% of total employment) (modeled ILO estimate),employment_structure,pp,D,35,1991,2025,20,reserve (sector full)
+E,76,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),poverty_moderate,pp,E,30,1985,2024,20,SELECTED
+E,77,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),poverty_extreme,pp,E,30,1985,2024,20,SELECTED
+E,78,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),poverty_lower_middle,pp,E,30,1985,2024,20,SELECTED
+E,79,SI.POV.GINI,Gini index,inequality,pp,E,30,1985,2024,20,SELECTED
+E,80,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),poverty_depth,pp,E,30,1985,2024,20,|r|=0.99 with SI.POV.LMIC
+E,81,SI.DST.FRST.20,Income share held by lowest 20%,income_share_bottom,pp,E,30,1985,2024,20,SELECTED
+E,82,SI.DST.10TH.10,Income share held by highest 10%,income_share_top,pp,E,30,1985,2024,20,|r|=0.97 with SI.POV.GINI
+E,83,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),prosperity_gap,pp,E,30,1985,2024,20,|r|=0.95 with SI.POV.DDAY
+E,84,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),poverty_relative,pp,E,30,1985,2024,20,SELECTED
+E,85,SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),food_security,pp,G,23,2001,2023,19,SELECTED
+E,86,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),poverty_national,pp,E,28,1997,2024,20,excluded by user
+E,87,NE.CON.PRVT.PC.KD.ZG,Households and NPISHs Final consumption expenditure per capita growth (annual %),consumption_per_capita,level,A,65,1961,2025,20,|r|=0.96 with NY.GDP.MKTP.KD.ZG
+E,88,SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),health_out_of_pocket,pp,G,24,2000,2023,20,SELECTED
+E,89,SE.XPD.TOTL.GD.ZS,"Government expenditure on education, total (% of GDP)",public_education_spending,pp,F,29,1973,2024,20,SELECTED
+E,90,SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP),public_health_spending,pp,G,24,2000,2023,20,SELECTED
+E,91,SI.DST.04TH.20,Income share held by fourth 20%,income_share_upper_middle,pp,E,30,1985,2024,20,reserve (sector full)
+E,92,SI.DST.03RD.20,Income share held by third 20%,income_share_middle,pp,E,30,1985,2024,20,reserve (sector full)
+E,93,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),poverty_relative,pp,E,30,1985,2024,20,reserve (sector full)
+E,94,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),poverty_depth,pp,E,30,1985,2024,20,reserve (sector full)
+E,95,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),poverty_depth,pp,E,30,1985,2024,20,reserve (sector full)
+E,96,SI.DST.FRST.10,Income share held by lowest 10%,income_share_bottom,pp,E,30,1985,2024,20,reserve (sector full)
+E,97,SI.DST.05TH.20,Income share held by highest 20%,income_share_top,pp,E,30,1985,2024,20,reserve (sector full)

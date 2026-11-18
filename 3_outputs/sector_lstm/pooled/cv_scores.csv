@@ -1,0 +1,5 @@
+setup,model,lstm_units,dropout,dense_units,lr,config,mean_rmse
+pooled,pooled,16,0.2,16,5e-4,1,3656.2882064854953
+pooled,pooled,32,0.2,16,5e-4,2,3501.082517180571
+pooled,pooled,16,0.4,16,5e-4,3,3688.487822247905
+pooled,pooled,32,0.4,16,5e-4,4,3416.973008289439

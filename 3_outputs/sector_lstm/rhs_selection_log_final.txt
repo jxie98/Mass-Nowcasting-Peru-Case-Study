@@ -1,0 +1,52 @@
+Warning message:
+package 'readr' was built under R version 4.6.2 
+Sector A: loaded checkpoint
+Sector B: loaded checkpoint
+Sector C: loaded checkpoint
+Sector D: loaded checkpoint
+Sector E: loaded checkpoint
+
+==== Sector predictor sets ====
+# A tibble: 29 × 7
+   sector  rank short_name                               source n_targets max_freq targets                                               
+   <chr>  <int> <chr>                                    <chr>      <int>    <dbl> <chr>                                                 
+ 1 A          1 gdp_gross_dom_product                    lasso          3     0.96 "NE.GDI.FTOT.KD.ZG; NY.GDP.MKTP.KD.ZG; NY.GNP.PCAP.CD"
+ 2 A          2 export_price_gold                        lasso          2     0.82 "NE.GDI.FTOT.KD.ZG; NY.GNP.PCAP.CD"                   
+ 3 A          3 nominal_prices_terms_of_trade            lasso          2     0.76 "NE.CON.GOVT.ZS; NV.IND.TOTL.ZS"                      
+ 4 A          4 gdp_investment_income                    lasso          1     0.86 "NV.IND.TOTL.ZS"                                      
+ 5 A          5 gg_nonfin_expenditures_capital_expenditu lasso          1     0.7  "NY.GDP.MKTP.KD.ZG"                                   
+ 6 A          6 gg_nonfin_expend_national_govt_current_r lasso          1     0.52 "NE.CON.GOVT.ZS"                                      
+ 7 B          1 exchange_rate_ask_united_states          lasso          1     0.8  "PA.NUS.FCRF"                                         
+ 8 B          2 lima_consumer_price_index                lasso          1     0.78 "FP.CPI.TOTL.ZG"                                      
+ 9 B          3 frgn_pub_debt_credits_multilateral_organ lasso          1     0.62 "FS.AST.PRVT.GD.ZS"                                   
+10 B          4 foreign_public_debt                      lasso          1     0.56 "FS.AST.PRVT.GD.ZS"                                   
+11 B          5 consumer_price_index_ex_food_and_fuels   lasso          1     0.52 "FB.CBK.BRWR.P3"                                      
+12 C          1 bop_exports_of_goods                     lasso          1     0.68 "TM.VAL.MRCH.CD.WT"                                   
+13 C          2 real_imp_primary_materials_intermediate_ lasso          1     0.68 "TM.VAL.MRCH.CD.WT"                                   
+14 C          3 exports_copper_fob                       lasso          1     0.62 "TX.VAL.MRCH.CD.WT"                                   
+15 C          4 merchandise_imports                      core           0    NA    ""                                                    
+16 C          5 nominal_prices_terms_of_trade            core           0    NA    ""                                                    
+17 C          6 export_price_copper                      core           0    NA    ""                                                    
+18 D          1 metro_lima_unemployment_rate_3_mo_moving core           0    NA    ""                                                    
+19 D          2 employed_metropolitan_lima               core           0    NA    ""                                                    
+20 D          3 labor_force_metropolitan_lima            core           0    NA    ""                                                    
+21 D          4 minimum_wage_real_2009_new_soles         core           0    NA    ""                                                    
+22 D          5 monthly_income_3_month_moving_average    core           0    NA    ""                                                    
+23 D          6 gross_dom_product_volume_index           core           0    NA    ""                                                    
+24 E          1 lima_consumer_price_index                core           0    NA    ""                                                    
+25 E          2 wpi_food_and_beverages                   core           0    NA    ""                                                    
+26 E          3 minimum_wage_real_2009_new_soles         core           0    NA    ""                                                    
+27 E          4 gdp_private_consumption_3                core           0    NA    ""                                                    
+28 E          5 bop_secondary_income_worker_s_remittance core           0    NA    ""                                                    
+29 E          6 metro_lima_unemployment_rate_3_mo_moving core           0    NA    ""                                                    
+Pooled input set: 25 predictors
+
+==== LASSO vs stepwise (BIC, one row per year) ====
+# A tibble: 5 × 5
+  sector targets_with_lasso_pick median_jaccard mean_lasso mean_stepwise
+  <chr>                    <int>          <dbl>      <dbl>         <dbl>
+1 A                            5              0        2.2           6  
+2 B                            4              0        0.7           6  
+3 C                            2              0        0.6           6  
+4 D                            0              0        0             5.6
+5 E                            0              0        0             6  

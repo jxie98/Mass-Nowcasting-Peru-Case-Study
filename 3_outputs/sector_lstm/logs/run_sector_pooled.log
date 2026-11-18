@@ -1,0 +1,31 @@
+Warning message:
+package 'readr' was built under R version 4.6.2 
+Warning message:
+package 'keras3' was built under R version 4.6.2 
+
+==== Setup: sector (5 of 5 models, part 1/1) ====
+[sector A] X = [107 x 12 x 6], targets = 10, years 2000-2026
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795017191.110697   46568 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795017194.852147   46568 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001F2B01672E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001F2B0B5F4C0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[sector A] done in 21.8 min (best: units=32, dropout=0.4)
+[sector B] X = [107 x 12 x 5], targets = 10, years 2000-2026
+[sector B] done in 18.0 min (best: units=16, dropout=0.4)
+[sector C] X = [107 x 12 x 6], targets = 10, years 2000-2026
+[sector C] done in 13.6 min (best: units=16, dropout=0.2)
+[sector D] X = [94 x 12 x 6], targets = 10, years 2003-2026
+[sector D] done in 22.3 min (best: units=16, dropout=0.2)
+[sector E] X = [107 x 12 x 6], targets = 10, years 2000-2026
+[sector E] done in 18.9 min (best: units=16, dropout=0.2)
+Setup sector written: 95 min in total
+
+==== Setup: pooled (1 of 1 models, part 1/1) ====
+[pooled pooled] X = [107 x 12 x 25], targets = 50, years 2000-2026
+[pooled pooled] done in 72.4 min (best: units=32, dropout=0.4)
+Setup pooled written: 72 min in total
+Error: unexpected ')' in " file.path(od, "nowcast.csv"))"
+Execution halted

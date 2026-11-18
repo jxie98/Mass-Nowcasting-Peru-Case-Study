@@ -1,0 +1,69 @@
+Warning message:
+package 'readr' was built under R version 4.6.2 
+# A tibble: 8 × 3
+  target          max_abs_diff_pred max_abs_diff_actual
+  <chr>                       <dbl>               <dbl>
+1 gdp                      9.19e-14            1.24e-14
+2 consu_govt               3.80e-13            4.00e-15
+3 invest                   1.33e-12            7.11e-15
+4 exports                  1.21e-13            4.44e-14
+5 imports                  7.82e-13            4.97e-14
+6 consu_total              1.37e-13            4.80e-14
+7 gnp                      1.15e-13            4.97e-14
+8 reserves_months          3.20e-13            3.55e-14
+
+Bridge predictions identical to Macro 3b : TRUE
+Three-window RMSE identical to Macro 4   : TRUE
+LSTM sequences: [44 x 36 x 12], 2015-2025
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1794954233.512304   35128 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1794954235.114025   35128 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+  cv config 1/24: mean RMSE 8.5074
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000017D1828A7A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000017D18EECC20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+  cv config 2/24: mean RMSE 8.2149
+  cv config 3/24: mean RMSE 8.4630
+  cv config 4/24: mean RMSE 8.5237
+  cv config 5/24: mean RMSE 8.1666
+  cv config 6/24: mean RMSE 8.3859
+  cv config 7/24: mean RMSE 8.5180
+  cv config 8/24: mean RMSE 8.2482
+  cv config 9/24: mean RMSE 8.5049
+  cv config 10/24: mean RMSE 8.5167
+  cv config 11/24: mean RMSE 8.3824
+  cv config 12/24: mean RMSE 8.3656
+  cv config 13/24: mean RMSE 8.5159
+  cv config 14/24: mean RMSE 8.2209
+  cv config 15/24: mean RMSE 8.4703
+  cv config 16/24: mean RMSE 8.5304
+  cv config 17/24: mean RMSE 8.3858
+  cv config 18/24: mean RMSE 8.4236
+  cv config 19/24: mean RMSE 8.5184
+  cv config 20/24: mean RMSE 8.2396
+  cv config 21/24: mean RMSE 8.4694
+  cv config 22/24: mean RMSE 8.5220
+  cv config 23/24: mean RMSE 8.4780
+  cv config 24/24: mean RMSE 8.4014
+Best config: lstm_units=64, dense_units=32, dropout=0.1, lr=0.001
+  walk-forward 2020: fit=12 es=8 pred=4
+  walk-forward 2021: fit=16 es=8 pred=4
+  walk-forward 2022: fit=20 es=8 pred=4
+  walk-forward 2023: fit=24 es=8 pred=4
+  walk-forward 2024: fit=28 es=8 pred=4
+  walk-forward 2025: fit=32 es=8 pred=4
+# A tibble: 8 × 4
+  target          rmse_new rmse_macro ratio
+  <chr>              <dbl>      <dbl> <dbl>
+1 gdp                 7.28       7.56 0.963
+2 consu_govt          2.07       2.36 0.879
+3 invest             20.5       20.6  0.995
+4 exports            10.6       10.6  1.00 
+5 imports            13.1       12.4  1.05 
+6 consu_total         6.32       6.37 0.992
+7 gnp                 6.55       7.50 0.874
+8 reserves_months    26.9       23.2  1.16 
+LSTM mean RMSE ratio new/Macro = 1.030 (tolerance +/-10%): TRUE
+Warning message:
+package 'keras3' was built under R version 4.6.2 

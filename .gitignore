@@ -1,0 +1,9 @@
+# Local run artefacts
+3_outputs/sector_lstm_quicktest/
+.Rhistory
+.RData
+.Rproj.user/
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store

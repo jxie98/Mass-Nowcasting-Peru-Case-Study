@@ -1,0 +1,48 @@
+Warning message:
+package 'readr' was built under R version 4.6.2 
+Warning message:
+package 'keras3' was built under R version 4.6.2 
+
+==== Setup: single (17 of 50 models, part 2/3) ====
+[single NE.CON.GOVT.KD.ZG] X = [107 x 12 x 6], targets = 1, years 2000-2026
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795017421.700110   44456 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1795017425.908511   44456 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000149E5CC6DE0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000149E0C63380> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[single NE.CON.GOVT.KD.ZG] done in 7.2 min (best: units=32, dropout=0.4)
+[single NY.GNS.ICTR.ZS] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single NY.GNS.ICTR.ZS] done in 8.7 min (best: units=16, dropout=0.2)
+[single NV.IND.TOTL.ZS] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single NV.IND.TOTL.ZS] done in 11.1 min (best: units=16, dropout=0.4)
+[single FP.CPI.TOTL.ZG] X = [107 x 12 x 5], targets = 1, years 2000-2026
+[single FP.CPI.TOTL.ZG] done in 7.0 min (best: units=16, dropout=0.2)
+[single FI.RES.TOTL.CD] X = [107 x 12 x 5], targets = 1, years 2000-2026
+[single FI.RES.TOTL.CD] done in 3.8 min (best: units=32, dropout=0.2)
+[single FB.AST.NPER.ZS] X = [63 x 12 x 5], targets = 1, years 2011-2026
+[single FB.AST.NPER.ZS] done in 2.9 min (best: units=32, dropout=0.4)
+[single FM.AST.DOMS.CN] X = [107 x 12 x 5], targets = 1, years 2000-2026
+[single FM.AST.DOMS.CN] done in 3.6 min (best: units=32, dropout=0.4)
+[single TT.PRI.MRCH.XD.WD] X = [83 x 12 x 6], targets = 1, years 2006-2026
+[single TT.PRI.MRCH.XD.WD] done in 8.3 min (best: units=32, dropout=0.2)
+[single BX.TRF.PWKR.CD.DT] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single BX.TRF.PWKR.CD.DT] done in 9.6 min (best: units=16, dropout=0.4)
+[single DT.DOD.DECT.GN.ZS] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single DT.DOD.DECT.GN.ZS] done in 9.3 min (best: units=16, dropout=0.4)
+[single SL.TLF.CACT.NE.ZS] X = [94 x 12 x 6], targets = 1, years 2003-2026
+[single SL.TLF.CACT.NE.ZS] done in 7.1 min (best: units=32, dropout=0.4)
+[single SL.GDP.PCAP.EM.KD] X = [94 x 12 x 6], targets = 1, years 2003-2026
+[single SL.GDP.PCAP.EM.KD] done in 9.6 min (best: units=16, dropout=0.2)
+[single SL.TLF.CACT.FM.NE.ZS] X = [94 x 12 x 6], targets = 1, years 2003-2026
+[single SL.TLF.CACT.FM.NE.ZS] done in 10.1 min (best: units=32, dropout=0.4)
+[single SI.POV.UMIC] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single SI.POV.UMIC] done in 9.1 min (best: units=16, dropout=0.2)
+[single SI.POV.GINI] X = [107 x 12 x 6], targets = 1, years 2000-2026
+[single SI.POV.GINI] done in 6.4 min (best: units=32, dropout=0.2)
+[single SN.ITK.DEFC.ZS] X = [95 x 12 x 6], targets = 1, years 2002-2026
+[single SN.ITK.DEFC.ZS] done in 8.0 min (best: units=32, dropout=0.2)
+[single SH.XPD.GHED.GD.ZS] X = [99 x 12 x 6], targets = 1, years 2001-2026
+[single SH.XPD.GHED.GD.ZS] done in 5.6 min (best: units=16, dropout=0.4)
+Setup single: other parts still running; CSVs not written yet

@@ -1,0 +1,101 @@
+Warning message:
+package 'readr' was built under R version 4.6.2 
+Sector A: 435 candidates in 288 clusters, 80 rows (2000-2019)
+  NY.GDP.MKTP.KD.ZG      years=20  lasso clusters(freq>=0.5)= 8  stepwise=6  overlap=0
+  NE.CON.GOVT.KD.ZG      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  NE.GDI.FTOT.KD.ZG      years=20  lasso clusters(freq>=0.5)= 6  stepwise=6  overlap=1
+  NV.AGR.TOTL.KD.ZG      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  NY.GNS.ICTR.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  NE.RSB.GNFS.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  NY.GNP.PCAP.CD         years=20  lasso clusters(freq>=0.5)= 3  stepwise=6  overlap=1
+  NV.IND.TOTL.ZS         years=20  lasso clusters(freq>=0.5)= 3  stepwise=6  overlap=2
+  NE.CON.GOVT.ZS         years=20  lasso clusters(freq>=0.5)= 2  stepwise=6  overlap=1
+  NE.CON.PRVT.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+Sector B: 306 candidates in 236 clusters, 80 rows (2000-2019)
+  FP.CPI.TOTL.ZG         years=20  lasso clusters(freq>=0.5)= 1  stepwise=6  overlap=1
+  PA.NUS.FCRF            years=20  lasso clusters(freq>=0.5)= 3  stepwise=6  overlap=1
+  FS.AST.PRVT.GD.ZS      years=20  lasso clusters(freq>=0.5)= 2  stepwise=6  overlap=0
+  FI.RES.TOTL.CD         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  FS.AST.CGOV.GD.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  CM.MKT.LCAP.GD.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  FB.AST.NPER.ZS         years= 9  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  FB.CBK.BRWR.P3         years=15  lasso clusters(freq>=0.5)= 1  stepwise=6  overlap=0
+  DT.DOD.DSTC.IR.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  FM.AST.DOMS.CN         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+Sector C: 527 candidates in 487 clusters, 80 rows (2000-2019)
+  TX.VAL.MRCH.CD.WT      years=20  lasso clusters(freq>=0.5)= 2  stepwise=6  overlap=1
+  TM.VAL.MRCH.CD.WT      years=20  lasso clusters(freq>=0.5)= 4  stepwise=6  overlap=0
+  TT.PRI.MRCH.XD.WD      years=14  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  BN.CAB.XOKA.GD.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  BX.KLT.DINV.WD.GD.ZS   years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  BX.TRF.PWKR.CD.DT      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  TX.VAL.SERV.CD.WT      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  TX.VAL.MMTL.ZS.UN      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  DT.DOD.DECT.GN.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  IC.BUS.NDNS.ZS         years=13  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+Sector D: 73 candidates in 55 clusters, 80 rows (2000-2019)
+  SL.UEM.TOTL.NE.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.TLF.CACT.NE.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=2  overlap=0
+  SL.EMP.VULN.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.AGR.EMPL.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.GDP.PCAP.EM.KD      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.TLF.TOTL.IN         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.TLF.PART.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.TLF.CACT.FM.NE.ZS   years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SL.EMP.MPYR.ZS         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SM.POP.NETM            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+Sector E: 154 candidates in 121 clusters, 80 rows (2000-2019)
+  SI.POV.UMIC            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SI.POV.DDAY            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SI.POV.LMIC            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SI.POV.GINI            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SI.DST.FRST.20         years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SI.DST.50MD            years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SN.ITK.DEFC.ZS         years=18  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SH.XPD.OOPC.CH.ZS      years=19  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SE.XPD.TOTL.GD.ZS      years=20  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+  SH.XPD.GHED.GD.ZS      years=19  lasso clusters(freq>=0.5)= 0  stepwise=6  overlap=0
+
+==== Sector predictor sets ====
+# A tibble: 28 × 7
+   sector  rank short_name                               source n_targets max_freq targets                                               
+   <chr>  <int> <chr>                                    <chr>      <int>    <dbl> <chr>                                                 
+ 1 A          1 gdp_gross_dom_product                    lasso          3     0.96 "NE.GDI.FTOT.KD.ZG; NY.GDP.MKTP.KD.ZG; NY.GNP.PCAP.CD"
+ 2 A          2 export_price_gold                        lasso          2     0.82 "NE.GDI.FTOT.KD.ZG; NY.GNP.PCAP.CD"                   
+ 3 A          3 nominal_prices_terms_of_trade            lasso          2     0.76 "NE.CON.GOVT.ZS; NV.IND.TOTL.ZS"                      
+ 4 A          4 gdp_investment_income                    lasso          1     0.86 "NV.IND.TOTL.ZS"                                      
+ 5 A          5 gg_nonfin_expenditures_capital_expenditu lasso          1     0.7  "NY.GDP.MKTP.KD.ZG"                                   
+ 6 A          6 gg_nonfin_expend_national_govt_current_r lasso          1     0.52 "NE.CON.GOVT.ZS"                                      
+ 7 B          1 exchange_rate_ask_united_states          lasso          1     0.8  "PA.NUS.FCRF"                                         
+ 8 B          2 lima_consumer_price_index                lasso          1     0.78 "FP.CPI.TOTL.ZG"                                      
+ 9 B          3 exchange_rate_ask_united_states_1        lasso          1     0.74 "PA.NUS.FCRF"                                         
+10 B          4 frgn_pub_debt_credits_multilateral_organ lasso          1     0.62 "FS.AST.PRVT.GD.ZS"                                   
+11 B          5 foreign_public_debt                      lasso          1     0.56 "FS.AST.PRVT.GD.ZS"                                   
+12 B          6 consumer_price_index_ex_food_and_fuels   lasso          1     0.52 "FB.CBK.BRWR.P3"                                      
+13 C          1 bop_exports_of_goods                     lasso          1     0.68 "TM.VAL.MRCH.CD.WT"                                   
+14 C          2 real_imp_primary_materials_intermediate_ lasso          1     0.68 "TM.VAL.MRCH.CD.WT"                                   
+15 C          3 exports_copper_fob                       lasso          1     0.62 "TX.VAL.MRCH.CD.WT"                                   
+16 C          4 gdp_exports_of_goods_and_services_2      lasso          1     0.6  "TX.VAL.MRCH.CD.WT"                                   
+17 D          1 metro_lima_unemployment_rate_3_mo_moving core           0    NA    ""                                                    
+18 D          2 employed_metropolitan_lima               core           0    NA    ""                                                    
+19 D          3 labor_force_metropolitan_lima            core           0    NA    ""                                                    
+20 D          4 minimum_wage_real_2009_new_soles         core           0    NA    ""                                                    
+21 D          5 monthly_income_3_month_moving_average    core           0    NA    ""                                                    
+22 D          6 gross_dom_product_volume_index           core           0    NA    ""                                                    
+23 E          1 lima_consumer_price_index                core           0    NA    ""                                                    
+24 E          2 wpi_food_and_beverages                   core           0    NA    ""                                                    
+25 E          3 minimum_wage_real_2009_new_soles         core           0    NA    ""                                                    
+26 E          4 gdp_private_consumption_3                core           0    NA    ""                                                    
+27 E          5 bop_secondary_income_worker_s_remittance core           0    NA    ""                                                    
+28 E          6 metro_lima_unemployment_rate_3_mo_moving core           0    NA    ""                                                    
+Pooled input set: 25 predictors
+
+==== LASSO vs stepwise (BIC, one row per year) ====
+# A tibble: 5 × 5
+  sector targets_with_lasso_pick median_jaccard mean_lasso mean_stepwise
+  <chr>                    <int>          <dbl>      <dbl>         <dbl>
+1 A                            5              0        2.2           6  
+2 B                            4              0        0.7           6  
+3 C                            2              0        0.6           6  
+4 D                            0              0        0             5.6
+5 E                            0              0        0             6  
