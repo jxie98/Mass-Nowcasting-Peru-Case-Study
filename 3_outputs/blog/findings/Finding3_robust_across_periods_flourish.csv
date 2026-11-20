@@ -1,0 +1,11 @@
+Model,Measure,2020-25 (incl. COVID),2022-25 (excl. COVID)
+LSTM: one pooled model,RMSE,1.87,1.07
+LSTM: one model per sector,RMSE,1.89,1.10
+LSTM: one model per indicator,RMSE,1.89,1.10
+Naive (last year's value),RMSE,2.85,1.84
+Bridge equation (LASSO),RMSE,3.01,2.51
+LSTM: one pooled model,MAE,1.42,0.89
+LSTM: one model per sector,MAE,1.46,0.93
+LSTM: one model per indicator,MAE,1.46,0.92
+Naive (last year's value),MAE,2.27,1.49
+Bridge equation (LASSO),MAE,2.36,1.81

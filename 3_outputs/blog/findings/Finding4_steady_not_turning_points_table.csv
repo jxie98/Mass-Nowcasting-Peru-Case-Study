@@ -1,0 +1,7 @@
+Indicator,Year,Episode,Official,LSTM (pooled),Bridge equation
+GDP growth (%),2020,COVID-19 collapse: LSTM misses it,-10.933306501038231,4.527990812940881,1.550164974816626
+GDP growth (%),2021,Rebound: both miss it,13.416645612651308,3.837861469519465,-9.221450462308905
+"Inflation, consumer prices (%)",2022,Inflation spike: bridge catches it,8.333706300962309,3.15597186269109,7.746831279967321
+"Exchange rate, soles per US$ (% change)",2021,Sol depreciation: bridge catches it,10.466140995336673,-0.9840448501774148,7.948795588712441
+GDP growth (%),2022,False alarm: bridge nowcasts ~30% growth,2.818199764199221,3.3051270394181396,29.129650393286468
+"Poverty rate at $8.30 a day (change, pp)",2022,False alarm: bridge nowcasts poverty -23 pp,-1.7000000000000028,-1.5367359337205695,-22.697353378382164

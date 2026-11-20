@@ -1,0 +1,4 @@
+Design,Number of Model,RMSE 2022-25 (excl. COVID),MAE 2022-25 (excl. COVID),"Accuracy (2022-25, excl. COVID)"
+One pooled mode,1,1.07,0.89,RMSE 1.07 | MAE 0.89
+One model per sector,5,1.1,0.93,RMSE 1.10 | MAE 0.93
+One model per indicator,50,1.1,0.92,RMSE 1.10 | MAE 0.92
