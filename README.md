@@ -50,7 +50,6 @@ Figures are in [`3_outputs/blog/`](3_outputs/blog/).
   bridge/             LASSO / OLS bridge predictions and coefficients
   blog/               comparison metrics, nowcasts and figures
   regression_check/   check that the shared functions reproduce the earlier Macro package
-4_tracking_documents/ blog outline and procedure diagram
 ```
 
 ## Scripts
